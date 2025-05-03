@@ -1,0 +1,30 @@
+generations:
+  - name: "First Generation"
+    start_year: 1990
+    end_year: 1994
+    description: "The original Ford Explorer was introduced as a replacement for the Bronco II, built on the Ranger pickup truck platform. Available as a two-door Sport model or four-door wagon, it featured traditional body-on-frame construction. Initially powered by a 4.0L V6 engine paired with manual or automatic transmissions and either rear-wheel or four-wheel drive. The interior was more family-friendly than previous Ford SUVs, helping to establish the Explorer as a practical alternative to minivans and station wagons. This generation played a pivotal role in popularizing the SUV concept for family transportation, despite controversy surrounding rollover incidents related to certain tire designs."
+
+  - name: "Second Generation"
+    start_year: 1995
+    end_year: 2001
+    description: "The redesigned Explorer maintained body-on-frame construction but with significant refinements to ride quality and interior comfort. Available in two or four-door configurations, it offered more car-like features while maintaining utility. Engine options expanded to include a 5.0L V8 alongside the standard 4.0L V6. The interior was more upscale with improved materials and available features like leather seating and premium audio. This generation solidified the Explorer's position as America's best-selling SUV, appealing to families seeking a combination of practicality, capability, and image. The four-door model was also sold as the Mercury Mountaineer with upscale styling and features."
+
+  - name: "Third Generation"
+    start_year: 2002
+    end_year: 2005
+    description: "The third-generation Explorer introduced independent rear suspension—a first for the mainstream SUV segment—improving both ride quality and interior packaging. The exterior design was more refined with a sleeker appearance, while still maintaining traditional SUV proportions. Engine options included a 4.0L V6 and a new 4.6L V8, both with improved power and efficiency. The interior quality took a significant step forward with better materials and design. Safety features expanded to include stability control and side curtain airbags. This generation represented the Explorer's peak market position before the rise of crossovers began to challenge traditional SUVs."
+
+  - name: "Fourth Generation"
+    start_year: 2006
+    end_year: 2010
+    description: "The fourth-generation Explorer maintained body-on-frame construction but with more refined styling and improved on-road performance. Power came from either a 4.0L V6 or a 4.6L V8, paired with a 5-speed or 6-speed automatic depending on the engine. The interior featured improved materials and available technology including navigation and rear-seat entertainment. Safety innovations included roll stability control and an available collision mitigation system. Despite these improvements, this generation faced increasing competition from car-based crossovers offering better fuel economy and handling, leading to declining sales toward the end of its production run."
+
+  - name: "Fifth Generation"
+    start_year: 2011
+    end_year: 2019
+    description: "The fifth-generation Explorer represented a paradigm shift, transitioning from traditional body-on-frame construction to unibody architecture based on Ford's D4 platform. This change resulted in significantly improved handling, ride quality, and interior space. Powertrain options evolved to focus on efficiency, including a naturally aspirated 3.5L V6, a 2.0L EcoBoost four-cylinder, and later a 3.5L EcoBoost V6 in Sport models. The interior offered three rows of seating with improved materials and technology, including the MyFord Touch infotainment system. Safety features expanded to include inflatable rear seatbelts and various driver assistance technologies. A significant refresh in 2016 updated the styling, improved interior materials, and introduced the SYNC 3 infotainment system. This generation successfully repositioned the Explorer as a modern crossover while maintaining its utility and capability."
+
+  - name: "Sixth Generation"
+    start_year: 2020
+    end_year: null
+    description: "The current Explorer features a return to rear-wheel drive architecture (with available all-wheel drive) on the CD6 platform shared with the Lincoln Aviator. The exterior design evolves the Explorer's traditional looks with more modern proportions enabled by the new platform. Engine options include a standard 2.3L EcoBoost four-cylinder, a 3.0L EcoBoost V6 in ST and Platinum models, and a hybrid powertrain combining a 3.3L V6 with an electric motor. The interior offers three rows of seating with available captain's chairs in the second row and features a portrait-oriented 10.1-inch touchscreen in higher trims. Technology includes SYNC 4, a digital instrument cluster, and Ford's Co-Pilot360 suite of driver assistance features. Special variants include the off-road oriented Timberline and the performance-focused ST. This generation aims to balance the Explorer's SUV heritage with modern technology, performance, and efficiency, maintaining its position as a cornerstone of Ford's SUV lineup."
