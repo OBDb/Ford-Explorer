@@ -1,0 +1,163 @@
+command_id: 7E0.220318
+can_id_format: ELEVEN_BIT
+extended_addressing_enabled: false
+test_cases:
+- response: '7E8056203180000'
+  expected_values:
+    FORD_[ECU] VCT intake actual: 0
+- response: '7E8056203180001'
+  expected_values:
+    FORD_[ECU] VCT intake actual: 0
+- response: '7E8056203180002'
+  expected_values:
+    FORD_[ECU] VCT intake actual: 0
+- response: '7E8056203180004'
+  expected_values:
+    FORD_[ECU] VCT intake actual: 0
+- response: '7E8056203180006'
+  expected_values:
+    FORD_[ECU] VCT intake actual: 0
+- response: 7E805620318FD9C
+  expected_values:
+    FORD_[ECU] VCT intake actual: 0
+- response: 7E805620318FD9F
+  expected_values:
+    FORD_[ECU] VCT intake actual: 0
+- response: 7E805620318FDA3
+  expected_values:
+    FORD_[ECU] VCT intake actual: 0
+- response: 7E805620318FDA4
+  expected_values:
+    FORD_[ECU] VCT intake actual: 0
+- response: 7E805620318FDA6
+  expected_values:
+    FORD_[ECU] VCT intake actual: 0
+- response: 7E805620318FDA7
+  expected_values:
+    FORD_[ECU] VCT intake actual: 0
+- response: 7E805620318FDA8
+  expected_values:
+    FORD_[ECU] VCT intake actual: 0
+- response: 7E805620318FDAA
+  expected_values:
+    FORD_[ECU] VCT intake actual: 0
+- response: 7E805620318FDAC
+  expected_values:
+    FORD_[ECU] VCT intake actual: 0
+- response: 7E805620318FDAF
+  expected_values:
+    FORD_[ECU] VCT intake actual: 0
+- response: 7E805620318FDB9
+  expected_values:
+    FORD_[ECU] VCT intake actual: 0
+- response: 7E805620318FDC7
+  expected_values:
+    FORD_[ECU] VCT intake actual: 0
+- response: 7E805620318FDC8
+  expected_values:
+    FORD_[ECU] VCT intake actual: 0
+- response: 7E805620318FDCE
+  expected_values:
+    FORD_[ECU] VCT intake actual: 0
+- response: 7E805620318FDE3
+  expected_values:
+    FORD_[ECU] VCT intake actual: 0
+- response: 7E805620318FDEE
+  expected_values:
+    FORD_[ECU] VCT intake actual: 0
+- response: 7E805620318FDF1
+  expected_values:
+    FORD_[ECU] VCT intake actual: 0
+- response: 7E805620318FDF2
+  expected_values:
+    FORD_[ECU] VCT intake actual: 0
+- response: 7E805620318FE01
+  expected_values:
+    FORD_[ECU] VCT intake actual: 0
+- response: 7E805620318FE0F
+  expected_values:
+    FORD_[ECU] VCT intake actual: 0
+- response: 7E805620318FE15
+  expected_values:
+    FORD_[ECU] VCT intake actual: 0
+- response: 7E805620318FE18
+  expected_values:
+    FORD_[ECU] VCT intake actual: 0
+- response: 7E805620318FE1B
+  expected_values:
+    FORD_[ECU] VCT intake actual: 0
+- response: 7E805620318FE1C
+  expected_values:
+    FORD_[ECU] VCT intake actual: 0
+- response: 7E805620318FE1E
+  expected_values:
+    FORD_[ECU] VCT intake actual: 0
+- response: 7E805620318FE1F
+  expected_values:
+    FORD_[ECU] VCT intake actual: 0
+- response: 7E805620318FE26
+  expected_values:
+    FORD_[ECU] VCT intake actual: 0
+- response: 7E805620318FE28
+  expected_values:
+    FORD_[ECU] VCT intake actual: 0
+- response: 7E805620318FE2E
+  expected_values:
+    FORD_[ECU] VCT intake actual: 0
+- response: 7E805620318FE30
+  expected_values:
+    FORD_[ECU] VCT intake actual: 0
+- response: 7E805620318FE33
+  expected_values:
+    FORD_[ECU] VCT intake actual: 0
+- response: 7E805620318FE53
+  expected_values:
+    FORD_[ECU] VCT intake actual: 0
+- response: 7E805620318FEA4
+  expected_values:
+    FORD_[ECU] VCT intake actual: 0
+- response: 7E805620318FEB4
+  expected_values:
+    FORD_[ECU] VCT intake actual: 0
+- response: 7E805620318FED3
+  expected_values:
+    FORD_[ECU] VCT intake actual: 0
+- response: 7E805620318FF20
+  expected_values:
+    FORD_[ECU] VCT intake actual: 0
+- response: 7E805620318FF3B
+  expected_values:
+    FORD_[ECU] VCT intake actual: 0
+- response: 7E805620318FF61
+  expected_values:
+    FORD_[ECU] VCT intake actual: 0
+- response: 7E805620318FF77
+  expected_values:
+    FORD_[ECU] VCT intake actual: 0
+- response: 7E805620318FFC3
+  expected_values:
+    FORD_[ECU] VCT intake actual: 0
+- response: 7E805620318FFDB
+  expected_values:
+    FORD_[ECU] VCT intake actual: 0
+- response: 7E805620318FFEB
+  expected_values:
+    FORD_[ECU] VCT intake actual: 0
+- response: 7E805620318FFF8
+  expected_values:
+    FORD_[ECU] VCT intake actual: 0
+- response: 7E805620318FFFB
+  expected_values:
+    FORD_[ECU] VCT intake actual: 0
+- response: 7E805620318FFFC
+  expected_values:
+    FORD_[ECU] VCT intake actual: 0
+- response: 7E805620318FFFD
+  expected_values:
+    FORD_[ECU] VCT intake actual: 0
+- response: 7E805620318FFFE
+  expected_values:
+    FORD_[ECU] VCT intake actual: 0
+- response: 7E805620318FFFF
+  expected_values:
+    FORD_[ECU] VCT intake actual: 0
