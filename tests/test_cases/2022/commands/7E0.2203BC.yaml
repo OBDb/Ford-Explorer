@@ -1,0 +1,92 @@
+command_id: 7E0.2203BC
+can_id_format: ELEVEN_BIT
+extended_addressing_enabled: false
+test_cases:
+- response: 7E8056203BC0000
+  expected_values:
+    FORD_VCT_INT_DES: 0
+    FORD_[ECU] VCT Int Des: 0
+- response: 7E8056203BCFD01
+  expected_values:
+    FORD_VCT_INT_DES: 0
+    FORD_[ECU] VCT Int Des: 0
+- response: 7E8056203BCFD41
+  expected_values:
+    FORD_VCT_INT_DES: 0
+    FORD_[ECU] VCT Int Des: 0
+- response: 7E8056203BCFE02
+  expected_values:
+    FORD_VCT_INT_DES: 0
+    FORD_[ECU] VCT Int Des: 0
+- response: 7E8056203BCFE32
+  expected_values:
+    FORD_VCT_INT_DES: 0
+    FORD_[ECU] VCT Int Des: 0
+- response: 7E8056203BCFE38
+  expected_values:
+    FORD_VCT_INT_DES: 0
+    FORD_[ECU] VCT Int Des: 0
+- response: 7E8056203BCFE54
+  expected_values:
+    FORD_VCT_INT_DES: 0
+    FORD_[ECU] VCT Int Des: 0
+- response: 7E8056203BCFE5F
+  expected_values:
+    FORD_VCT_INT_DES: 0
+    FORD_[ECU] VCT Int Des: 0
+- response: 7E8056203BCFE64
+  expected_values:
+    FORD_VCT_INT_DES: 0
+    FORD_[ECU] VCT Int Des: 0
+- response: 7E8056203BCFE70
+  expected_values:
+    FORD_VCT_INT_DES: 0
+    FORD_[ECU] VCT Int Des: 0
+- response: 7E8056203BCFE7F
+  expected_values:
+    FORD_VCT_INT_DES: 0
+    FORD_[ECU] VCT Int Des: 0
+- response: 7E8056203BCFE82
+  expected_values:
+    FORD_VCT_INT_DES: 0
+    FORD_[ECU] VCT Int Des: 0
+- response: 7E8056203BCFE87
+  expected_values:
+    FORD_VCT_INT_DES: 0
+    FORD_[ECU] VCT Int Des: 0
+- response: 7E8056203BCFEA0
+  expected_values:
+    FORD_VCT_INT_DES: 0
+    FORD_[ECU] VCT Int Des: 0
+- response: 7E8056203BCFEB3
+  expected_values:
+    FORD_VCT_INT_DES: 0
+    FORD_[ECU] VCT Int Des: 0
+- response: 7E8056203BCFEB7
+  expected_values:
+    FORD_VCT_INT_DES: 0
+    FORD_[ECU] VCT Int Des: 0
+- response: 7E8056203BCFEC8
+  expected_values:
+    FORD_VCT_INT_DES: 0
+    FORD_[ECU] VCT Int Des: 0
+- response: 7E8056203BCFF15
+  expected_values:
+    FORD_VCT_INT_DES: 0
+    FORD_[ECU] VCT Int Des: 0
+- response: 7E8056203BCFF1A
+  expected_values:
+    FORD_VCT_INT_DES: 0
+    FORD_[ECU] VCT Int Des: 0
+- response: 7E8056203BCFFEB
+  expected_values:
+    FORD_VCT_INT_DES: 0
+    FORD_[ECU] VCT Int Des: 0
+- response: 7E8056203BCFFEC
+  expected_values:
+    FORD_VCT_INT_DES: 0
+    FORD_[ECU] VCT Int Des: 0
+- response: 7E8056203BCFFF7
+  expected_values:
+    FORD_VCT_INT_DES: 0
+    FORD_[ECU] VCT Int Des: 0

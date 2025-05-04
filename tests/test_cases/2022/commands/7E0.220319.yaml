@@ -1,0 +1,128 @@
+command_id: 7E0.220319
+can_id_format: ELEVEN_BIT
+extended_addressing_enabled: false
+test_cases:
+- response: '7E8056203190000'
+  expected_values:
+    FORD_VCT_EXH_ACT: 0
+    FORD_[ECU] VCT exhaust actual: 0
+- response: '7E8056203190001'
+  expected_values:
+    FORD_VCT_EXH_ACT: 0.0625
+    FORD_[ECU] VCT exhaust actual: 0.0625
+- response: '7E8056203190002'
+  expected_values:
+    FORD_VCT_EXH_ACT: 0.125
+    FORD_[ECU] VCT exhaust actual: 0.125
+- response: '7E8056203190003'
+  expected_values:
+    FORD_VCT_EXH_ACT: 0.1875
+    FORD_[ECU] VCT exhaust actual: 0.1875
+- response: '7E8056203190004'
+  expected_values:
+    FORD_VCT_EXH_ACT: 0.25
+    FORD_[ECU] VCT exhaust actual: 0.25
+- response: 7E80562031900E9
+  expected_values:
+    FORD_VCT_EXH_ACT: 14.5625
+    FORD_[ECU] VCT exhaust actual: 14.5625
+- response: '7E8056203190137'
+  expected_values:
+    FORD_VCT_EXH_ACT: 19.4375
+    FORD_[ECU] VCT exhaust actual: 19.4375
+- response: 7E805620319013B
+  expected_values:
+    FORD_VCT_EXH_ACT: 19.6875
+    FORD_[ECU] VCT exhaust actual: 19.6875
+- response: 7E805620319013C
+  expected_values:
+    FORD_VCT_EXH_ACT: 19.75
+    FORD_[ECU] VCT exhaust actual: 19.75
+- response: 7E805620319013D
+  expected_values:
+    FORD_VCT_EXH_ACT: 19.8125
+    FORD_[ECU] VCT exhaust actual: 19.8125
+- response: 7E805620319013E
+  expected_values:
+    FORD_VCT_EXH_ACT: 19.875
+    FORD_[ECU] VCT exhaust actual: 19.875
+- response: 7E805620319013F
+  expected_values:
+    FORD_VCT_EXH_ACT: 19.9375
+    FORD_[ECU] VCT exhaust actual: 19.9375
+- response: '7E8056203190140'
+  expected_values:
+    FORD_VCT_EXH_ACT: 20
+    FORD_[ECU] VCT exhaust actual: 20
+- response: '7E8056203190142'
+  expected_values:
+    FORD_VCT_EXH_ACT: 20.125
+    FORD_[ECU] VCT exhaust actual: 20.125
+- response: '7E8056203190143'
+  expected_values:
+    FORD_VCT_EXH_ACT: 20.1875
+    FORD_[ECU] VCT exhaust actual: 20.1875
+- response: '7E8056203190145'
+  expected_values:
+    FORD_VCT_EXH_ACT: 20.3125
+    FORD_[ECU] VCT exhaust actual: 20.3125
+- response: '7E8056203190146'
+  expected_values:
+    FORD_VCT_EXH_ACT: 20.375
+    FORD_[ECU] VCT exhaust actual: 20.375
+- response: '7E8056203190148'
+  expected_values:
+    FORD_VCT_EXH_ACT: 20.5
+    FORD_[ECU] VCT exhaust actual: 20.5
+- response: 7E805620319014A
+  expected_values:
+    FORD_VCT_EXH_ACT: 20.625
+    FORD_[ECU] VCT exhaust actual: 20.625
+- response: 7E805620319014C
+  expected_values:
+    FORD_VCT_EXH_ACT: 20.75
+    FORD_[ECU] VCT exhaust actual: 20.75
+- response: '7E8056203190165'
+  expected_values:
+    FORD_VCT_EXH_ACT: 22.3125
+    FORD_[ECU] VCT exhaust actual: 22.3125
+- response: '7E8056203190173'
+  expected_values:
+    FORD_VCT_EXH_ACT: 23.1875
+    FORD_[ECU] VCT exhaust actual: 23.1875
+- response: 7E805620319018D
+  expected_values:
+    FORD_VCT_EXH_ACT: 24.8125
+    FORD_[ECU] VCT exhaust actual: 24.8125
+- response: '7E8056203190191'
+  expected_values:
+    FORD_VCT_EXH_ACT: 25.0625
+    FORD_[ECU] VCT exhaust actual: 25.0625
+- response: '7E8056203190192'
+  expected_values:
+    FORD_VCT_EXH_ACT: 25.125
+    FORD_[ECU] VCT exhaust actual: 25.125
+- response: 7E80562031901D3
+  expected_values:
+    FORD_VCT_EXH_ACT: 29.1875
+    FORD_[ECU] VCT exhaust actual: 29.1875
+- response: 7E805620319020C
+  expected_values:
+    FORD_VCT_EXH_ACT: 32.75
+    FORD_[ECU] VCT exhaust actual: 32.75
+- response: '7E8056203190250'
+  expected_values:
+    FORD_VCT_EXH_ACT: 37
+    FORD_[ECU] VCT exhaust actual: 37
+- response: '7E8056203190270'
+  expected_values:
+    FORD_VCT_EXH_ACT: 39
+    FORD_[ECU] VCT exhaust actual: 39
+- response: 7E805620319FFFB
+  expected_values:
+    FORD_VCT_EXH_ACT: 50
+    FORD_[ECU] VCT exhaust actual: 50
+- response: 7E805620319FFFE
+  expected_values:
+    FORD_VCT_EXH_ACT: 50
+    FORD_[ECU] VCT exhaust actual: 50

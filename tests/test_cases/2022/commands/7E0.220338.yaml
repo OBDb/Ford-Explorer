@@ -1,0 +1,64 @@
+command_id: 7E0.220338
+can_id_format: ELEVEN_BIT
+extended_addressing_enabled: false
+test_cases:
+- response: 7E80562033800BD
+  expected_values:
+    FORD_ETC_TRIM_LEARNED: 0.36914
+    FORD_[ECU] ETC learned trim: 0.36914
+- response: 7E80562033800CD
+  expected_values:
+    FORD_ETC_TRIM_LEARNED: 0.40039
+    FORD_[ECU] ETC learned trim: 0.40039
+- response: '7E8056203380123'
+  expected_values:
+    FORD_ETC_TRIM_LEARNED: 0.56836
+    FORD_[ECU] ETC learned trim: 0.56836
+- response: '7E8056203380127'
+  expected_values:
+    FORD_ETC_TRIM_LEARNED: 0.57617
+    FORD_[ECU] ETC learned trim: 0.57617
+- response: 7E805620338012E
+  expected_values:
+    FORD_ETC_TRIM_LEARNED: 0.58984
+    FORD_[ECU] ETC learned trim: 0.58984
+- response: '7E8056203380178'
+  expected_values:
+    FORD_ETC_TRIM_LEARNED: 0.73438
+    FORD_[ECU] ETC learned trim: 0.73438
+- response: 7E805620338017E
+  expected_values:
+    FORD_ETC_TRIM_LEARNED: 0.74609
+    FORD_[ECU] ETC learned trim: 0.74609
+- response: '7E8056203380198'
+  expected_values:
+    FORD_ETC_TRIM_LEARNED: 0.79688
+    FORD_[ECU] ETC learned trim: 0.79688
+- response: 7E805620338019A
+  expected_values:
+    FORD_ETC_TRIM_LEARNED: 0.80078
+    FORD_[ECU] ETC learned trim: 0.80078
+- response: 7E80562033801A1
+  expected_values:
+    FORD_ETC_TRIM_LEARNED: 0.81445
+    FORD_[ECU] ETC learned trim: 0.81445
+- response: 7E80562033801AB
+  expected_values:
+    FORD_ETC_TRIM_LEARNED: 0.83398
+    FORD_[ECU] ETC learned trim: 0.83398
+- response: 7E80562033801AD
+  expected_values:
+    FORD_ETC_TRIM_LEARNED: 0.83789
+    FORD_[ECU] ETC learned trim: 0.83789
+- response: 7E80562033801B1
+  expected_values:
+    FORD_ETC_TRIM_LEARNED: 0.8457
+    FORD_[ECU] ETC learned trim: 0.8457
+- response: 7E80562033801B2
+  expected_values:
+    FORD_ETC_TRIM_LEARNED: 0.84766
+    FORD_[ECU] ETC learned trim: 0.84766
+- response: 7E80562033801BB
+  expected_values:
+    FORD_ETC_TRIM_LEARNED: 0.86523
+    FORD_[ECU] ETC learned trim: 0.86523

@@ -1,0 +1,91 @@
+command_id: 7E0.7E8.22DD01
+can_id_format: ELEVEN_BIT
+extended_addressing_enabled: false
+test_cases:
+- response: 7E80662DD01015DC5
+  expected_values:
+    FORD_ODO: 89541
+- response: 7E80662DD01015DC7
+  expected_values:
+    FORD_ODO: 89543
+- response: 7E80662DD01016EA0
+  expected_values:
+    FORD_ODO: 93856
+- response: 7E80662DD01016EA1
+  expected_values:
+    FORD_ODO: 93857
+- response: 7E80662DD01016EA3
+  expected_values:
+    FORD_ODO: 93859
+- response: 7E80662DD01016EA4
+  expected_values:
+    FORD_ODO: 93860
+- response: 7E80662DD01016EA5
+  expected_values:
+    FORD_ODO: 93861
+- response: 7E80662DD01016EA6
+  expected_values:
+    FORD_ODO: 93862
+- response: 7E80662DD01016EAC
+  expected_values:
+    FORD_ODO: 93868
+- response: 7E80662DD01016ECC
+  expected_values:
+    FORD_ODO: 93900
+- response: 7E80662DD01016ECD
+  expected_values:
+    FORD_ODO: 93901
+- response: 7E80662DD01016EF9
+  expected_values:
+    FORD_ODO: 93945
+- response: 7E80662DD01016EFA
+  expected_values:
+    FORD_ODO: 93946
+- response: 7E80662DD01016F60
+  expected_values:
+    FORD_ODO: 94048
+- response: 7E80662DD01016F61
+  expected_values:
+    FORD_ODO: 94049
+- response: 7E80662DD01016F62
+  expected_values:
+    FORD_ODO: 94050
+- response: 7E80662DD01016F63
+  expected_values:
+    FORD_ODO: 94051
+- response: 7E80662DD01016F64
+  expected_values:
+    FORD_ODO: 94052
+- response: 7E80662DD01016F65
+  expected_values:
+    FORD_ODO: 94053
+- response: 7E80662DD01016F67
+  expected_values:
+    FORD_ODO: 94055
+- response: 7E80662DD01016F68
+  expected_values:
+    FORD_ODO: 94056
+- response: 7E80662DD01016F69
+  expected_values:
+    FORD_ODO: 94057
+- response: 7E80662DD01016F8C
+  expected_values:
+    FORD_ODO: 94092
+- response: 7E80662DD01016F8D
+  expected_values:
+    FORD_ODO: 94093
+- response: 7E80662DD01016F8E
+  expected_values:
+    FORD_ODO: 94094
+- response: 7E80662DD01016F8F
+  expected_values:
+    FORD_ODO: 94095
+- response: 7E80662DD01016FAF
+  expected_values:
+    FORD_ODO: 94127
+- response: 7E80662DD01016FB0
+  expected_values:
+    FORD_ODO: 94128
+- response: 7E80662DD01016FB1
+  expected_values:
+    FORD_ODO: 94129

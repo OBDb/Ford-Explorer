@@ -1,0 +1,256 @@
+command_id: 7E0.220301
+can_id_format: ELEVEN_BIT
+extended_addressing_enabled: false
+test_cases:
+- response: 7E805620301017A
+  expected_values:
+    FORD_MAP_V: 0.36914
+    FORD_[ECU] MAP voltage: 0.36914
+- response: '7E8056203010187'
+  expected_values:
+    FORD_MAP_V: 0.38184
+    FORD_[ECU] MAP voltage: 0.38184
+- response: 7E805620301019D
+  expected_values:
+    FORD_MAP_V: 0.40332
+    FORD_[ECU] MAP voltage: 0.40332
+- response: 7E80562030101C5
+  expected_values:
+    FORD_MAP_V: 0.44238
+    FORD_[ECU] MAP voltage: 0.44238
+- response: 7E80562030101EA
+  expected_values:
+    FORD_MAP_V: 0.47852
+    FORD_[ECU] MAP voltage: 0.47852
+- response: '7E8056203010209'
+  expected_values:
+    FORD_MAP_V: 0.50879
+    FORD_[ECU] MAP voltage: 0.50879
+- response: 7E805620301020A
+  expected_values:
+    FORD_MAP_V: 0.50977
+    FORD_[ECU] MAP voltage: 0.50977
+- response: '7E8056203010218'
+  expected_values:
+    FORD_MAP_V: 0.52344
+    FORD_[ECU] MAP voltage: 0.52344
+- response: 7E805620301021E
+  expected_values:
+    FORD_MAP_V: 0.5293
+    FORD_[ECU] MAP voltage: 0.5293
+- response: '7E8056203010244'
+  expected_values:
+    FORD_MAP_V: 0.56641
+    FORD_[ECU] MAP voltage: 0.56641
+- response: 7E805620301024E
+  expected_values:
+    FORD_MAP_V: 0.57617
+    FORD_[ECU] MAP voltage: 0.57617
+- response: '7E8056203010250'
+  expected_values:
+    FORD_MAP_V: 0.57812
+    FORD_[ECU] MAP voltage: 0.57812
+- response: 7E805620301025E
+  expected_values:
+    FORD_MAP_V: 0.5918
+    FORD_[ECU] MAP voltage: 0.5918
+- response: '7E8056203010268'
+  expected_values:
+    FORD_MAP_V: 0.60156
+    FORD_[ECU] MAP voltage: 0.60156
+- response: 7E805620301026D
+  expected_values:
+    FORD_MAP_V: 0.60645
+    FORD_[ECU] MAP voltage: 0.60645
+- response: 7E805620301027D
+  expected_values:
+    FORD_MAP_V: 0.62207
+    FORD_[ECU] MAP voltage: 0.62207
+- response: 7E805620301028D
+  expected_values:
+    FORD_MAP_V: 0.6377
+    FORD_[ECU] MAP voltage: 0.6377
+- response: 7E80562030102B3
+  expected_values:
+    FORD_MAP_V: 0.6748
+    FORD_[ECU] MAP voltage: 0.6748
+- response: 7E80562030102BF
+  expected_values:
+    FORD_MAP_V: 0.68652
+    FORD_[ECU] MAP voltage: 0.68652
+- response: 7E80562030102E4
+  expected_values:
+    FORD_MAP_V: 0.72266
+    FORD_[ECU] MAP voltage: 0.72266
+- response: 7E80562030102EC
+  expected_values:
+    FORD_MAP_V: 0.73047
+    FORD_[ECU] MAP voltage: 0.73047
+- response: 7E80562030102FA
+  expected_values:
+    FORD_MAP_V: 0.74414
+    FORD_[ECU] MAP voltage: 0.74414
+- response: 7E80562030102FB
+  expected_values:
+    FORD_MAP_V: 0.74512
+    FORD_[ECU] MAP voltage: 0.74512
+- response: '7E8056203010318'
+  expected_values:
+    FORD_MAP_V: 0.77344
+    FORD_[ECU] MAP voltage: 0.77344
+- response: '7E8056203010320'
+  expected_values:
+    FORD_MAP_V: 0.78125
+    FORD_[ECU] MAP voltage: 0.78125
+- response: '7E8056203010321'
+  expected_values:
+    FORD_MAP_V: 0.78223
+    FORD_[ECU] MAP voltage: 0.78223
+- response: '7E8056203010322'
+  expected_values:
+    FORD_MAP_V: 0.7832
+    FORD_[ECU] MAP voltage: 0.7832
+- response: '7E8056203010331'
+  expected_values:
+    FORD_MAP_V: 0.79785
+    FORD_[ECU] MAP voltage: 0.79785
+- response: '7E8056203010340'
+  expected_values:
+    FORD_MAP_V: 0.8125
+    FORD_[ECU] MAP voltage: 0.8125
+- response: '7E8056203010352'
+  expected_values:
+    FORD_MAP_V: 0.83008
+    FORD_[ECU] MAP voltage: 0.83008
+- response: '7E8056203010364'
+  expected_values:
+    FORD_MAP_V: 0.84766
+    FORD_[ECU] MAP voltage: 0.84766
+- response: '7E8056203010372'
+  expected_values:
+    FORD_MAP_V: 0.86133
+    FORD_[ECU] MAP voltage: 0.86133
+- response: '7E8056203010394'
+  expected_values:
+    FORD_MAP_V: 0.89453
+    FORD_[ECU] MAP voltage: 0.89453
+- response: 7E80562030103A2
+  expected_values:
+    FORD_MAP_V: 0.9082
+    FORD_[ECU] MAP voltage: 0.9082
+- response: 7E80562030103DF
+  expected_values:
+    FORD_MAP_V: 0.96777
+    FORD_[ECU] MAP voltage: 0.96777
+- response: 7E80562030103F4
+  expected_values:
+    FORD_MAP_V: 0.98828
+    FORD_[ECU] MAP voltage: 0.98828
+- response: 7E80562030103F7
+  expected_values:
+    FORD_MAP_V: 0.99121
+    FORD_[ECU] MAP voltage: 0.99121
+- response: 7E805620301042B
+  expected_values:
+    FORD_MAP_V: 1.04199
+    FORD_[ECU] MAP voltage: 1.04199
+- response: '7E8056203010494'
+  expected_values:
+    FORD_MAP_V: 1.14453
+    FORD_[ECU] MAP voltage: 1.14453
+- response: 7E80562030104E9
+  expected_values:
+    FORD_MAP_V: 1.22754
+    FORD_[ECU] MAP voltage: 1.22754
+- response: 7E80562030104FB
+  expected_values:
+    FORD_MAP_V: 1.24512
+    FORD_[ECU] MAP voltage: 1.24512
+- response: 7E80562030105D0
+  expected_values:
+    FORD_MAP_V: 1.45312
+    FORD_[ECU] MAP voltage: 1.45312
+- response: 7E80562030105D4
+  expected_values:
+    FORD_MAP_V: 1.45703
+    FORD_[ECU] MAP voltage: 1.45703
+- response: 7E80562030105D7
+  expected_values:
+    FORD_MAP_V: 1.45996
+    FORD_[ECU] MAP voltage: 1.45996
+- response: 7E80562030105E6
+  expected_values:
+    FORD_MAP_V: 1.47461
+    FORD_[ECU] MAP voltage: 1.47461
+- response: 7E80562030105E7
+  expected_values:
+    FORD_MAP_V: 1.47559
+    FORD_[ECU] MAP voltage: 1.47559
+- response: 7E80562030105EE
+  expected_values:
+    FORD_MAP_V: 1.48242
+    FORD_[ECU] MAP voltage: 1.48242
+- response: 7E805620301061E
+  expected_values:
+    FORD_MAP_V: 1.5293
+    FORD_[ECU] MAP voltage: 1.5293
+- response: '7E8056203010628'
+  expected_values:
+    FORD_MAP_V: 1.53906
+    FORD_[ECU] MAP voltage: 1.53906
+- response: '7E8056203010688'
+  expected_values:
+    FORD_MAP_V: 1.63281
+    FORD_[ECU] MAP voltage: 1.63281
+- response: '7E8056203010690'
+  expected_values:
+    FORD_MAP_V: 1.64062
+    FORD_[ECU] MAP voltage: 1.64062
+- response: 7E805620301069D
+  expected_values:
+    FORD_MAP_V: 1.65332
+    FORD_[ECU] MAP voltage: 1.65332
+- response: 7E80562030106A5
+  expected_values:
+    FORD_MAP_V: 1.66113
+    FORD_[ECU] MAP voltage: 1.66113
+- response: 7E80562030106A6
+  expected_values:
+    FORD_MAP_V: 1.66211
+    FORD_[ECU] MAP voltage: 1.66211
+- response: 7E80562030106A9
+  expected_values:
+    FORD_MAP_V: 1.66504
+    FORD_[ECU] MAP voltage: 1.66504
+- response: 7E80562030106D7
+  expected_values:
+    FORD_MAP_V: 1.70996
+    FORD_[ECU] MAP voltage: 1.70996
+- response: '7E8056203010729'
+  expected_values:
+    FORD_MAP_V: 1.79004
+    FORD_[ECU] MAP voltage: 1.79004
+- response: 7E805620301080C
+  expected_values:
+    FORD_MAP_V: 2.01172
+    FORD_[ECU] MAP voltage: 2.01172
+- response: 7E805620301084B
+  expected_values:
+    FORD_MAP_V: 2.07324
+    FORD_[ECU] MAP voltage: 2.07324
+- response: 7E805620301089F
+  expected_values:
+    FORD_MAP_V: 2.15527
+    FORD_[ECU] MAP voltage: 2.15527
+- response: 7E805620301092C
+  expected_values:
+    FORD_MAP_V: 2.29297
+    FORD_[ECU] MAP voltage: 2.29297
+- response: '7E8056203010951'
+  expected_values:
+    FORD_MAP_V: 2.3291
+    FORD_[ECU] MAP voltage: 2.3291
+- response: 7E8056203010C9F
+  expected_values:
+    FORD_MAP_V: 3.15527
+    FORD_[ECU] MAP voltage: 3.15527

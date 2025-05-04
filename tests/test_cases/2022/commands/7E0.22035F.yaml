@@ -1,0 +1,248 @@
+command_id: 7E0.22035F
+can_id_format: ELEVEN_BIT
+extended_addressing_enabled: false
+test_cases:
+- response: 7E80562035F0070
+  expected_values:
+    FORD_RO2_V: 0.10938
+    FORD_[ECU] Rear O2 V: 0.10938
+- response: 7E80562035F0074
+  expected_values:
+    FORD_RO2_V: 0.11328
+    FORD_[ECU] Rear O2 V: 0.11328
+- response: 7E80562035F0078
+  expected_values:
+    FORD_RO2_V: 0.11719
+    FORD_[ECU] Rear O2 V: 0.11719
+- response: 7E80562035F007F
+  expected_values:
+    FORD_RO2_V: 0.12402
+    FORD_[ECU] Rear O2 V: 0.12402
+- response: 7E80562035F008A
+  expected_values:
+    FORD_RO2_V: 0.13477
+    FORD_[ECU] Rear O2 V: 0.13477
+- response: 7E80562035F00ED
+  expected_values:
+    FORD_RO2_V: 0.23145
+    FORD_[ECU] Rear O2 V: 0.23145
+- response: 7E80562035F00F5
+  expected_values:
+    FORD_RO2_V: 0.23926
+    FORD_[ECU] Rear O2 V: 0.23926
+- response: 7E80562035F00F7
+  expected_values:
+    FORD_RO2_V: 0.24121
+    FORD_[ECU] Rear O2 V: 0.24121
+- response: 7E80562035F0107
+  expected_values:
+    FORD_RO2_V: 0.25684
+    FORD_[ECU] Rear O2 V: 0.25684
+- response: 7E80562035F011F
+  expected_values:
+    FORD_RO2_V: 0.28027
+    FORD_[ECU] Rear O2 V: 0.28027
+- response: 7E80562035F028F
+  expected_values:
+    FORD_RO2_V: 0.63965
+    FORD_[ECU] Rear O2 V: 0.63965
+- response: 7E80562035F0294
+  expected_values:
+    FORD_RO2_V: 0.64453
+    FORD_[ECU] Rear O2 V: 0.64453
+- response: 7E80562035F02A4
+  expected_values:
+    FORD_RO2_V: 0.66016
+    FORD_[ECU] Rear O2 V: 0.66016
+- response: 7E80562035F02B8
+  expected_values:
+    FORD_RO2_V: 0.67969
+    FORD_[ECU] Rear O2 V: 0.67969
+- response: 7E80562035F02BC
+  expected_values:
+    FORD_RO2_V: 0.68359
+    FORD_[ECU] Rear O2 V: 0.68359
+- response: 7E80562035F02C4
+  expected_values:
+    FORD_RO2_V: 0.69141
+    FORD_[ECU] Rear O2 V: 0.69141
+- response: 7E80562035F02C6
+  expected_values:
+    FORD_RO2_V: 0.69336
+    FORD_[ECU] Rear O2 V: 0.69336
+- response: 7E80562035F02CB
+  expected_values:
+    FORD_RO2_V: 0.69824
+    FORD_[ECU] Rear O2 V: 0.69824
+- response: 7E80562035F02CD
+  expected_values:
+    FORD_RO2_V: 0.7002
+    FORD_[ECU] Rear O2 V: 0.7002
+- response: 7E80562035F02CE
+  expected_values:
+    FORD_RO2_V: 0.70117
+    FORD_[ECU] Rear O2 V: 0.70117
+- response: 7E80562035F02D2
+  expected_values:
+    FORD_RO2_V: 0.70508
+    FORD_[ECU] Rear O2 V: 0.70508
+- response: 7E80562035F02DA
+  expected_values:
+    FORD_RO2_V: 0.71289
+    FORD_[ECU] Rear O2 V: 0.71289
+- response: 7E80562035F02DD
+  expected_values:
+    FORD_RO2_V: 0.71582
+    FORD_[ECU] Rear O2 V: 0.71582
+- response: 7E80562035F02E4
+  expected_values:
+    FORD_RO2_V: 0.72266
+    FORD_[ECU] Rear O2 V: 0.72266
+- response: 7E80562035F02E5
+  expected_values:
+    FORD_RO2_V: 0.72363
+    FORD_[ECU] Rear O2 V: 0.72363
+- response: 7E80562035F02E6
+  expected_values:
+    FORD_RO2_V: 0.72461
+    FORD_[ECU] Rear O2 V: 0.72461
+- response: 7E80562035F02E9
+  expected_values:
+    FORD_RO2_V: 0.72754
+    FORD_[ECU] Rear O2 V: 0.72754
+- response: 7E80562035F02EE
+  expected_values:
+    FORD_RO2_V: 0.73242
+    FORD_[ECU] Rear O2 V: 0.73242
+- response: 7E80562035F02F3
+  expected_values:
+    FORD_RO2_V: 0.7373
+    FORD_[ECU] Rear O2 V: 0.7373
+- response: 7E80562035F02F6
+  expected_values:
+    FORD_RO2_V: 0.74023
+    FORD_[ECU] Rear O2 V: 0.74023
+- response: 7E80562035F02F8
+  expected_values:
+    FORD_RO2_V: 0.74219
+    FORD_[ECU] Rear O2 V: 0.74219
+- response: 7E80562035F02FF
+  expected_values:
+    FORD_RO2_V: 0.74902
+    FORD_[ECU] Rear O2 V: 0.74902
+- response: 7E80562035F0300
+  expected_values:
+    FORD_RO2_V: 0.75
+    FORD_[ECU] Rear O2 V: 0.75
+- response: 7E80562035F0302
+  expected_values:
+    FORD_RO2_V: 0.75195
+    FORD_[ECU] Rear O2 V: 0.75195
+- response: 7E80562035F0304
+  expected_values:
+    FORD_RO2_V: 0.75391
+    FORD_[ECU] Rear O2 V: 0.75391
+- response: 7E80562035F0305
+  expected_values:
+    FORD_RO2_V: 0.75488
+    FORD_[ECU] Rear O2 V: 0.75488
+- response: 7E80562035F0307
+  expected_values:
+    FORD_RO2_V: 0.75684
+    FORD_[ECU] Rear O2 V: 0.75684
+- response: 7E80562035F0309
+  expected_values:
+    FORD_RO2_V: 0.75879
+    FORD_[ECU] Rear O2 V: 0.75879
+- response: 7E80562035F030F
+  expected_values:
+    FORD_RO2_V: 0.76465
+    FORD_[ECU] Rear O2 V: 0.76465
+- response: 7E80562035F031B
+  expected_values:
+    FORD_RO2_V: 0.77637
+    FORD_[ECU] Rear O2 V: 0.77637
+- response: 7E80562035F031E
+  expected_values:
+    FORD_RO2_V: 0.7793
+    FORD_[ECU] Rear O2 V: 0.7793
+- response: 7E80562035F0320
+  expected_values:
+    FORD_RO2_V: 0.78125
+    FORD_[ECU] Rear O2 V: 0.78125
+- response: 7E80562035F0321
+  expected_values:
+    FORD_RO2_V: 0.78223
+    FORD_[ECU] Rear O2 V: 0.78223
+- response: 7E80562035F0327
+  expected_values:
+    FORD_RO2_V: 0.78809
+    FORD_[ECU] Rear O2 V: 0.78809
+- response: 7E80562035F0328
+  expected_values:
+    FORD_RO2_V: 0.78906
+    FORD_[ECU] Rear O2 V: 0.78906
+- response: 7E80562035F0330
+  expected_values:
+    FORD_RO2_V: 0.79688
+    FORD_[ECU] Rear O2 V: 0.79688
+- response: 7E80562035F0337
+  expected_values:
+    FORD_RO2_V: 0.80371
+    FORD_[ECU] Rear O2 V: 0.80371
+- response: 7E80562035F033F
+  expected_values:
+    FORD_RO2_V: 0.81152
+    FORD_[ECU] Rear O2 V: 0.81152
+- response: 7E80562035F0345
+  expected_values:
+    FORD_RO2_V: 0.81738
+    FORD_[ECU] Rear O2 V: 0.81738
+- response: 7E80562035F0348
+  expected_values:
+    FORD_RO2_V: 0.82031
+    FORD_[ECU] Rear O2 V: 0.82031
+- response: 7E80562035F0349
+  expected_values:
+    FORD_RO2_V: 0.82129
+    FORD_[ECU] Rear O2 V: 0.82129
+- response: 7E80562035F034D
+  expected_values:
+    FORD_RO2_V: 0.8252
+    FORD_[ECU] Rear O2 V: 0.8252
+- response: 7E80562035F034E
+  expected_values:
+    FORD_RO2_V: 0.82617
+    FORD_[ECU] Rear O2 V: 0.82617
+- response: 7E80562035F035D
+  expected_values:
+    FORD_RO2_V: 0.84082
+    FORD_[ECU] Rear O2 V: 0.84082
+- response: 7E80562035F0362
+  expected_values:
+    FORD_RO2_V: 0.8457
+    FORD_[ECU] Rear O2 V: 0.8457
+- response: 7E80562035F037D
+  expected_values:
+    FORD_RO2_V: 0.87207
+    FORD_[ECU] Rear O2 V: 0.87207
+- response: 7E80562035F0394
+  expected_values:
+    FORD_RO2_V: 0.89453
+    FORD_[ECU] Rear O2 V: 0.89453
+- response: 7E80562035F0395
+  expected_values:
+    FORD_RO2_V: 0.89551
+    FORD_[ECU] Rear O2 V: 0.89551
+- response: 7E80562035F03BE
+  expected_values:
+    FORD_RO2_V: 0.93555
+    FORD_[ECU] Rear O2 V: 0.93555
+- response: 7E80562035F03F7
+  expected_values:
+    FORD_RO2_V: 0.99121
+    FORD_[ECU] Rear O2 V: 0.99121
+- response: 7E80562035F03FA
+  expected_values:
+    FORD_RO2_V: 0.99414
+    FORD_[ECU] Rear O2 V: 0.99414
