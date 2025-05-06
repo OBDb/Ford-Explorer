@@ -22,6 +22,18 @@ test_cases:
   expected_values:
     FORD_VCT_INT_ERR: 0.3125
     FORD_[ECU] VCT intake error: 0.3125
+- response: 7E80562031A0007
+  expected_values:
+    FORD_VCT_INT_ERR: 0.4375
+    FORD_[ECU] VCT intake error: 0.4375
+- response: 7E80562031A0008
+  expected_values:
+    FORD_VCT_INT_ERR: 0.5
+    FORD_[ECU] VCT intake error: 0.5
+- response: 7E80562031A0009
+  expected_values:
+    FORD_VCT_INT_ERR: 0.5625
+    FORD_[ECU] VCT intake error: 0.5625
 - response: 7E80562031A000B
   expected_values:
     FORD_VCT_INT_ERR: 0.6875
@@ -30,23 +42,55 @@ test_cases:
   expected_values:
     FORD_VCT_INT_ERR: 0.8125
     FORD_[ECU] VCT intake error: 0.8125
+- response: 7E80562031A000E
+  expected_values:
+    FORD_VCT_INT_ERR: 0.875
+    FORD_[ECU] VCT intake error: 0.875
+- response: 7E80562031A000F
+  expected_values:
+    FORD_VCT_INT_ERR: 0.9375
+    FORD_[ECU] VCT intake error: 0.9375
 - response: 7E80562031A0017
   expected_values:
     FORD_VCT_INT_ERR: 1.4375
     FORD_[ECU] VCT intake error: 1.4375
+- response: 7E80562031A001A
+  expected_values:
+    FORD_VCT_INT_ERR: 1.625
+    FORD_[ECU] VCT intake error: 1.625
 - response: 7E80562031A0020
   expected_values:
     FORD_VCT_INT_ERR: 2
     FORD_[ECU] VCT intake error: 2
+- response: 7E80562031A0035
+  expected_values:
+    FORD_VCT_INT_ERR: 3.3125
+    FORD_[ECU] VCT intake error: 3.3125
 - response: 7E80562031A003F
   expected_values:
     FORD_VCT_INT_ERR: 3.9375
     FORD_[ECU] VCT intake error: 3.9375
+- response: 7E80562031AFFD0
+  expected_values:
+    FORD_VCT_INT_ERR: 50
+    FORD_[ECU] VCT intake error: 50
+- response: 7E80562031AFFE2
+  expected_values:
+    FORD_VCT_INT_ERR: 50
+    FORD_[ECU] VCT intake error: 50
+- response: 7E80562031AFFF1
+  expected_values:
+    FORD_VCT_INT_ERR: 50
+    FORD_[ECU] VCT intake error: 50
 - response: 7E80562031AFFF2
   expected_values:
     FORD_VCT_INT_ERR: 50
     FORD_[ECU] VCT intake error: 50
 - response: 7E80562031AFFF5
+  expected_values:
+    FORD_VCT_INT_ERR: 50
+    FORD_[ECU] VCT intake error: 50
+- response: 7E80562031AFFF7
   expected_values:
     FORD_VCT_INT_ERR: 50
     FORD_[ECU] VCT intake error: 50

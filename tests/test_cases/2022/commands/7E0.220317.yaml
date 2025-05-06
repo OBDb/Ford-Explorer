@@ -6,10 +6,50 @@ test_cases:
   expected_values:
     FORD_VCT_EXH_DUTY: 0
     FORD_[ECU] VCT exhaust duty cycle: 0
+- response: 7E8056203172F19
+  expected_values:
+    FORD_VCT_EXH_DUTY: 36.79504
+    FORD_[ECU] VCT exhaust duty cycle: 36.79504
+- response: 7E805620317316A
+  expected_values:
+    FORD_VCT_EXH_DUTY: 38.60474
+    FORD_[ECU] VCT exhaust duty cycle: 38.60474
+- response: 7E80562031731A3
+  expected_values:
+    FORD_VCT_EXH_DUTY: 38.77869
+    FORD_[ECU] VCT exhaust duty cycle: 38.77869
+- response: 7E80562031731C6
+  expected_values:
+    FORD_VCT_EXH_DUTY: 38.8855
+    FORD_[ECU] VCT exhaust duty cycle: 38.8855
+- response: 7E805620317321F
+  expected_values:
+    FORD_VCT_EXH_DUTY: 39.1571
+    FORD_[ECU] VCT exhaust duty cycle: 39.1571
 - response: '7E8056203173225'
   expected_values:
     FORD_VCT_EXH_DUTY: 39.17541
     FORD_[ECU] VCT exhaust duty cycle: 39.17541
+- response: '7E8056203173275'
+  expected_values:
+    FORD_VCT_EXH_DUTY: 39.41956
+    FORD_[ECU] VCT exhaust duty cycle: 39.41956
+- response: '7E8056203173276'
+  expected_values:
+    FORD_VCT_EXH_DUTY: 39.42261
+    FORD_[ECU] VCT exhaust duty cycle: 39.42261
+- response: 7E80562031732D0
+  expected_values:
+    FORD_VCT_EXH_DUTY: 39.69727
+    FORD_[ECU] VCT exhaust duty cycle: 39.69727
+- response: '7E8056203173324'
+  expected_values:
+    FORD_VCT_EXH_DUTY: 39.95361
+    FORD_[ECU] VCT exhaust duty cycle: 39.95361
+- response: '7E8056203173349'
+  expected_values:
+    FORD_VCT_EXH_DUTY: 40.06653
+    FORD_[ECU] VCT exhaust duty cycle: 40.06653
 - response: '7E8056203173372'
   expected_values:
     FORD_VCT_EXH_DUTY: 40.19165
@@ -18,10 +58,38 @@ test_cases:
   expected_values:
     FORD_VCT_EXH_DUTY: 40.1947
     FORD_[ECU] VCT exhaust duty cycle: 40.1947
+- response: '7E8056203173390'
+  expected_values:
+    FORD_VCT_EXH_DUTY: 40.2832
+    FORD_[ECU] VCT exhaust duty cycle: 40.2832
+- response: 7E80562031733F5
+  expected_values:
+    FORD_VCT_EXH_DUTY: 40.59143
+    FORD_[ECU] VCT exhaust duty cycle: 40.59143
 - response: 7E805620317340C
   expected_values:
     FORD_VCT_EXH_DUTY: 40.66162
     FORD_[ECU] VCT exhaust duty cycle: 40.66162
+- response: 7E805620317340E
+  expected_values:
+    FORD_VCT_EXH_DUTY: 40.66772
+    FORD_[ECU] VCT exhaust duty cycle: 40.66772
+- response: '7E8056203173421'
+  expected_values:
+    FORD_VCT_EXH_DUTY: 40.72571
+    FORD_[ECU] VCT exhaust duty cycle: 40.72571
+- response: '7E8056203173434'
+  expected_values:
+    FORD_VCT_EXH_DUTY: 40.78369
+    FORD_[ECU] VCT exhaust duty cycle: 40.78369
+- response: '7E8056203173438'
+  expected_values:
+    FORD_VCT_EXH_DUTY: 40.7959
+    FORD_[ECU] VCT exhaust duty cycle: 40.7959
+- response: 7E805620317344D
+  expected_values:
+    FORD_VCT_EXH_DUTY: 40.85999
+    FORD_[ECU] VCT exhaust duty cycle: 40.85999
 - response: 7E805620317346B
   expected_values:
     FORD_VCT_EXH_DUTY: 40.95154
@@ -30,10 +98,26 @@ test_cases:
   expected_values:
     FORD_VCT_EXH_DUTY: 40.96374
     FORD_[ECU] VCT exhaust duty cycle: 40.96374
+- response: 7E80562031734AC
+  expected_values:
+    FORD_VCT_EXH_DUTY: 41.1499
+    FORD_[ECU] VCT exhaust duty cycle: 41.1499
+- response: 7E80562031734B2
+  expected_values:
+    FORD_VCT_EXH_DUTY: 41.16821
+    FORD_[ECU] VCT exhaust duty cycle: 41.16821
+- response: 7E80562031734CA
+  expected_values:
+    FORD_VCT_EXH_DUTY: 41.24145
+    FORD_[ECU] VCT exhaust duty cycle: 41.24145
 - response: 7E80562031734F7
   expected_values:
     FORD_VCT_EXH_DUTY: 41.37878
     FORD_[ECU] VCT exhaust duty cycle: 41.37878
+- response: 7E805620317351E
+  expected_values:
+    FORD_VCT_EXH_DUTY: 41.4978
+    FORD_[ECU] VCT exhaust duty cycle: 41.4978
 - response: '7E8056203173524'
   expected_values:
     FORD_VCT_EXH_DUTY: 41.51611
@@ -50,6 +134,14 @@ test_cases:
   expected_values:
     FORD_VCT_EXH_DUTY: 41.63818
     FORD_[ECU] VCT exhaust duty cycle: 41.63818
+- response: '7E8056203173563'
+  expected_values:
+    FORD_VCT_EXH_DUTY: 41.70837
+    FORD_[ECU] VCT exhaust duty cycle: 41.70837
+- response: 7E805620317356C
+  expected_values:
+    FORD_VCT_EXH_DUTY: 41.73584
+    FORD_[ECU] VCT exhaust duty cycle: 41.73584
 - response: 7E805620317357A
   expected_values:
     FORD_VCT_EXH_DUTY: 41.77856
@@ -70,6 +162,10 @@ test_cases:
   expected_values:
     FORD_VCT_EXH_DUTY: 42.12952
     FORD_[ECU] VCT exhaust duty cycle: 42.12952
+- response: 7E805620317364B
+  expected_values:
+    FORD_VCT_EXH_DUTY: 42.41638
+    FORD_[ECU] VCT exhaust duty cycle: 42.41638
 - response: 7E805620317369E
   expected_values:
     FORD_VCT_EXH_DUTY: 42.66968
@@ -78,10 +174,42 @@ test_cases:
   expected_values:
     FORD_VCT_EXH_DUTY: 42.70325
     FORD_[ECU] VCT exhaust duty cycle: 42.70325
+- response: 7E805620317373B
+  expected_values:
+    FORD_VCT_EXH_DUTY: 43.1488
+    FORD_[ECU] VCT exhaust duty cycle: 43.1488
+- response: 7E805620317376D
+  expected_values:
+    FORD_VCT_EXH_DUTY: 43.30139
+    FORD_[ECU] VCT exhaust duty cycle: 43.30139
 - response: 7E80562031737CD
   expected_values:
     FORD_VCT_EXH_DUTY: 43.59436
     FORD_[ECU] VCT exhaust duty cycle: 43.59436
+- response: 7E80562031737CF
+  expected_values:
+    FORD_VCT_EXH_DUTY: 43.60046
+    FORD_[ECU] VCT exhaust duty cycle: 43.60046
+- response: '7E8056203173814'
+  expected_values:
+    FORD_VCT_EXH_DUTY: 43.81103
+    FORD_[ECU] VCT exhaust duty cycle: 43.81103
+- response: 7E805620317381B
+  expected_values:
+    FORD_VCT_EXH_DUTY: 43.8324
+    FORD_[ECU] VCT exhaust duty cycle: 43.8324
+- response: '7E8056203173858'
+  expected_values:
+    FORD_VCT_EXH_DUTY: 44.01855
+    FORD_[ECU] VCT exhaust duty cycle: 44.01855
+- response: 7E80562031738BD
+  expected_values:
+    FORD_VCT_EXH_DUTY: 44.32678
+    FORD_[ECU] VCT exhaust duty cycle: 44.32678
+- response: 7E805620317390C
+  expected_values:
+    FORD_VCT_EXH_DUTY: 44.56787
+    FORD_[ECU] VCT exhaust duty cycle: 44.56787
 - response: 7E805620317391E
   expected_values:
     FORD_VCT_EXH_DUTY: 44.6228
@@ -90,14 +218,38 @@ test_cases:
   expected_values:
     FORD_VCT_EXH_DUTY: 44.9707
     FORD_[ECU] VCT exhaust duty cycle: 44.9707
+- response: 7E805620317399B
+  expected_values:
+    FORD_VCT_EXH_DUTY: 45.00427
+    FORD_[ECU] VCT exhaust duty cycle: 45.00427
+- response: 7E80562031739BA
+  expected_values:
+    FORD_VCT_EXH_DUTY: 45.09888
+    FORD_[ECU] VCT exhaust duty cycle: 45.09888
 - response: 7E80562031739DE
   expected_values:
     FORD_VCT_EXH_DUTY: 45.20874
     FORD_[ECU] VCT exhaust duty cycle: 45.20874
+- response: 7E8056203173A03
+  expected_values:
+    FORD_VCT_EXH_DUTY: 45.32166
+    FORD_[ECU] VCT exhaust duty cycle: 45.32166
 - response: 7E8056203173A7C
   expected_values:
     FORD_VCT_EXH_DUTY: 45.69092
     FORD_[ECU] VCT exhaust duty cycle: 45.69092
+- response: 7E8056203173ADA
+  expected_values:
+    FORD_VCT_EXH_DUTY: 45.97778
+    FORD_[ECU] VCT exhaust duty cycle: 45.97778
+- response: 7E8056203173AEA
+  expected_values:
+    FORD_VCT_EXH_DUTY: 46.02661
+    FORD_[ECU] VCT exhaust duty cycle: 46.02661
+- response: 7E8056203173B07
+  expected_values:
+    FORD_VCT_EXH_DUTY: 46.11511
+    FORD_[ECU] VCT exhaust duty cycle: 46.11511
 - response: 7E8056203173B32
   expected_values:
     FORD_VCT_EXH_DUTY: 46.24634
@@ -110,6 +262,10 @@ test_cases:
   expected_values:
     FORD_VCT_EXH_DUTY: 47.82715
     FORD_[ECU] VCT exhaust duty cycle: 47.82715
+- response: 7E8056203173DB6
+  expected_values:
+    FORD_VCT_EXH_DUTY: 48.21167
+    FORD_[ECU] VCT exhaust duty cycle: 48.21167
 - response: 7E8056203173DC0
   expected_values:
     FORD_VCT_EXH_DUTY: 48.24219
