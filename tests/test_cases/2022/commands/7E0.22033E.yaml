@@ -2,6 +2,10 @@ command_id: 7E0.22033E
 can_id_format: ELEVEN_BIT
 extended_addressing_enabled: false
 test_cases:
+- response: 7E80562033E3016
+  expected_values:
+    FORD_TIP_ABS: 13.62011
+    FORD_[ECU] TIP actual abs: 13.62011
 - response: 7E80562033E3052
   expected_values:
     FORD_TIP_ABS: 13.68649
@@ -34,6 +38,10 @@ test_cases:
   expected_values:
     FORD_TIP_ABS: 13.79271
     FORD_[ECU] TIP actual abs: 13.79271
+- response: 7E80562033E30BE
+  expected_values:
+    FORD_TIP_ABS: 13.80599
+    FORD_[ECU] TIP actual abs: 13.80599
 - response: 7E80562033E30E2
   expected_values:
     FORD_TIP_ABS: 13.84582
@@ -58,6 +66,10 @@ test_cases:
   expected_values:
     FORD_TIP_ABS: 13.95314
     FORD_[ECU] TIP actual abs: 13.95314
+- response: 7E80562033E314F
+  expected_values:
+    FORD_TIP_ABS: 13.96642
+    FORD_[ECU] TIP actual abs: 13.96642
 - response: 7E80562033E315B
   expected_values:
     FORD_TIP_ABS: 13.9797
@@ -70,14 +82,30 @@ test_cases:
   expected_values:
     FORD_TIP_ABS: 14.01953
     FORD_[ECU] TIP actual abs: 14.01953
+- response: 7E80562033E31A3
+  expected_values:
+    FORD_TIP_ABS: 14.05936
+    FORD_[ECU] TIP actual abs: 14.05936
 - response: 7E80562033E31AF
   expected_values:
     FORD_TIP_ABS: 14.07264
     FORD_[ECU] TIP actual abs: 14.07264
+- response: 7E80562033E31F7
+  expected_values:
+    FORD_TIP_ABS: 14.1523
+    FORD_[ECU] TIP actual abs: 14.1523
+- response: 7E80562033E3233
+  expected_values:
+    FORD_TIP_ABS: 14.21868
+    FORD_[ECU] TIP actual abs: 14.21868
 - response: 7E80562033E327C
   expected_values:
     FORD_TIP_ABS: 14.29945
     FORD_[ECU] TIP actual abs: 14.29945
+- response: 7E80562033E3288
+  expected_values:
+    FORD_TIP_ABS: 14.31273
+    FORD_[ECU] TIP actual abs: 14.31273
 - response: 7E80562033E32AC
   expected_values:
     FORD_TIP_ABS: 14.35256
@@ -86,6 +114,18 @@ test_cases:
   expected_values:
     FORD_TIP_ABS: 14.37912
     FORD_[ECU] TIP actual abs: 14.37912
+- response: 7E80562033E3300
+  expected_values:
+    FORD_TIP_ABS: 14.4455
+    FORD_[ECU] TIP actual abs: 14.4455
+- response: 7E80562033E3354
+  expected_values:
+    FORD_TIP_ABS: 14.53844
+    FORD_[ECU] TIP actual abs: 14.53844
+- response: 7E80562033E3360
+  expected_values:
+    FORD_TIP_ABS: 14.55172
+    FORD_[ECU] TIP actual abs: 14.55172
 - response: 7E80562033E336C
   expected_values:
     FORD_TIP_ABS: 14.565
@@ -94,22 +134,90 @@ test_cases:
   expected_values:
     FORD_TIP_ABS: 14.57827
     FORD_[ECU] TIP actual abs: 14.57827
+- response: 7E80562033E3384
+  expected_values:
+    FORD_TIP_ABS: 14.59155
+    FORD_[ECU] TIP actual abs: 14.59155
+- response: 7E80562033E3390
+  expected_values:
+    FORD_TIP_ABS: 14.60483
+    FORD_[ECU] TIP actual abs: 14.60483
+- response: 7E80562033E339D
+  expected_values:
+    FORD_TIP_ABS: 14.61921
+    FORD_[ECU] TIP actual abs: 14.61921
+- response: 7E80562033E33A9
+  expected_values:
+    FORD_TIP_ABS: 14.63249
+    FORD_[ECU] TIP actual abs: 14.63249
 - response: 7E80562033E33B5
   expected_values:
     FORD_TIP_ABS: 14.64576
     FORD_[ECU] TIP actual abs: 14.64576
+- response: 7E80562033E33C1
+  expected_values:
+    FORD_TIP_ABS: 14.65904
+    FORD_[ECU] TIP actual abs: 14.65904
+- response: 7E80562033E33F1
+  expected_values:
+    FORD_TIP_ABS: 14.71215
+    FORD_[ECU] TIP actual abs: 14.71215
+- response: 7E80562033E342D
+  expected_values:
+    FORD_TIP_ABS: 14.77854
+    FORD_[ECU] TIP actual abs: 14.77854
+- response: 7E80562033E3439
+  expected_values:
+    FORD_TIP_ABS: 14.79181
+    FORD_[ECU] TIP actual abs: 14.79181
 - response: 7E80562033E34B1
   expected_values:
     FORD_TIP_ABS: 14.92458
     FORD_[ECU] TIP actual abs: 14.92458
+- response: 7E80562033E3506
+  expected_values:
+    FORD_TIP_ABS: 15.01863
+    FORD_[ECU] TIP actual abs: 15.01863
+- response: 7E80562033E3572
+  expected_values:
+    FORD_TIP_ABS: 15.13812
+    FORD_[ECU] TIP actual abs: 15.13812
+- response: 7E80562033E35D2
+  expected_values:
+    FORD_TIP_ABS: 15.24434
+    FORD_[ECU] TIP actual abs: 15.24434
+- response: 7E80562033E36AB
+  expected_values:
+    FORD_TIP_ABS: 15.48444
+    FORD_[ECU] TIP actual abs: 15.48444
 - response: 7E80562033E36C3
   expected_values:
     FORD_TIP_ABS: 15.51099
     FORD_[ECU] TIP actual abs: 15.51099
+- response: 7E80562033E375F
+  expected_values:
+    FORD_TIP_ABS: 15.68359
+    FORD_[ECU] TIP actual abs: 15.68359
+- response: 7E80562033E37E4
+  expected_values:
+    FORD_TIP_ABS: 15.83075
+    FORD_[ECU] TIP actual abs: 15.83075
+- response: 7E80562033E3874
+  expected_values:
+    FORD_TIP_ABS: 15.99007
+    FORD_[ECU] TIP actual abs: 15.99007
 - response: 7E80562033E3935
   expected_values:
     FORD_TIP_ABS: 16.20361
     FORD_[ECU] TIP actual abs: 16.20361
+- response: 7E80562033E39D1
+  expected_values:
+    FORD_TIP_ABS: 16.37622
+    FORD_[ECU] TIP actual abs: 16.37622
+- response: 7E80562033E3B16
+  expected_values:
+    FORD_TIP_ABS: 16.7358
+    FORD_[ECU] TIP actual abs: 16.7358
 - response: 7E80562033E3B6A
   expected_values:
     FORD_TIP_ABS: 16.82874
@@ -118,6 +226,10 @@ test_cases:
   expected_values:
     FORD_TIP_ABS: 16.9759
     FORD_[ECU] TIP actual abs: 16.9759
+- response: 7E80562033E3C73
+  expected_values:
+    FORD_TIP_ABS: 17.12195
+    FORD_[ECU] TIP actual abs: 17.12195
 - response: 7E80562033E3C7F
   expected_values:
     FORD_TIP_ABS: 17.13522
@@ -130,6 +242,18 @@ test_cases:
   expected_values:
     FORD_TIP_ABS: 17.60103
     FORD_[ECU] TIP actual abs: 17.60103
+- response: 7E80562033E3E30
+  expected_values:
+    FORD_TIP_ABS: 17.61431
+    FORD_[ECU] TIP actual abs: 17.61431
+- response: 7E80562033E3F21
+  expected_values:
+    FORD_TIP_ABS: 17.88096
+    FORD_[ECU] TIP actual abs: 17.88096
+- response: 7E80562033E3FFA
+  expected_values:
+    FORD_TIP_ABS: 18.12105
+    FORD_[ECU] TIP actual abs: 18.12105
 - response: 7E80562033E405A
   expected_values:
     FORD_TIP_ABS: 18.22727
@@ -138,6 +262,26 @@ test_cases:
   expected_values:
     FORD_TIP_ABS: 18.25382
     FORD_[ECU] TIP actual abs: 18.25382
+- response: 7E80562033E41FF
+  expected_values:
+    FORD_TIP_ABS: 18.69307
+    FORD_[ECU] TIP actual abs: 18.69307
+- response: 7E80562033E4223
+  expected_values:
+    FORD_TIP_ABS: 18.7329
+    FORD_[ECU] TIP actual abs: 18.7329
+- response: 7E80562033E432C
+  expected_values:
+    FORD_TIP_ABS: 19.02611
+    FORD_[ECU] TIP actual abs: 19.02611
+- response: 7E80562033E44A1
+  expected_values:
+    FORD_TIP_ABS: 19.4388
+    FORD_[ECU] TIP actual abs: 19.4388
+- response: 7E80562033E4556
+  expected_values:
+    FORD_TIP_ABS: 19.63907
+    FORD_[ECU] TIP actual abs: 19.63907
 - response: 7E80562033E46A7
   expected_values:
     FORD_TIP_ABS: 20.01193
@@ -150,10 +294,22 @@ test_cases:
   expected_values:
     FORD_TIP_ABS: 21.28985
     FORD_[ECU] TIP actual abs: 21.28985
+- response: 7E80562033E4DC0
+  expected_values:
+    FORD_TIP_ABS: 22.02231
+    FORD_[ECU] TIP actual abs: 22.02231
 - response: 7E80562033E5938
   expected_values:
     FORD_TIP_ABS: 25.27078
     FORD_[ECU] TIP actual abs: 25.27078
+- response: 7E80562033E5E28
+  expected_values:
+    FORD_TIP_ABS: 26.6693
+    FORD_[ECU] TIP actual abs: 26.6693
+- response: 7E80562033E6A49
+  expected_values:
+    FORD_TIP_ABS: 30.10475
+    FORD_[ECU] TIP actual abs: 30.10475
 - response: 7E80562033E6E48
   expected_values:
     FORD_TIP_ABS: 31.23663
