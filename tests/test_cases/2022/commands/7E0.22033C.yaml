@@ -6,10 +6,10 @@ test_cases:
   expected_values:
     FORD_TIP_V: 1.34766
     FORD_[ECU] TIP sensor voltage: 1.34766
-- response: 7E80562033C01C5
+- response: 7E80562033C01D7
   expected_values:
-    FORD_TIP_V: 2.21191
-    FORD_[ECU] TIP sensor voltage: 2.21191
+    FORD_TIP_V: 2.2998
+    FORD_[ECU] TIP sensor voltage: 2.2998
 - response: 7E80562033C0210
   expected_values:
     FORD_TIP_V: 2.57812
