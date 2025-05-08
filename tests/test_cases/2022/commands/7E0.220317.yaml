@@ -6,11 +6,11 @@ test_cases:
   expected_values:
     FORD_VCT_EXH_DUTY: 0
     FORD_[ECU] VCT exhaust duty cycle: 0
-- response: 7E80562031734F7
+- response: 7E80562031732FF
   expected_values:
-    FORD_VCT_EXH_DUTY: 41.37878
-    FORD_[ECU] VCT exhaust duty cycle: 41.37878
-- response: 7E8056203173D38
+    FORD_VCT_EXH_DUTY: 39.8407
+    FORD_[ECU] VCT exhaust duty cycle: 39.8407
+- response: 7E8056203174B02
   expected_values:
-    FORD_VCT_EXH_DUTY: 47.82715
-    FORD_[ECU] VCT exhaust duty cycle: 47.82715
+    FORD_VCT_EXH_DUTY: 58.59985
+    FORD_[ECU] VCT exhaust duty cycle: 58.59985
