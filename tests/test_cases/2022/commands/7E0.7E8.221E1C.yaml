@@ -2,9 +2,9 @@ command_id: 7E0.7E8.221E1C
 can_id_format: ELEVEN_BIT
 extended_addressing_enabled: false
 test_cases:
-- response: 7E805621E1C0217
+- response: 7E805621E1C0176
   expected_values:
-    FORD_TOT: 33.4375
+    FORD_TOT: 23.375
 - response: 7E805621E1C0400
   expected_values:
     FORD_TOT: 64
