@@ -6,11 +6,11 @@ test_cases:
   expected_values:
     FORD_VCT_INT_DUTY: 0
     FORD_[ECU] VCT intake duty cycle: 0
-- response: 7E80562031634FA
+- response: 7E8056203162EFE
   expected_values:
-    FORD_VCT_INT_DUTY: 41.38794
-    FORD_[ECU] VCT intake duty cycle: 41.38794
-- response: 7E805620316417C
+    FORD_VCT_INT_DUTY: 36.71265
+    FORD_[ECU] VCT intake duty cycle: 36.71265
+- response: 7E80562031643EC
   expected_values:
-    FORD_VCT_INT_DUTY: 51.15967
-    FORD_[ECU] VCT intake duty cycle: 51.15967
+    FORD_VCT_INT_DUTY: 53.06396
+    FORD_[ECU] VCT intake duty cycle: 53.06396

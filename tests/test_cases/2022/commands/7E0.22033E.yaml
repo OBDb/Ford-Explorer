@@ -2,10 +2,10 @@ command_id: 7E0.22033E
 can_id_format: ELEVEN_BIT
 extended_addressing_enabled: false
 test_cases:
-- response: 7E80562033E3016
+- response: 7E80562033E300A
   expected_values:
-    FORD_TIP_ABS: 13.62011
-    FORD_[ECU] TIP actual abs: 13.62011
+    FORD_TIP_ABS: 13.60683
+    FORD_[ECU] TIP actual abs: 13.60683
 - response: 7E80562033E3300
   expected_values:
     FORD_TIP_ABS: 14.4455
