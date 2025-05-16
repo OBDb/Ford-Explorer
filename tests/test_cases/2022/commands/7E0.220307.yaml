@@ -6,14 +6,14 @@ test_cases:
   expected_values:
     FORD_LPFP_DUTY: 21.39587
     FORD_[ECU] LPFP duty cycle: 21.39587
+- response: 7E8056203071BFF
+  expected_values:
+    FORD_LPFP_DUTY: 21.87195
+    FORD_[ECU] LPFP duty cycle: 21.87195
 - response: 7E8056203071F00
   expected_values:
     FORD_LPFP_DUTY: 24.21875
     FORD_[ECU] LPFP duty cycle: 24.21875
-- response: 7E80562030721FE
-  expected_values:
-    FORD_LPFP_DUTY: 26.5564
-    FORD_[ECU] LPFP duty cycle: 26.5564
 - response: '7E8056203073093'
   expected_values:
     FORD_LPFP_DUTY: 37.94861

@@ -6,39 +6,15 @@ test_cases:
   expected_values:
     FORD_OAR: 0.04089
     FORD_[ECU] OAR: 0.04089
-- response: 7E8056203E807CD
+- response: 7E8056203E81D08
   expected_values:
-    FORD_OAR: 0.12189
-    FORD_[ECU] OAR: 0.12189
-- response: 7E8056203E80934
-  expected_values:
-    FORD_OAR: 0.1438
-    FORD_[ECU] OAR: 0.1438
-- response: 7E8056203E8145D
-  expected_values:
-    FORD_OAR: 0.31818
-    FORD_[ECU] OAR: 0.31818
-- response: 7E8056203E81752
-  expected_values:
-    FORD_OAR: 0.36438
-    FORD_[ECU] OAR: 0.36438
-- response: 7E8056203E8181D
-  expected_values:
-    FORD_OAR: 0.37677
-    FORD_[ECU] OAR: 0.37677
-- response: 7E8056203E8D22D
-  expected_values:
-    FORD_OAR: 1
-    FORD_[ECU] OAR: 1
-- response: 7E8056203E8DF17
+    FORD_OAR: 0.45361
+    FORD_[ECU] OAR: 0.45361
+- response: 7E8056203E8DAEC
   expected_values:
     FORD_OAR: 1
     FORD_[ECU] OAR: 1
 - response: 7E8056203E8E025
-  expected_values:
-    FORD_OAR: 1
-    FORD_[ECU] OAR: 1
-- response: 7E8056203E8E08B
   expected_values:
     FORD_OAR: 1
     FORD_[ECU] OAR: 1
