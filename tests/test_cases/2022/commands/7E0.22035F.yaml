@@ -2,19 +2,12 @@ command_id: 7E0.22035F
 can_id_format: ELEVEN_BIT
 extended_addressing_enabled: false
 test_cases:
-- response: 7E80562035F0069
+- response: 7E80562035F0000
   expected_values:
-    FORD_RO2_V: 0.10254
-    FORD_[ECU] Rear O2 V: 0.10254
+    FORD_RO2_V: 0
 - response: 7E80562035F00FF
   expected_values:
     FORD_RO2_V: 0.24902
-    FORD_[ECU] Rear O2 V: 0.24902
-- response: 7E80562035F0100
-  expected_values:
-    FORD_RO2_V: 0.25
-    FORD_[ECU] Rear O2 V: 0.25
 - response: 7E80562035F0674
   expected_values:
     FORD_RO2_V: 1
-    FORD_[ECU] Rear O2 V: 1

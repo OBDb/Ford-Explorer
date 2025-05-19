@@ -74,7 +74,6 @@ unsupported_commands_by_ecu:
   - 7DF.221E23
   - 7DF.22F45C:FORD_EOP
   7E0:
-  - 7E0.22030F
   - 7E0.220393
   - 7E0.7E8.221E23
   7E2:

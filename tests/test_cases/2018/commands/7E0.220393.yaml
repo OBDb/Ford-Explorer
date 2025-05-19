@@ -5,8 +5,6 @@ test_cases:
 - response: 7E80562039300FF
   expected_values:
     FORD_AC_P: 73.96925
-    FORD_[ECU] AC Pressure: 73.96925
 - response: '7E8056203930101'
   expected_values:
     FORD_AC_P: 74.5494
-    FORD_[ECU] AC Pressure: 74.5494
