@@ -2,15 +2,12 @@ command_id: 7E0.220324
 can_id_format: ELEVEN_BIT
 extended_addressing_enabled: false
 test_cases:
-- response: '7E8056203240087'
+- response: '7E8056203240067'
   expected_values:
-    FORD_HPFP_V: 0.65982
-    FORD_[ECU] HPFP sensor voltage: 0.65982
+    FORD_HPFP_V: 0.50342
 - response: 7E80562032400FF
   expected_values:
     FORD_HPFP_V: 1.24633
-    FORD_[ECU] HPFP sensor voltage: 1.24633
 - response: '7E8056203240200'
   expected_values:
     FORD_HPFP_V: 2.50244
-    FORD_[ECU] HPFP sensor voltage: 2.50244

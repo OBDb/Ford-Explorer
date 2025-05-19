@@ -5,8 +5,6 @@ test_cases:
 - response: 7E8046203CA3D
   expected_values:
     FORD_MCT: 61
-    FORD_[ECU] MCT: 61
-- response: 7E8046203CA64
+- response: 7E8046203CA6E
   expected_values:
-    FORD_MCT: 100
-    FORD_[ECU] MCT: 100
+    FORD_MCT: 110
