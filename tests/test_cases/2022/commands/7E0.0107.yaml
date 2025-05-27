@@ -1,7 +1,8 @@
 command_id: 7E0.0107
-can_id_format: ELEVEN_BIT
-extended_addressing_enabled: false
 test_cases:
+- response: '7E803410779'
+  expected_values:
+    LONGFT1: -5.46875
 - response: '7E803410780'
   expected_values:
     LONGFT1: 0
