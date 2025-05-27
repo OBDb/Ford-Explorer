@@ -1,7 +1,9 @@
 command_id: 7E0.0115
-can_id_format: ELEVEN_BIT
-extended_addressing_enabled: false
 test_cases:
+- response: 7E804411567FF
+  expected_values:
+    O2S12: 0.515
+    SHRTFT11: 99.21875
 - response: 7E804411594FF
   expected_values:
     O2S12: 0.74
