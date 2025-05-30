@@ -2,10 +2,10 @@ command_id: 7E0.22035A
 test_cases:
 - response: 7E80562035A0189
   expected_values:
-    FORD_BARO_V: 1.92082
+    EXPLORER_BARO_V: 1.92082
 - response: 7E80562035A02FD
   expected_values:
-    FORD_BARO_V: 3.739
+    EXPLORER_BARO_V: 3.739
 - response: 7E80562035A0300
   expected_values:
-    FORD_BARO_V: 3.75367
+    EXPLORER_BARO_V: 3.75367
