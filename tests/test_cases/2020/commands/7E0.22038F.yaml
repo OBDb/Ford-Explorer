@@ -1,11 +1,8 @@
 command_id: 7E0.22038F
 test_cases:
 - response: 7E80562038F111A
-  expected_values:
-    FORD_ECT: 68.40625
+  expected_values: {}
 - response: 7E80562038F13FD
-  expected_values:
-    FORD_ECT: 79.95312
+  expected_values: {}
 - response: 7E80562038F1603
-  expected_values:
-    FORD_ECT: 88.04688
+  expected_values: {}

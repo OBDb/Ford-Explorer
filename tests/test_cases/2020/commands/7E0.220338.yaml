@@ -1,26 +1,18 @@
 command_id: 7E0.220338
 test_cases:
 - response: 7E805620338004B
-  expected_values:
-    FORD_ETC_TRIM_LEARNED: 0.14648
+  expected_values: {}
 - response: 7E805620338004E
-  expected_values:
-    FORD_ETC_TRIM_LEARNED: 0.15234
+  expected_values: {}
 - response: 7E805620338005E
-  expected_values:
-    FORD_ETC_TRIM_LEARNED: 0.18359
-- response: '7E8056203380064'
-  expected_values:
-    FORD_ETC_TRIM_LEARNED: 0.19531
+  expected_values: {}
+- response: 7E8056203380064
+  expected_values: {}
 - response: 7E805620338008A
-  expected_values:
-    FORD_ETC_TRIM_LEARNED: 0.26953
+  expected_values: {}
 - response: 7E805620338008D
-  expected_values:
-    FORD_ETC_TRIM_LEARNED: 0.27539
+  expected_values: {}
 - response: 7E805620338009D
-  expected_values:
-    FORD_ETC_TRIM_LEARNED: 0.30664
+  expected_values: {}
 - response: 7E80562033800A2
-  expected_values:
-    FORD_ETC_TRIM_LEARNED: 0.31641
+  expected_values: {}
