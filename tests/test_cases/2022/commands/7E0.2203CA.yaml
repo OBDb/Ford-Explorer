@@ -2,7 +2,7 @@ command_id: 7E0.2203CA
 test_cases:
 - response: 7E8046203CA39
   expected_values:
-    FORD_MCT: 57
+    EXPLORER_MCT: 57.0
 - response: 7E8046203CA72
   expected_values:
-    FORD_MCT: 114
+    EXPLORER_MCT: 114.0
