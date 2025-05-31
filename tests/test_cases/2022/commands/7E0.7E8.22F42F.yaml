@@ -5,4 +5,4 @@ test_cases:
     EXPLORER_FLI: 0
 - response: 7E80462F42FFF
   expected_values:
-    EXPLORER_FLI: 100.0
+    EXPLORER_FLI: 100

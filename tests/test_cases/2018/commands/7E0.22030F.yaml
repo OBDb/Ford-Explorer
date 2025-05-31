@@ -8,7 +8,7 @@ test_cases:
     EXPLORER_CL: 0.98428
 - response: 7E80562030F8000
   expected_values:
-    EXPLORER_CL: 1.0
+    EXPLORER_CL: 1
 - response: 7E80562030F8666
   expected_values:
     EXPLORER_CL: 1.04999

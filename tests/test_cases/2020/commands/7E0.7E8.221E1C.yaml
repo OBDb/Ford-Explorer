@@ -8,4 +8,4 @@ test_cases:
     EXPLORER_TOT: 79.8125
 - response: 7E805621E1C0500
   expected_values:
-    EXPLORER_TOT: 80.0
+    EXPLORER_TOT: 80

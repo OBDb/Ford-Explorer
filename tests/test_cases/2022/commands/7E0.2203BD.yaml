@@ -2,7 +2,7 @@ command_id: 7E0.2203BD
 test_cases:
 - response: 7E8056203BD0000
   expected_values:
-    EXPLORER_CL_LC: 0.0
+    EXPLORER_CL_LC: 0
 - response: 7E8056203BDFF3D
   expected_values:
     EXPLORER_CL_LC: 5

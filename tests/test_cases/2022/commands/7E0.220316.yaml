@@ -1,11 +1,11 @@
 command_id: 7E0.220316
 test_cases:
-- response: 7E8056203160000
+- response: '7E8056203160000'
   expected_values:
     EXPLORER_VCT_INT_DUTY: 0
 - response: 7E8056203162DFF
   expected_values:
     EXPLORER_VCT_INT_DUTY: 35.93445
-- response: 7E8056203167800
+- response: '7E8056203167800'
   expected_values:
     EXPLORER_VCT_INT_DUTY: 93.75

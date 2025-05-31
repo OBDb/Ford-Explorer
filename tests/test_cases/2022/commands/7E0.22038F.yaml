@@ -8,7 +8,7 @@ test_cases:
     EXPLORER_ECT: 27.98438
 - response: 7E80562038F1400
   expected_values:
-    EXPLORER_ECT: 80.0
+    EXPLORER_ECT: 80
 - response: 7E80562038F1800
   expected_values:
-    EXPLORER_ECT: 96.0
+    EXPLORER_ECT: 96

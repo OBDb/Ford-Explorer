@@ -6,6 +6,6 @@ test_cases:
 - response: 7E8056203072AFD
   expected_values:
     EXPLORER_LPFP_DUTY: 33.58459
-- response: 7E8056203076000
+- response: '7E8056203076000'
   expected_values:
-    EXPLORER_LPFP_DUTY: 75.0
+    EXPLORER_LPFP_DUTY: 75

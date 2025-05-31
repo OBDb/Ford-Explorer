@@ -2,7 +2,7 @@ command_id: 7E0.22031A
 test_cases:
 - response: 7E80562031A0000
   expected_values:
-    EXPLORER_VCT_INT_ERR: 0.0
+    EXPLORER_VCT_INT_ERR: 0
 - response: 7E80562031AFF0B
   expected_values:
     EXPLORER_VCT_INT_ERR: 50

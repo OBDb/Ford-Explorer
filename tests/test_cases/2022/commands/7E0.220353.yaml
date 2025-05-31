@@ -1,6 +1,6 @@
 command_id: 7E0.220353
 test_cases:
-- response: 7E8056203530111
+- response: '7E8056203530111'
   expected_values:
     EXPLORER_BARO: 9.89772
 - response: 7E805620353019A
