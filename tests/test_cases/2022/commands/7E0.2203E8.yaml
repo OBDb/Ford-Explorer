@@ -2,13 +2,13 @@ command_id: 7E0.2203E8
 test_cases:
 - response: 7E8056203E8029E
   expected_values:
-    FORD_OAR: 0.04089
+    EXPLORER_OAR: 0.04089
 - response: 7E8056203E813FF
   expected_values:
-    FORD_OAR: 0.31244
+    EXPLORER_OAR: 0.31244
 - response: 7E8056203E8C000
   expected_values:
-    FORD_OAR: 1
+    EXPLORER_OAR: 1
 - response: 7E8056203E8FEF4
   expected_values:
-    FORD_OAR: 1
+    EXPLORER_OAR: 1
