@@ -2,13 +2,13 @@ command_id: 7E0.22033E
 test_cases:
 - response: 7E80562033E228C
   expected_values:
-    FORD_TIP_ABS: 9.78523
+    EXPLORER_TIP_ABS: 9.78523
 - response: 7E80562033E3300
   expected_values:
-    FORD_TIP_ABS: 14.4455
+    EXPLORER_TIP_ABS: 14.4455
 - response: 7E80562033E36FF
   expected_values:
-    FORD_TIP_ABS: 15.57738
+    EXPLORER_TIP_ABS: 15.57738
 - response: 7E80562033E6FC9
   expected_values:
-    FORD_TIP_ABS: 31.6626
+    EXPLORER_TIP_ABS: 31.6626

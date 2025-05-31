@@ -2,10 +2,10 @@ command_id: 7E0.22038E
 test_cases:
 - response: 7E80562038E0958
   expected_values:
-    FORD_EVAP_V: 5
+    EXPLORER_EVAP_V: 5
 - response: 7E80562038E09F3
   expected_values:
-    FORD_EVAP_V: 5
+    EXPLORER_EVAP_V: 5
 - response: 7E80562038E0A02
   expected_values:
-    FORD_EVAP_V: 5
+    EXPLORER_EVAP_V: 5
