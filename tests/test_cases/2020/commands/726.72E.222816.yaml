@@ -3,8 +3,6 @@ test_cases:
 - response: 72E0562281602B1
   expected_values:
     EXPLORER_TP_RL: 34.45
-    EXPLORER_TP_RLO: 34.45
 - response: 72E0562281602DE
   expected_values:
     EXPLORER_TP_RL: 36.7
-    EXPLORER_TP_RLO: 36.7

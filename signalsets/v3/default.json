@@ -9,13 +9,11 @@
   ]},
 { "hdr": "726", "rax": "72E", "cmd": {"22": "2815"}, "freq": 5, "dbgfilter": { "from": 2023, "to": 2017, "years": [2019, 2021] },
   "signals": [
-    {"id": "EXPLORER_TP_RRO", "path": "Tires", "fmt": { "len": 16, "max": 3276, "div": 20, "unit": "psi" }, "name": "Rear right outer tire pressure", "suggestedMetric": "rearRightTirePressure"},
-    {"id": "EXPLORER_TP_RR",  "path": "Tires", "fmt": { "len": 16, "max": 255,  "div": 20, "unit": "psi" }, "name": "Rear right tire pressure",       "suggestedMetric": "rearRightTirePressure"}
+    {"id": "EXPLORER_TP_RR", "path": "Tires", "fmt": { "len": 16, "max": 255, "div": 20, "unit": "psi" }, "name": "Rear right tire pressure", "suggestedMetric": "rearRightTirePressure"}
   ]},
 { "hdr": "726", "rax": "72E", "cmd": {"22": "2816"}, "freq": 5, "dbgfilter": { "from": 2023, "to": 2017, "years": [2019, 2021] },
   "signals": [
-    {"id": "EXPLORER_TP_RLO", "path": "Tires", "fmt": { "len": 16, "max": 3276, "div": 20, "unit": "psi" }, "name": "Rear left outer tire pressure", "suggestedMetric": "rearLeftTirePressure"},
-    {"id": "EXPLORER_TP_RL",  "path": "Tires", "fmt": { "len": 16, "max": 255,  "div": 20, "unit": "psi" }, "name": "Rear left tire pressure",       "suggestedMetric": "rearLeftTirePressure"}
+    {"id": "EXPLORER_TP_RL", "path": "Tires", "fmt": { "len": 16, "max": 255, "div": 20, "unit": "psi" }, "name": "Rear left tire pressure", "suggestedMetric": "rearLeftTirePressure"}
   ]},
 { "hdr": "726", "rax": "72E", "cmd": {"22": "2817"}, "freq": 5, "dbgfilter": { "from": 2023, "to": 2017, "years": [2019, 2021] },
   "signals": [
@@ -35,7 +33,7 @@
   ]},
 { "hdr": "7E0", "cmd": {"22": "030F"}, "freq": 0.25, "dbgfilter": { "from": 2023, "to": 2017, "years": [2019, 2021] },
   "signals": [
-    {"id": "EXPLORER_CL", "fmt": { "len": 16, "max": 5, "mul": 0.0000305176, "unit": "scalar" }, "name": "Commanded lambda", "description": "The ratio of of oxygen in the combustion chamber compared to the amount that should have been present for ideal combustion."}
+    {"id": "EXPLORER_CL", "fmt": { "len": 16, "max": 2, "mul": 0.0000305176, "unit": "scalar" }, "name": "Commanded lambda", "description": "The ratio of of oxygen in the combustion chamber compared to the amount that should have been present for ideal combustion."}
   ]},
 { "hdr": "7E0", "cmd": {"22": "0316"}, "freq": 0.25, "dbgfilter": { "from": 2023, "to": 2017, "years": [2019, 2021] },
   "signals": [
@@ -67,7 +65,7 @@
   ]},
 { "hdr": "7E0", "cmd": {"22": "032B"}, "freq": 0.25, "dbgfilter": { "from": 2023, "to": 2017, "years": [2019, 2021] },
   "signals": [
-    {"id": "EXPLORER_ACC_POS", "fmt": { "len": 8, "max": 100, "mul": 0.5, "unit": "percent" }, "name": "Accelerator Pedal Position"}
+    {"id": "EXPLORER_ACC_POS", "fmt": { "len": 8, "max": 100, "mul": 0.5, "unit": "percent" }, "name": "Accelerator pedal position"}
   ]},
 { "hdr": "7E0", "cmd": {"22": "0338"}, "freq": 0.25, "dbgfilter": { "from": 2023, "to": 2017, "years": [2019, 2021] },
   "signals": [
@@ -135,7 +133,7 @@
   ]},
 { "hdr": "7E0", "rax": "7E8", "cmd": {"22": "1E12"}, "freq": 2, "dbgfilter": { "from": 2023, "to": 2017, "years": [2019, 2021] },
   "signals": [
-    {"id": "EXPLORER_GEAR", "path": "Engine", "name": "Current gear", "description": "The automatic transmission gear.", "fmt": {"len": 8, "map": {
+    {"id": "EXPLORER_GEAR", "path": "Transmission", "name": "Current gear", "description": "The automatic transmission gear.", "fmt": {"len": 8, "map": {
           "1":  { "description": "First gear",   "value": "1" },
           "2":  { "description": "Second gear",  "value": "2" },
           "3":  { "description": "Third gear",   "value": "3" },
@@ -155,7 +153,7 @@
   ]},
 { "hdr": "7E0", "rax": "7E8", "cmd": {"22": "1E23"}, "freq": 2, "dbgfilter": { "from": 2019, "to": 2017 },
   "signals": [
-    {"id": "EXPLORER_GEAR_SHFT", "path": "Engine", "name": "Shift gear", "fmt": {"len": 8, "map": {
+    {"id": "EXPLORER_GEAR_SHFT", "path": "Transmission", "name": "Shift gear", "fmt": {"len": 8, "map": {
           "10": { "description": "Manual",  "value": "MANUAL" },
           "46": { "description": "Drive",   "value": "DRIVE" },
           "50": { "description": "Neutral", "value": "NEUTRAL" },
