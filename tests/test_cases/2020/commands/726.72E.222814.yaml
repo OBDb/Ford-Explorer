@@ -2,4 +2,4 @@ command_id: 726.72E.222814
 test_cases:
 - response: 72E0562281402AF
   expected_values:
-    FORD_TP_FR: 34.35
+    EXPLORER_TP_FR: 34.35
