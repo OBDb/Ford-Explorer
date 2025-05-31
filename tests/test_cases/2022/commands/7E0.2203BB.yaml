@@ -8,4 +8,4 @@ test_cases:
     EXPLORER_VCT_EXH_DES: 31.9375
 - response: 7E8056203BB0200
   expected_values:
-    EXPLORER_VCT_EXH_DES: 32.0
+    EXPLORER_VCT_EXH_DES: 32

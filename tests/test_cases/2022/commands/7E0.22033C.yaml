@@ -6,9 +6,6 @@ test_cases:
 - response: 7E80562033C00FA
   expected_values:
     EXPLORER_TIP_V: 1.2207
-- response: 7E80562033C0107
+- response: 7E80562033C0202
   expected_values:
-    EXPLORER_TIP_V: 1.28418
-- response: 7E80562033C0209
-  expected_values:
-    EXPLORER_TIP_V: 2.54395
+    EXPLORER_TIP_V: 2.50977

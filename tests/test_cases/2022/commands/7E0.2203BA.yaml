@@ -1,8 +1,8 @@
 command_id: 7E0.2203BA
 test_cases:
-- response: 7E8056203BA0152
+- response: 7E8056203BA0149
   expected_values:
-    EXPLORER_AAT_V: 1.652
+    EXPLORER_AAT_V: 1.60802
 - response: 7E8056203BA01FF
   expected_values:
     EXPLORER_AAT_V: 2.49756

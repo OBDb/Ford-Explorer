@@ -3,7 +3,7 @@ test_cases:
 - response: 7E805620324006B
   expected_values:
     EXPLORER_HPFP_V: 0.52297
-- response: 7E8056203240103
+- response: '7E8056203240103'
   expected_values:
     EXPLORER_HPFP_V: 1.26588
 - response: 7E80562032401F9
