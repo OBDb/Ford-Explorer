@@ -2,13 +2,13 @@ command_id: 7E0.7E8.22DD01|fc=1
 test_cases:
 - response: 7E80662DD0101467F
   expected_values:
-    FORD_ODO: 83583
+    EXPLORER_ODO: 83583.0
 - response: 7E80662DD01015F00
   expected_values:
-    FORD_ODO: 89856
+    EXPLORER_ODO: 89856.0
 - response: 7E80662DD010161FF
   expected_values:
-    FORD_ODO: 90623
+    EXPLORER_ODO: 90623.0
 - response: 7E80662DD010186B1
   expected_values:
-    FORD_ODO: 100017
+    EXPLORER_ODO: 100017.0
