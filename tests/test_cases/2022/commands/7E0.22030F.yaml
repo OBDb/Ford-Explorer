@@ -1,14 +1,14 @@
 command_id: 7E0.22030F
 test_cases:
-- response: 7E80562030F571E
-  expected_values:
+- expected_values:
     EXPLORER_CL: 0.6806
-- response: 7E80562030F5A00
-  expected_values:
+  response: 7E80562030F571E
+- expected_values:
     EXPLORER_CL: 0.70313
-- response: 7E80562030F73FF
-  expected_values:
+  response: 7E80562030F5A00
+- expected_values:
     EXPLORER_CL: 0.90622
-- response: 7E80562030FAB95
-  expected_values:
+  response: 7E80562030F73FF
+- expected_values:
     EXPLORER_CL: 1.34049
+  response: 7E80562030FAB95

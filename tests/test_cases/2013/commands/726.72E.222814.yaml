@@ -1,0 +1,26 @@
+command_id: 726.72E.222814
+test_cases:
+- expected_values:
+    EXPLORER_TP_FR: 34.6
+  response: 72E0562281402B4
+- expected_values:
+    EXPLORER_TP_FR: 34.85
+  response: 72E0562281402B9
+- expected_values:
+    EXPLORER_TP_FR: 35.45
+  response: 72E0562281402C5
+- expected_values:
+    EXPLORER_TP_FR: 35.6
+  response: 72E0562281402C8
+- expected_values:
+    EXPLORER_TP_FR: 35.7
+  response: 72E0562281402CA
+- expected_values:
+    EXPLORER_TP_FR: 35.95
+  response: 72E0562281402CF
+- expected_values:
+    EXPLORER_TP_FR: 36.2
+  response: 72E0562281402D4
+- expected_values:
+    EXPLORER_TP_FR: 36.45
+  response: 72E0562281402D9

@@ -1,14 +1,14 @@
 command_id: 7E0.22038E
 test_cases:
-- response: 7E80562038E05DD
-  expected_values:
+- expected_values:
     EXPLORER_EVAP_V: 5
-- response: 7E80562038E06FF
-  expected_values:
+  response: 7E80562038E05DD
+- expected_values:
     EXPLORER_EVAP_V: 5
-- response: 7E80562038E0A02
-  expected_values:
+  response: 7E80562038E06FF
+- expected_values:
     EXPLORER_EVAP_V: 5
-- response: 7E80562038E0C1F
-  expected_values:
+  response: 7E80562038E0A02
+- expected_values:
     EXPLORER_EVAP_V: 5
+  response: 7E80562038E0C1F
