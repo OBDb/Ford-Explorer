@@ -1,0 +1,8 @@
+command_id: 7E0.220393
+test_cases:
+- expected_values:
+    EXPLORER_AC_P: 87.89288
+  response: 7E805620393012F
+- expected_values:
+    EXPLORER_AC_P: 134.88511
+  response: 7E80562039301D1
