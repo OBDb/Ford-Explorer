@@ -1,0 +1,26 @@
+command_id: 7E0.220307
+test_cases:
+- expected_values:
+    EXPLORER_LPFP_DUTY: 29.21143
+  response: '7E8056203072564'
+- expected_values:
+    EXPLORER_LPFP_DUTY: 29.57764
+  response: 7E80562030725DC
+- expected_values:
+    EXPLORER_LPFP_DUTY: 29.62646
+  response: 7E80562030725EC
+- expected_values:
+    EXPLORER_LPFP_DUTY: 29.72717
+  response: 7E805620307260D
+- expected_values:
+    EXPLORER_LPFP_DUTY: 29.74243
+  response: '7E8056203072612'
+- expected_values:
+    EXPLORER_LPFP_DUTY: 29.82483
+  response: 7E805620307262D
+- expected_values:
+    EXPLORER_LPFP_DUTY: 30.79224
+  response: 7E805620307276A
+- expected_values:
+    EXPLORER_LPFP_DUTY: 75
+  response: '7E8056203076000'

@@ -1,0 +1,14 @@
+command_id: 7E0.22033E
+test_cases:
+- expected_values:
+    EXPLORER_TIP_ABS: 14.50967
+  response: 7E80562033E333A
+- expected_values:
+    EXPLORER_TIP_ABS: 15.57295
+  response: 7E80562033E36FB
+- expected_values:
+    EXPLORER_TIP_ABS: 15.86283
+  response: 7E80562033E3801
+- expected_values:
+    EXPLORER_TIP_ABS: 22.00461
+  response: 7E80562033E4DB0

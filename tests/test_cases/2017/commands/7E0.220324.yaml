@@ -1,0 +1,32 @@
+command_id: 7E0.220324
+test_cases:
+- expected_values:
+    EXPLORER_HPFP_V: 0.75758
+  response: 7E805620324009B
+- expected_values:
+    EXPLORER_HPFP_V: 0.76735
+  response: 7E805620324009D
+- expected_values:
+    EXPLORER_HPFP_V: 0.77224
+  response: 7E805620324009E
+- expected_values:
+    EXPLORER_HPFP_V: 0.79179
+  response: 7E80562032400A2
+- expected_values:
+    EXPLORER_HPFP_V: 0.80156
+  response: 7E80562032400A4
+- expected_values:
+    EXPLORER_HPFP_V: 0.82111
+  response: 7E80562032400A8
+- expected_values:
+    EXPLORER_HPFP_V: 0.83089
+  response: 7E80562032400AA
+- expected_values:
+    EXPLORER_HPFP_V: 0.85044
+  response: 7E80562032400AE
+- expected_values:
+    EXPLORER_HPFP_V: 0.8651
+  response: 7E80562032400B1
+- expected_values:
+    EXPLORER_HPFP_V: 0.86999
+  response: 7E80562032400B2

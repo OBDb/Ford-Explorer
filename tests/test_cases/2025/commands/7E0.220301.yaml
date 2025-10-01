@@ -1,0 +1,14 @@
+command_id: 7E0.220301
+test_cases:
+- expected_values:
+    EXPLORER_MAP_V: 0.31543
+  response: '7E8056203010143'
+- expected_values:
+    EXPLORER_MAP_V: 0.49902
+  response: 7E80562030101FF
+- expected_values:
+    EXPLORER_MAP_V: 0.5
+  response: '7E8056203010200'
+- expected_values:
+    EXPLORER_MAP_V: 1.82715
+  response: 7E805620301074F
