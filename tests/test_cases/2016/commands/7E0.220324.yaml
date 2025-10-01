@@ -1,0 +1,11 @@
+command_id: 7E0.220324
+test_cases:
+- expected_values:
+    EXPLORER_HPFP_V: 0.72336
+  response: '7E8056203240094'
+- expected_values:
+    EXPLORER_HPFP_V: 1.22678
+  response: 7E80562032400FB
+- expected_values:
+    EXPLORER_HPFP_V: 1.34897
+  response: '7E8056203240114'

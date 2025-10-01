@@ -1,0 +1,8 @@
+command_id: 7E0.2203CA
+test_cases:
+- expected_values:
+    EXPLORER_MCT: 66
+  response: 7E8046203CA42
+- expected_values:
+    EXPLORER_MCT: 95
+  response: 7E8046203CA5F

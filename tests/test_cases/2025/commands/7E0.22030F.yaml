@@ -1,0 +1,14 @@
+command_id: 7E0.22030F
+test_cases:
+- expected_values:
+    EXPLORER_CL: 0.732
+  response: 7E80562030F5DB2
+- expected_values:
+    EXPLORER_CL: 1
+  response: 7E80562030F8000
+- expected_values:
+    EXPLORER_CL: 1.02332
+  response: 7E80562030F82FC
+- expected_values:
+    EXPLORER_CL: 1.23395
+  response: 7E80562030F9DF2
