@@ -1,0 +1,14 @@
+command_id: 7E0.7E8.22DD01|fc=1
+test_cases:
+- expected_values:
+    EXPLORER_ODO: 98863
+  response: 7E80662DD0101822F
+- expected_values:
+    EXPLORER_ODO: 99579
+  response: 7E80662DD010184FB
+- expected_values:
+    EXPLORER_ODO: 99877
+  response: 7E80662DD01018625
+- expected_values:
+    EXPLORER_ODO: 105075
+  response: 7E80662DD01019A73

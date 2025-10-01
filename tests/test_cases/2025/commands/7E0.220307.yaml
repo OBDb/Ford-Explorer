@@ -1,0 +1,11 @@
+command_id: 7E0.220307
+test_cases:
+- expected_values:
+    EXPLORER_LPFP_DUTY: 16.03088
+  response: '7E8056203071485'
+- expected_values:
+    EXPLORER_LPFP_DUTY: 21.87195
+  response: 7E8056203071BFF
+- expected_values:
+    EXPLORER_LPFP_DUTY: 75
+  response: '7E8056203076000'
