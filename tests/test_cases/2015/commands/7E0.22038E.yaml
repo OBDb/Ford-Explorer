@@ -1,0 +1,11 @@
+command_id: 7E0.22038E
+test_cases:
+- expected_values:
+    EXPLORER_EVAP_V: 5
+  response: 7E80562038E079A
+- expected_values:
+    EXPLORER_EVAP_V: 5
+  response: 7E80562038E07FE
+- expected_values:
+    EXPLORER_EVAP_V: 5
+  response: 7E80562038E0B01

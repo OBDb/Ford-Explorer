@@ -1,14 +1,14 @@
 command_id: 7E0.22038F
 test_cases:
-- response: 7E80562038F0DCC
-  expected_values:
+- expected_values:
     EXPLORER_ECT: 55.1875
-- response: 7E80562038F1501
-  expected_values:
+  response: 7E80562038F0DCC
+- expected_values:
     EXPLORER_ECT: 84.01562
-- response: 7E80562038F15FF
-  expected_values:
+  response: 7E80562038F1501
+- expected_values:
     EXPLORER_ECT: 87.98438
-- response: 7E80562038F1601
-  expected_values:
+  response: 7E80562038F15FF
+- expected_values:
     EXPLORER_ECT: 88.01562
+  response: 7E80562038F1601

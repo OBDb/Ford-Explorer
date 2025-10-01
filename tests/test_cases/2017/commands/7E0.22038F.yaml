@@ -1,0 +1,32 @@
+command_id: 7E0.22038F
+test_cases:
+- expected_values:
+    EXPLORER_ECT: 81.73438
+  response: 7E80562038F146F
+- expected_values:
+    EXPLORER_ECT: 83
+  response: 7E80562038F14C0
+- expected_values:
+    EXPLORER_ECT: 85.51562
+  response: 7E80562038F1561
+- expected_values:
+    EXPLORER_ECT: 87.67188
+  response: 7E80562038F15EB
+- expected_values:
+    EXPLORER_ECT: 87.75
+  response: 7E80562038F15F0
+- expected_values:
+    EXPLORER_ECT: 88.07812
+  response: 7E80562038F1605
+- expected_values:
+    EXPLORER_ECT: 88.46875
+  response: 7E80562038F161E
+- expected_values:
+    EXPLORER_ECT: 89.71875
+  response: 7E80562038F166E
+- expected_values:
+    EXPLORER_ECT: 90.95312
+  response: 7E80562038F16BD
+- expected_values:
+    EXPLORER_ECT: 91.20312
+  response: 7E80562038F16CD

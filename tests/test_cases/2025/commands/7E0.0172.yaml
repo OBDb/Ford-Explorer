@@ -1,0 +1,52 @@
+command_id: 7E0.0172
+test_cases:
+- expected_values:
+    WG_A_ACT: 0
+    WG_A_ACT_SUP: 1
+    WG_A_CMD: 0
+    WG_A_CMD_SUP: 1
+    WG_B_ACT: 0
+    WG_B_ACT_SUP: 1
+    WG_B_CMD: 0
+    WG_B_CMD_SUP: 1
+  response: 7E80741720F00000000
+- expected_values:
+    WG_A_ACT: 0.39216
+    WG_A_ACT_SUP: 1
+    WG_A_CMD: 0
+    WG_A_CMD_SUP: 1
+    WG_B_ACT: 0
+    WG_B_ACT_SUP: 1
+    WG_B_CMD: 0
+    WG_B_CMD_SUP: 1
+  response: 7E80741720F00010000
+- expected_values:
+    WG_A_ACT: 1.56863
+    WG_A_ACT_SUP: 1
+    WG_A_CMD: 1.56863
+    WG_A_CMD_SUP: 1
+    WG_B_ACT: 1.56863
+    WG_B_ACT_SUP: 1
+    WG_B_CMD: 1.56863
+    WG_B_CMD_SUP: 1
+  response: 7E80741720F04040404
+- expected_values:
+    WG_A_ACT: 59.21569
+    WG_A_ACT_SUP: 1
+    WG_A_CMD: 59.60784
+    WG_A_CMD_SUP: 1
+    WG_B_ACT: 59.21569
+    WG_B_ACT_SUP: 1
+    WG_B_CMD: 59.60784
+    WG_B_CMD_SUP: 1
+  response: 7E80741720F98979897
+- expected_values:
+    WG_A_ACT: 85.88235
+    WG_A_ACT_SUP: 1
+    WG_A_CMD: 74.11765
+    WG_A_CMD_SUP: 1
+    WG_B_ACT: 85.88235
+    WG_B_ACT_SUP: 1
+    WG_B_CMD: 74.11765
+    WG_B_CMD_SUP: 1
+  response: 7E80741720FBDDBBDDB
