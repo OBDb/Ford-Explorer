@@ -4,5 +4,5 @@ test_cases:
     EXPLORER_BARO: 13.95832
   response: '7E8056203530181'
 - expected_values:
-    EXPLORER_BARO: 14.79219
-  response: '7E8056203530198'
+    EXPLORER_BARO: 15.15475
+  response: 7E80562035301A2

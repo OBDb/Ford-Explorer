@@ -1,8 +1,8 @@
 command_id: 7E0.7E8.221E1C
 test_cases:
 - expected_values:
-    EXPLORER_TOT: 24.9375
-  response: 7E805621E1C018F
+    EXPLORER_TOT: 24.6875
+  response: 7E805621E1C018B
 - expected_values:
     EXPLORER_TOT: 47.9375
   response: 7E805621E1C02FF
