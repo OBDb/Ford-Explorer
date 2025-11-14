@@ -4,11 +4,11 @@ test_cases:
     EXPLORER_CL: 0.84998
   response: 7E80562030F6CCC
 - expected_values:
-    EXPLORER_CL: 0.93723
-  response: 7E80562030F77F7
+    EXPLORER_CL: 0.95306
+  response: 7E80562030F79FE
 - expected_values:
     EXPLORER_CL: 1
   response: 7E80562030F8000
 - expected_values:
-    EXPLORER_CL: 1.04999
-  response: 7E80562030F8666
+    EXPLORER_CL: 1.12946
+  response: 7E80562030F9092

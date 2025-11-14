@@ -4,6 +4,9 @@ test_cases:
     EXPLORER_VCT_INT_DUTY: 0
   response: '7E8056203160000'
 - expected_values:
+    EXPLORER_VCT_INT_DUTY: 9.84192
+  response: 7E8056203160C99
+- expected_values:
     EXPLORER_VCT_INT_DUTY: 12.18567
   response: 7E8056203160F99
 - expected_values:

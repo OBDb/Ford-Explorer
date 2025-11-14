@@ -6,3 +6,6 @@ test_cases:
 - expected_values:
     EXPLORER_VCT_INT_DES: 0
   response: 7E8056203BCFF22
+- expected_values:
+    EXPLORER_VCT_INT_DES: 0
+  response: 7E8056203BCFFF1

@@ -20,6 +20,9 @@ test_cases:
   response: '7E8056203180006'
 - expected_values:
     EXPLORER_VCT_INT_ACT: 0
+  response: '7E8056203180007'
+- expected_values:
+    EXPLORER_VCT_INT_ACT: 0
   response: 7E805620318FF1E
 - expected_values:
     EXPLORER_VCT_INT_ACT: 0

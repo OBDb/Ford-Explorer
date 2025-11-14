@@ -4,20 +4,5 @@ test_cases:
     EXPLORER_TP_RL: 28.1
   response: '72E056228160232'
 - expected_values:
-    EXPLORER_TP_RL: 28.35
-  response: '72E056228160237'
-- expected_values:
-    EXPLORER_TP_RL: 28.6
-  response: 72E05622816023C
-- expected_values:
-    EXPLORER_TP_RL: 28.85
-  response: '72E056228160241'
-- expected_values:
-    EXPLORER_TP_RL: 29.1
-  response: '72E056228160246'
-- expected_values:
-    EXPLORER_TP_RL: 29.35
-  response: 72E05622816024B
-- expected_values:
-    EXPLORER_TP_RL: 30.6
-  response: '72E056228160264'
+    EXPLORER_TP_RL: 30.85
+  response: '72E056228160269'

@@ -1,8 +1,8 @@
 command_id: 7E0.7E8.22F42F
 test_cases:
 - expected_values:
-    EXPLORER_FLI: 33.33333
-  response: 7E80462F42F55
+    EXPLORER_FLI: 29.80392
+  response: 7E80462F42F4C
 - expected_values:
-    EXPLORER_FLI: 47.84314
-  response: 7E80462F42F7A
+    EXPLORER_FLI: 52.54902
+  response: 7E80462F42F86
