@@ -4,5 +4,8 @@ test_cases:
     EXPLORER_LPFP_DUTY: 18.22815
   response: '7E8056203071755'
 - expected_values:
-    EXPLORER_LPFP_DUTY: 18.36243
-  response: '7E8056203071781'
+    EXPLORER_LPFP_DUTY: 18.60657
+  response: 7E80562030717D1
+- expected_values:
+    EXPLORER_LPFP_DUTY: 19.14673
+  response: '7E8056203071882'

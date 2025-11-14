@@ -15,3 +15,18 @@ test_cases:
 - expected_values:
     EXPLORER_ODO: 27211
   response: 7E80662DD01006A4B
+- expected_values:
+    EXPLORER_ODO: 27221
+  response: 7E80662DD01006A55
+- expected_values:
+    EXPLORER_ODO: 27222
+  response: 7E80662DD01006A56
+- expected_values:
+    EXPLORER_ODO: 27223
+  response: 7E80662DD01006A57
+- expected_values:
+    EXPLORER_ODO: 27224
+  response: 7E80662DD01006A58
+- expected_values:
+    EXPLORER_ODO: 27225
+  response: 7E80662DD01006A59

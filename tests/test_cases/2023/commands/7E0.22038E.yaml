@@ -2,7 +2,7 @@ command_id: 7E0.22038E
 test_cases:
 - expected_values:
     EXPLORER_EVAP_V: 5
-  response: 7E80562038E073B
+  response: 7E80562038E0691
 - expected_values:
     EXPLORER_EVAP_V: 5
   response: 7E80562038E08FE
@@ -11,4 +11,4 @@ test_cases:
   response: 7E80562038E0903
 - expected_values:
     EXPLORER_EVAP_V: 5
-  response: 7E80562038E0A70
+  response: 7E80562038E0A4D

@@ -4,14 +4,8 @@ test_cases:
     EXPLORER_VCT_EXH_DUTY: 0
   response: '7E8056203170000'
 - expected_values:
-    EXPLORER_VCT_EXH_DUTY: 37.98523
-  response: 7E805620317309F
+    EXPLORER_VCT_EXH_DUTY: 30.45959
+  response: 7E80562031726FD
 - expected_values:
-    EXPLORER_VCT_EXH_DUTY: 40.08179
-  response: 7E805620317334E
-- expected_values:
-    EXPLORER_VCT_EXH_DUTY: 40.82947
-  response: '7E8056203173443'
-- expected_values:
-    EXPLORER_VCT_EXH_DUTY: 41.15601
-  response: 7E80562031734AE
+    EXPLORER_VCT_EXH_DUTY: 40.64331
+  response: '7E8056203173406'

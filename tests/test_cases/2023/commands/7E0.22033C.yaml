@@ -1,8 +1,8 @@
 command_id: 7E0.22033C
 test_cases:
 - expected_values:
-    EXPLORER_TIP_V: 1.37207
-  response: 7E80562033C0119
+    EXPLORER_TIP_V: 1.3623
+  response: 7E80562033C0117
 - expected_values:
-    EXPLORER_TIP_V: 1.46973
-  response: 7E80562033C012D
+    EXPLORER_TIP_V: 1.50391
+  response: 7E80562033C0134

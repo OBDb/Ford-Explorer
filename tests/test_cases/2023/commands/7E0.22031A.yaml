@@ -4,26 +4,8 @@ test_cases:
     EXPLORER_VCT_INT_ERR: 0
   response: 7E80562031A0000
 - expected_values:
-    EXPLORER_VCT_INT_ERR: 0.125
-  response: 7E80562031A0002
-- expected_values:
     EXPLORER_VCT_INT_ERR: 50
-  response: 7E80562031AFFEE
-- expected_values:
-    EXPLORER_VCT_INT_ERR: 50
-  response: 7E80562031AFFFA
-- expected_values:
-    EXPLORER_VCT_INT_ERR: 50
-  response: 7E80562031AFFFB
-- expected_values:
-    EXPLORER_VCT_INT_ERR: 50
-  response: 7E80562031AFFFC
-- expected_values:
-    EXPLORER_VCT_INT_ERR: 50
-  response: 7E80562031AFFFD
-- expected_values:
-    EXPLORER_VCT_INT_ERR: 50
-  response: 7E80562031AFFFE
+  response: 7E80562031AFFBE
 - expected_values:
     EXPLORER_VCT_INT_ERR: 50
   response: 7E80562031AFFFF
