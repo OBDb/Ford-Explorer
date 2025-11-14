@@ -1,0 +1,20 @@
+command_id: 7E0.22032B
+test_cases:
+- expected_values:
+    EXPLORER_ACC_POS: 0
+  response: 7E80462032B00
+- expected_values:
+    EXPLORER_ACC_POS: 4.5
+  response: 7E80462032B09
+- expected_values:
+    EXPLORER_ACC_POS: 15
+  response: 7E80462032B1E
+- expected_values:
+    EXPLORER_ACC_POS: 15.5
+  response: 7E80462032B1F
+- expected_values:
+    EXPLORER_ACC_POS: 24.5
+  response: 7E80462032B31
+- expected_values:
+    EXPLORER_ACC_POS: 27
+  response: 7E80462032B36

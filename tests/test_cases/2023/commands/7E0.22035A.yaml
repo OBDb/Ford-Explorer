@@ -1,0 +1,14 @@
+command_id: 7E0.22035A
+test_cases:
+- expected_values:
+    EXPLORER_BARO_V: 3.30401
+  response: 7E80562035A02A4
+- expected_values:
+    EXPLORER_BARO_V: 3.32356
+  response: 7E80562035A02A8
+- expected_values:
+    EXPLORER_BARO_V: 3.32845
+  response: 7E80562035A02A9
+- expected_values:
+    EXPLORER_BARO_V: 3.33333
+  response: 7E80562035A02AA
