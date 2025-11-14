@@ -1,0 +1,8 @@
+command_id: 7E0.220338
+test_cases:
+- expected_values:
+    EXPLORER_ETC_TRIM_LEARNED: 0
+  response: '7E8056203380000'
+- expected_values:
+    EXPLORER_ETC_TRIM_LEARNED: 0.19531
+  response: '7E8056203380064'
