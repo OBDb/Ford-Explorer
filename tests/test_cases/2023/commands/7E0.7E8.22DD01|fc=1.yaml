@@ -4,29 +4,5 @@ test_cases:
     EXPLORER_ODO: 27207
   response: 7E80662DD01006A47
 - expected_values:
-    EXPLORER_ODO: 27208
-  response: 7E80662DD01006A48
-- expected_values:
-    EXPLORER_ODO: 27209
-  response: 7E80662DD01006A49
-- expected_values:
-    EXPLORER_ODO: 27210
-  response: 7E80662DD01006A4A
-- expected_values:
-    EXPLORER_ODO: 27211
-  response: 7E80662DD01006A4B
-- expected_values:
-    EXPLORER_ODO: 27221
-  response: 7E80662DD01006A55
-- expected_values:
-    EXPLORER_ODO: 27222
-  response: 7E80662DD01006A56
-- expected_values:
-    EXPLORER_ODO: 27223
-  response: 7E80662DD01006A57
-- expected_values:
-    EXPLORER_ODO: 27224
-  response: 7E80662DD01006A58
-- expected_values:
-    EXPLORER_ODO: 27225
-  response: 7E80662DD01006A59
+    EXPLORER_ODO: 27239
+  response: 7E80662DD01006A67
