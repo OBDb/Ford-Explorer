@@ -8,6 +8,7 @@ supported_commands_by_ecu:
   - 726.72E.222817:EXPLORER_TP_RRI
   - 726.72E.222818:EXPLORER_TP_RLI
   "7DF":
+  - 7DF.010D
   - 7DF.221E12
   - 7DF.221E1C
   - 7DF.221E23
