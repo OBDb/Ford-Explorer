@@ -1,29 +1,11 @@
 command_id: 7E0.22035F
 test_cases:
 - expected_values:
-    EXPLORER_RO2_V: 0.84473
-  response: 7E80562035F0361
+    EXPLORER_RO2_V: 0.00586
+  response: 7E80562035F0006
 - expected_values:
-    EXPLORER_RO2_V: 0.86133
-  response: 7E80562035F0372
+    EXPLORER_RO2_V: 0.74414
+  response: 7E80562035F02FA
 - expected_values:
-    EXPLORER_RO2_V: 0.86426
-  response: 7E80562035F0375
-- expected_values:
-    EXPLORER_RO2_V: 0.86621
-  response: 7E80562035F0377
-- expected_values:
-    EXPLORER_RO2_V: 0.87305
-  response: 7E80562035F037E
-- expected_values:
-    EXPLORER_RO2_V: 0.87891
-  response: 7E80562035F0384
-- expected_values:
-    EXPLORER_RO2_V: 0.88574
-  response: 7E80562035F038B
-- expected_values:
-    EXPLORER_RO2_V: 0.89062
-  response: 7E80562035F0390
-- expected_values:
-    EXPLORER_RO2_V: 0.89258
-  response: 7E80562035F0392
+    EXPLORER_RO2_V: 0.76855
+  response: 7E80562035F0313
