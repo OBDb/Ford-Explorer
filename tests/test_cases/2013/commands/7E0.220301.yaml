@@ -3,3 +3,9 @@ test_cases:
 - expected_values:
     EXPLORER_MAP_V: 0
   response: '7E8056203010000'
+- expected_values:
+    EXPLORER_MAP_V: 0.61035
+  response: '7E8056203010271'
+- expected_values:
+    EXPLORER_MAP_V: 0.66406
+  response: 7E80562030102A8

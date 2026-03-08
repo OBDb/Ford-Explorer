@@ -10,6 +10,9 @@ test_cases:
     EVAP_VP: 0.16275
   response: 7E8044132028B
 - expected_values:
+    EVAP_VP: -0.73
+  response: 7E8044132F498
+- expected_values:
     EVAP_VP: -0.172
   response: 7E8044132FD50
 - expected_values:
