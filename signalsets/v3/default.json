@@ -59,7 +59,7 @@
   "signals": [
     {"id": "EXPLORER_VCT_EXH_ERR", "fmt": { "len": 16, "max": 50, "min": -50, "mul": 0.0625, "unit": "degrees" }, "name": "VCT exhaust camshaft error"}
   ]},
-{ "hdr": "7E0", "cmd": {"22": "0324"}, "freq": 0.25, "dbgfilter": { "to": 2015, "years": [2019, 2024], "from": 2026 },
+{ "hdr": "7E0", "cmd": {"22": "0324"}, "freq": 0.25, "dbgfilter": { "to": 2012, "years": [2014, 2015, 2019, 2024], "from": 2026 },
   "signals": [
     {"id": "EXPLORER_HPFP_V", "fmt": { "len": 16, "max": 5, "mul": 0.0048875855, "unit": "volts" }, "name": "High pressure fuel rail sensor voltage"}
   ]},
@@ -71,11 +71,11 @@
   "signals": [
     {"id": "EXPLORER_ETC_TRIM_LEARNED", "fmt": { "len": 16, "max": 90, "min": -90, "mul": 0.001953125, "unit": "degrees" }, "name": "Electronic throttle control learned trim angle"}
   ]},
-{ "hdr": "7E0", "cmd": {"22": "033C"}, "freq": 0.25, "dbgfilter": { "to": 2015, "years": [2019, 2024], "from": 2026 },
+{ "hdr": "7E0", "cmd": {"22": "033C"}, "freq": 0.25, "dbgfilter": { "to": 2012, "years": [2014, 2015, 2019, 2024], "from": 2026 },
   "signals": [
     {"id": "EXPLORER_TIP_V", "fmt": { "len": 16, "max": 5, "mul": 0.0048828125, "unit": "volts" }, "name": "Throttle inlet pressure sensor voltage"}
   ]},
-{ "hdr": "7E0", "cmd": {"22": "033E"}, "freq": 0.25, "dbgfilter": { "to": 2015, "years": [2019, 2024], "from": 2026 },
+{ "hdr": "7E0", "cmd": {"22": "033E"}, "freq": 0.25, "dbgfilter": { "to": 2012, "years": [2014, 2015, 2019, 2024], "from": 2026 },
   "signals": [
     {"id": "EXPLORER_TIP_ABS", "fmt": { "len": 16, "max": 60, "mul": 0.0011064263, "unit": "psi" }, "name": "Throttle inlet pressure absolute"}
   ]},
@@ -83,7 +83,7 @@
   "signals": [
     {"id": "EXPLORER_BARO", "fmt": { "len": 16, "max": 20, "min": 8, "mul": 0.0362553791, "unit": "psi" }, "name": "Barometric pressure"}
   ]},
-{ "hdr": "7E0", "cmd": {"22": "035A"}, "freq": 0.25, "dbgfilter": { "to": 2015, "years": [2019, 2024], "from": 2026 },
+{ "hdr": "7E0", "cmd": {"22": "035A"}, "freq": 0.25, "dbgfilter": { "to": 2012, "years": [2014, 2015, 2019, 2024], "from": 2026 },
   "signals": [
     {"id": "EXPLORER_BARO_V", "fmt": { "len": 16, "max": 5, "mul": 0.0048875855, "unit": "volts" }, "name": "Barometric pressure sensor voltage"}
   ]},
@@ -119,11 +119,11 @@
   "signals": [
     {"id": "EXPLORER_CL_LC", "fmt": { "len": 16, "max": 5, "min": -5, "mul": 0.0001220703, "unit": "scalar" }, "name": "Closed loop lambda correction"}
   ]},
-{ "hdr": "7E0", "cmd": {"22": "03CA"}, "freq": 0.25, "dbgfilter": { "to": 2015, "years": [2019, 2024], "from": 2026 },
+{ "hdr": "7E0", "cmd": {"22": "03CA"}, "freq": 0.25, "dbgfilter": { "to": 2012, "years": [2014, 2015, 2019, 2024], "from": 2026 },
   "signals": [
     {"id": "EXPLORER_MCT", "fmt": { "len": 8, "max": 148.889, "unit": "celsius" }, "name": "Manifold charge temperature"}
   ]},
-{ "hdr": "7E0", "cmd": {"22": "03DC"}, "freq": 0.25, "dbgfilter": { "to": 2015, "years": [2019, 2024], "from": 2026 },
+{ "hdr": "7E0", "cmd": {"22": "03DC"}, "freq": 0.25, "dbgfilter": { "to": 2012, "years": [2014, 2015, 2019, 2024], "from": 2026 },
   "signals": [
     {"id": "EXPLORER_HPFP_DES", "fmt": { "len": 16, "max": 3500, "mul": 1.4503773969, "unit": "psi" }, "name": "High pressure fuel pressure desired"}
   ]},

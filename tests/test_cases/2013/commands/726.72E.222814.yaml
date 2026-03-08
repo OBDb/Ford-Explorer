@@ -6,3 +6,6 @@ test_cases:
 - expected_values:
     EXPLORER_TP_FR: 36.45
   response: 72E0562281402D9
+- expected_values:
+    EXPLORER_TP_FR: 51.35
+  response: '72E056228140403'
