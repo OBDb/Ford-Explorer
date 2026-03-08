@@ -1,6 +1,15 @@
 command_id: 7E0.22033E
 test_cases:
 - expected_values:
+    EXPLORER_TIP_ABS: 13.58691
+  response: 7E80562033E2FF8
+- expected_values:
+    EXPLORER_TIP_ABS: 13.67985
+  response: 7E80562033E304C
+- expected_values:
+    EXPLORER_TIP_ABS: 13.72632
+  response: 7E80562033E3076
+- expected_values:
     EXPLORER_TIP_ABS: 13.7739
   response: 7E80562033E30A1
 - expected_values:
@@ -10,5 +19,11 @@ test_cases:
     EXPLORER_TIP_ABS: 13.86684
   response: 7E80562033E30F5
 - expected_values:
+    EXPLORER_TIP_ABS: 13.91331
+  response: 7E80562033E311F
+- expected_values:
     EXPLORER_TIP_ABS: 14.38022
   response: 7E80562033E32C5
+- expected_values:
+    EXPLORER_TIP_ABS: 14.75309
+  response: 7E80562033E3416
