@@ -4,8 +4,8 @@ test_cases:
     EXPLORER_HPFP_V: 0.61584
   response: 7E805620324007E
 - expected_values:
-    EXPLORER_HPFP_V: 0.87488
-  response: 7E80562032400B3
+    EXPLORER_HPFP_V: 1.00196
+  response: 7E80562032400CD
 - expected_values:
     EXPLORER_HPFP_V: 2.6393
   response: 7E805620324021C
