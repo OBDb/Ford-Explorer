@@ -7,5 +7,5 @@ test_cases:
     EXPLORER_VCT_INT_DUTY: 44.5282
   response: 7E80562031638FF
 - expected_values:
-    EXPLORER_VCT_INT_DUTY: 52.99988
-  response: 7E80562031643D7
+    EXPLORER_VCT_INT_DUTY: 54.75464
+  response: '7E8056203164616'

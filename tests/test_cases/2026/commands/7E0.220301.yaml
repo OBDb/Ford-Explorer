@@ -4,11 +4,11 @@ test_cases:
     EXPLORER_MAP_V: 0.34766
   response: '7E8056203010164'
 - expected_values:
-    EXPLORER_MAP_V: 1.49414
-  response: 7E80562030105FA
+    EXPLORER_MAP_V: 0.49609
+  response: 7E80562030101FC
 - expected_values:
-    EXPLORER_MAP_V: 1.5
-  response: '7E8056203010600'
+    EXPLORER_MAP_V: 1.25
+  response: '7E8056203010500'
 - expected_values:
-    EXPLORER_MAP_V: 2.00586
-  response: '7E8056203010806'
+    EXPLORER_MAP_V: 2.25586
+  response: '7E8056203010906'

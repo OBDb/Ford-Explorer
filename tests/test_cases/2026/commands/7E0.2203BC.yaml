@@ -8,4 +8,4 @@ test_cases:
   response: 7E8056203BCFF31
 - expected_values:
     EXPLORER_VCT_INT_DES: 0
-  response: 7E8056203BCFFFE
+  response: 7E8056203BCFFFF

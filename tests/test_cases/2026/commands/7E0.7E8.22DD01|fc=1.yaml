@@ -4,5 +4,8 @@ test_cases:
     EXPLORER_ODO: 465
   response: 7E80662DD010001D1
 - expected_values:
-    EXPLORER_ODO: 493
-  response: 7E80662DD010001ED
+    EXPLORER_ODO: 511
+  response: 7E80662DD010001FF
+- expected_values:
+    EXPLORER_ODO: 512
+  response: 7E80662DD01000200
