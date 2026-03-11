@@ -1,0 +1,8 @@
+command_id: 7E0.22033C
+test_cases:
+- expected_values:
+    EXPLORER_TIP_V: 1.39648
+  response: 7E80562033C011E
+- expected_values:
+    EXPLORER_TIP_V: 2.08984
+  response: 7E80562033C01AC
