@@ -1,0 +1,32 @@
+command_id: 7E0.22032B
+test_cases:
+- expected_values:
+    EXPLORER_ACC_POS: 0
+  response: 7E80462032B00
+- expected_values:
+    EXPLORER_ACC_POS: 8.5
+  response: 7E80462032B11
+- expected_values:
+    EXPLORER_ACC_POS: 9.5
+  response: 7E80462032B13
+- expected_values:
+    EXPLORER_ACC_POS: 14
+  response: 7E80462032B1C
+- expected_values:
+    EXPLORER_ACC_POS: 19
+  response: 7E80462032B26
+- expected_values:
+    EXPLORER_ACC_POS: 20.5
+  response: 7E80462032B29
+- expected_values:
+    EXPLORER_ACC_POS: 24.5
+  response: 7E80462032B31
+- expected_values:
+    EXPLORER_ACC_POS: 26
+  response: 7E80462032B34
+- expected_values:
+    EXPLORER_ACC_POS: 27.5
+  response: 7E80462032B37
+- expected_values:
+    EXPLORER_ACC_POS: 28.5
+  response: 7E80462032B39
