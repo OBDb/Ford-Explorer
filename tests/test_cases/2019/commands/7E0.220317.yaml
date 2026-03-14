@@ -1,0 +1,14 @@
+command_id: 7E0.220317
+test_cases:
+- expected_values:
+    EXPLORER_VCT_EXH_DUTY: 0
+  response: '7E8056203170000'
+- expected_values:
+    EXPLORER_VCT_EXH_DUTY: 36.0199
+  response: 7E8056203172E1B
+- expected_values:
+    EXPLORER_VCT_EXH_DUTY: 38.68713
+  response: '7E8056203173185'
+- expected_values:
+    EXPLORER_VCT_EXH_DUTY: 79.99878
+  response: '7E8056203176666'
