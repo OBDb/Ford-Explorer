@@ -1,0 +1,20 @@
+command_id: 7E0.220319
+test_cases:
+- expected_values:
+    EXPLORER_VCT_EXH_ACT: 0
+  response: '7E8056203190000'
+- expected_values:
+    EXPLORER_VCT_EXH_ACT: 0.125
+  response: '7E8056203190002'
+- expected_values:
+    EXPLORER_VCT_EXH_ACT: 0.1875
+  response: '7E8056203190003'
+- expected_values:
+    EXPLORER_VCT_EXH_ACT: 19.9375
+  response: 7E805620319013F
+- expected_values:
+    EXPLORER_VCT_EXH_ACT: 33.625
+  response: 7E805620319021A
+- expected_values:
+    EXPLORER_VCT_EXH_ACT: 50
+  response: '7E8056203190338'
