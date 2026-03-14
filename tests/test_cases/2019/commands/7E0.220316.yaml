@@ -1,0 +1,20 @@
+command_id: 7E0.220316
+test_cases:
+- expected_values:
+    EXPLORER_VCT_INT_DUTY: 42.20886
+  response: '7E8056203163607'
+- expected_values:
+    EXPLORER_VCT_INT_DUTY: 42.42859
+  response: 7E805620316364F
+- expected_values:
+    EXPLORER_VCT_INT_DUTY: 42.69409
+  response: 7E80562031636A6
+- expected_values:
+    EXPLORER_VCT_INT_DUTY: 42.99011
+  response: '7E8056203163707'
+- expected_values:
+    EXPLORER_VCT_INT_DUTY: 43.98804
+  response: 7E805620316384E
+- expected_values:
+    EXPLORER_VCT_INT_DUTY: 45.62988
+  response: 7E8056203163A68
