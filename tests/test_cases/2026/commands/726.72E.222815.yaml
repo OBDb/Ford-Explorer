@@ -1,8 +1,8 @@
 command_id: 726.72E.222815
 test_cases:
 - expected_values:
-    EXPLORER_TP_RR: 36.55
-  response: 72E0562281502DB
+    EXPLORER_TP_RR: 36.3
+  response: 72E0562281502D6
 - expected_values:
     EXPLORER_TP_RR: 38.35
   response: 72E0562281502FF
