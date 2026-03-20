@@ -1,5 +1,8 @@
 command_id: 7E0.2203E8
 test_cases:
 - expected_values:
+    EXPLORER_OAR: 0.89899
+  response: 7E8056203E83989
+- expected_values:
     EXPLORER_OAR: 0.97693
   response: 7E8056203E83E86

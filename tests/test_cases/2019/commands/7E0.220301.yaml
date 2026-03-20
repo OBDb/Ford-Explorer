@@ -7,6 +7,18 @@ test_cases:
     EXPLORER_MAP_V: 0.91797
   response: 7E80562030103AC
 - expected_values:
+    EXPLORER_MAP_V: 1.2168
+  response: 7E80562030104DE
+- expected_values:
+    EXPLORER_MAP_V: 1.22168
+  response: 7E80562030104E3
+- expected_values:
+    EXPLORER_MAP_V: 1.23145
+  response: 7E80562030104ED
+- expected_values:
+    EXPLORER_MAP_V: 1.24121
+  response: 7E80562030104F7
+- expected_values:
     EXPLORER_MAP_V: 1.74414
   response: 7E80562030106FA
 - expected_values:

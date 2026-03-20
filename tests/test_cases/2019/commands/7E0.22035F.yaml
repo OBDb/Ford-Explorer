@@ -10,8 +10,23 @@ test_cases:
     EXPLORER_RO2_V: 0.73242
   response: 7E80562035F02EE
 - expected_values:
+    EXPLORER_RO2_V: 0.75098
+  response: 7E80562035F0301
+- expected_values:
     EXPLORER_RO2_V: 0.75586
   response: 7E80562035F0306
 - expected_values:
     EXPLORER_RO2_V: 0.76172
   response: 7E80562035F030C
+- expected_values:
+    EXPLORER_RO2_V: 0.7627
+  response: 7E80562035F030D
+- expected_values:
+    EXPLORER_RO2_V: 0.76367
+  response: 7E80562035F030E
+- expected_values:
+    EXPLORER_RO2_V: 0.76855
+  response: 7E80562035F0313
+- expected_values:
+    EXPLORER_RO2_V: 0.84863
+  response: 7E80562035F0365

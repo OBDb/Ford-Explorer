@@ -1,5 +1,8 @@
 command_id: 7E0.220353
 test_cases:
 - expected_values:
+    EXPLORER_BARO: 13.99458
+  response: '7E8056203530182'
+- expected_values:
     EXPLORER_BARO: 14.06709
   response: '7E8056203530184'
