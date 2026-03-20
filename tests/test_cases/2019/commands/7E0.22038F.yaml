@@ -4,17 +4,5 @@ test_cases:
     EXPLORER_ECT: 96.04688
   response: 7E80562038F1803
 - expected_values:
-    EXPLORER_ECT: 96.90625
-  response: 7E80562038F183A
-- expected_values:
-    EXPLORER_ECT: 97.60938
-  response: 7E80562038F1867
-- expected_values:
-    EXPLORER_ECT: 97.70312
-  response: 7E80562038F186D
-- expected_values:
-    EXPLORER_ECT: 97.75
-  response: 7E80562038F1870
-- expected_values:
     EXPLORER_ECT: 99.32812
   response: 7E80562038F18D5

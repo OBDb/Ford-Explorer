@@ -6,3 +6,6 @@ test_cases:
 - expected_values:
     EXPLORER_ODO: 158238
   response: 7E80662DD01026A1E
+- expected_values:
+    EXPLORER_ODO: 158371
+  response: 7E80662DD01026AA3
