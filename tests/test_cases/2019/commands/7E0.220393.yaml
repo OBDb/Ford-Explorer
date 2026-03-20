@@ -4,14 +4,5 @@ test_cases:
     EXPLORER_AC_P: 74.83948
   response: '7E8056203930102'
 - expected_values:
-    EXPLORER_AC_P: 75.99978
-  response: '7E8056203930106'
-- expected_values:
-    EXPLORER_AC_P: 77.16008
-  response: 7E805620393010A
-- expected_values:
-    EXPLORER_AC_P: 79.48069
-  response: '7E8056203930112'
-- expected_values:
-    EXPLORER_AC_P: 90.50355
-  response: '7E8056203930138'
+    EXPLORER_AC_P: 147.64843
+  response: 7E80562039301FD
