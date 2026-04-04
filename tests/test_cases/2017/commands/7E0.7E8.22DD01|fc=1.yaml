@@ -4,5 +4,20 @@ test_cases:
     EXPLORER_ODO: 121431
   response: 7E80662DD0101DA57
 - expected_values:
+    EXPLORER_ODO: 163923
+  response: 7E80662DD01028053
+- expected_values:
+    EXPLORER_ODO: 163924
+  response: 7E80662DD01028054
+- expected_values:
+    EXPLORER_ODO: 163925
+  response: 7E80662DD01028055
+- expected_values:
+    EXPLORER_ODO: 163926
+  response: 7E80662DD01028056
+- expected_values:
+    EXPLORER_ODO: 163927
+  response: 7E80662DD01028057
+- expected_values:
     EXPLORER_ODO: 213671
   response: 7E80662DD010342A7
