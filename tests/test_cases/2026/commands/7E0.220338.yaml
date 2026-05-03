@@ -21,3 +21,6 @@ test_cases:
 - expected_values:
     EXPLORER_ETC_TRIM_LEARNED: 0.36914
   response: 7E80562033800BD
+- expected_values:
+    EXPLORER_ETC_TRIM_LEARNED: 0.42383
+  response: 7E80562033800D9
