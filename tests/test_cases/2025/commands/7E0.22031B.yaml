@@ -5,7 +5,7 @@ test_cases:
   response: 7E80562031B0000
 - expected_values:
     EXPLORER_VCT_EXH_ERR: 50
-  response: 7E80562031BFFDE
+  response: 7E80562031BFFC0
 - expected_values:
     EXPLORER_VCT_EXH_ERR: 50
   response: 7E80562031BFFFF
