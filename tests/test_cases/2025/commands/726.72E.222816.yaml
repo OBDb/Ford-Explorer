@@ -4,5 +4,5 @@ test_cases:
     EXPLORER_TP_RL: 29.55
   response: 72E05622816024F
 - expected_values:
-    EXPLORER_TP_RL: 36.7
-  response: 72E0562281602DE
+    EXPLORER_TP_RL: 37.05
+  response: 72E0562281602E5
