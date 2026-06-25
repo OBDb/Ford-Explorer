@@ -27,3 +27,6 @@ test_cases:
 - expected_values:
     EXPLORER_BARO: 14.68343
   response: '7E8056203530195'
+- expected_values:
+    EXPLORER_BARO: 14.75594
+  response: '7E8056203530197'
