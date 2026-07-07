@@ -4,8 +4,8 @@ test_cases:
     EXPLORER_TOT: 49.6875
   response: 7E805621E1C031B
 - expected_values:
-    EXPLORER_TOT: 95.9375
-  response: 7E805621E1C05FF
+    EXPLORER_TOT: 79.9375
+  response: 7E805621E1C04FF
 - expected_values:
     EXPLORER_TOT: 96
   response: 7E805621E1C0600
