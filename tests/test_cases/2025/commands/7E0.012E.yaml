@@ -12,3 +12,6 @@ test_cases:
 - expected_values:
     EVAP_PCT: 47.84314
   response: 7E803412E7A
+- expected_values:
+    EVAP_PCT: 96.86275
+  response: 7E803412EF7

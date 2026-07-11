@@ -4,11 +4,11 @@ test_cases:
     EXPLORER_ODO: 8249
   response: 7E80662DD01002039
 - expected_values:
-    EXPLORER_ODO: 52991
-  response: 7E80662DD0100CEFF
+    EXPLORER_ODO: 14847
+  response: 7E80662DD010039FF
 - expected_values:
-    EXPLORER_ODO: 52992
-  response: 7E80662DD0100CF00
+    EXPLORER_ODO: 14848
+  response: 7E80662DD01003A00
 - expected_values:
     EXPLORER_ODO: 57907
   response: 7E80662DD0100E233
