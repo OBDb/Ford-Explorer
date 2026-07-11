@@ -7,8 +7,8 @@ test_cases:
     EXPLORER_TIP_ABS: 14.4455
   response: 7E80562033E3300
 - expected_values:
-    EXPLORER_TIP_ABS: 17.268
-  response: 7E80562033E3CF7
+    EXPLORER_TIP_ABS: 14.72543
+  response: 7E80562033E33FD
 - expected_values:
     EXPLORER_TIP_ABS: 19.58485
   response: 7E80562033E4525
