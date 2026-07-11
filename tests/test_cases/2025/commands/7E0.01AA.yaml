@@ -6,3 +6,6 @@ test_cases:
 - expected_values:
     V_SET: 230
   response: 7E80341AAE6
+- expected_values:
+    V_SET: 255
+  response: 7E80341AAFF
