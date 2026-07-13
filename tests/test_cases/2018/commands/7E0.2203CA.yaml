@@ -4,5 +4,5 @@ test_cases:
     EXPLORER_MCT: 61
   response: 7E8046203CA3D
 - expected_values:
-    EXPLORER_MCT: 92
-  response: 7E8046203CA5C
+    EXPLORER_MCT: 93
+  response: 7E8046203CA5D

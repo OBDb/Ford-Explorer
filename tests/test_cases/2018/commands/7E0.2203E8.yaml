@@ -11,6 +11,9 @@ test_cases:
   response: 7E8056203E80A29
 - expected_values:
     EXPLORER_OAR: 1
+  response: 7E8056203E8F2C3
+- expected_values:
+    EXPLORER_OAR: 1
   response: 7E8056203E8F52A
 - expected_values:
     EXPLORER_OAR: 1

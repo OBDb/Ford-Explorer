@@ -12,3 +12,6 @@ test_cases:
 - expected_values:
     EXPLORER_BARO_V: 3.91984
   response: 7E80562035A0322
+- expected_values:
+    EXPLORER_BARO_V: 3.97361
+  response: 7E80562035A032D
