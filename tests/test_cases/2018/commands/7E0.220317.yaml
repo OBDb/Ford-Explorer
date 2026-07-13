@@ -3,3 +3,27 @@ test_cases:
 - expected_values:
     EXPLORER_VCT_EXH_DUTY: 0
   response: '7E8056203170000'
+- expected_values:
+    EXPLORER_VCT_EXH_DUTY: 34.44214
+  response: 7E8056203172C16
+- expected_values:
+    EXPLORER_VCT_EXH_DUTY: 35.29053
+  response: 7E8056203172D2C
+- expected_values:
+    EXPLORER_VCT_EXH_DUTY: 35.37598
+  response: 7E8056203172D48
+- expected_values:
+    EXPLORER_VCT_EXH_DUTY: 36.24268
+  response: 7E8056203172E64
+- expected_values:
+    EXPLORER_VCT_EXH_DUTY: 39.51416
+  response: '7E8056203173294'
+- expected_values:
+    EXPLORER_VCT_EXH_DUTY: 40.13672
+  response: '7E8056203173360'
+- expected_values:
+    EXPLORER_VCT_EXH_DUTY: 41.71448
+  response: '7E8056203173565'
+- expected_values:
+    EXPLORER_VCT_EXH_DUTY: 42.36755
+  response: 7E805620317363B
