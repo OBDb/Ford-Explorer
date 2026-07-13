@@ -39,7 +39,7 @@
   "signals": [
     {"id": "EXPLORER_VCT_INT_DUTY", "fmt": { "len": 16, "max": 100, "mul": 0.0030517578, "unit": "percent" }, "name": "VCT intake camshaft solenoid duty cycle"}
   ]},
-{ "hdr": "7E0", "cmd": {"22": "0317"}, "freq": 0.25, "dbgfilter": { "to": 2012, "years": [2014, 2016, 2017, 2018, 2024], "from": 2027 },
+{ "hdr": "7E0", "cmd": {"22": "0317"}, "freq": 0.25, "dbgfilter": { "to": 2012, "years": [2014, 2016, 2017, 2024], "from": 2027 },
   "signals": [
     {"id": "EXPLORER_VCT_EXH_DUTY", "fmt": { "len": 16, "max": 100, "mul": 0.0030517578, "unit": "percent" }, "name": "VCT exhaust camshaft solenoid duty cycle"}
   ]},
@@ -47,7 +47,7 @@
   "signals": [
     {"id": "EXPLORER_VCT_INT_ACT", "fmt": { "len": 16, "max": 0, "min": -50, "mul": 0.0625, "unit": "degrees" }, "name": "VCT intake camshaft actual"}
   ]},
-{ "hdr": "7E0", "cmd": {"22": "0319"}, "freq": 0.25, "dbgfilter": { "to": 2012, "years": [2014, 2016, 2017, 2018, 2024], "from": 2027 },
+{ "hdr": "7E0", "cmd": {"22": "0319"}, "freq": 0.25, "dbgfilter": { "to": 2012, "years": [2014, 2016, 2017, 2024], "from": 2027 },
   "signals": [
     {"id": "EXPLORER_VCT_EXH_ACT", "fmt": { "len": 16, "max": 50, "mul": 0.0625, "unit": "degrees" }, "name": "VCT exhaust camshaft actual"}
   ]},
@@ -55,7 +55,7 @@
   "signals": [
     {"id": "EXPLORER_VCT_INT_ERR", "fmt": { "len": 16, "max": 50, "min": -50, "mul": 0.0625, "unit": "degrees" }, "name": "VCT intake camshaft error"}
   ]},
-{ "hdr": "7E0", "cmd": {"22": "031B"}, "freq": 0.25, "dbgfilter": { "to": 2012, "years": [2014, 2016, 2017, 2018, 2024], "from": 2027 },
+{ "hdr": "7E0", "cmd": {"22": "031B"}, "freq": 0.25, "dbgfilter": { "to": 2012, "years": [2014, 2016, 2017, 2024], "from": 2027 },
   "signals": [
     {"id": "EXPLORER_VCT_EXH_ERR", "fmt": { "len": 16, "max": 50, "min": -50, "mul": 0.0625, "unit": "degrees" }, "name": "VCT exhaust camshaft error"}
   ]},
@@ -107,7 +107,7 @@
   "signals": [
     {"id": "EXPLORER_AAT_V", "fmt": { "len": 16, "max": 5, "mul": 0.0048875855, "unit": "volts" }, "name": "Ambient air temperature sensor voltage"}
   ]},
-{ "hdr": "7E0", "cmd": {"22": "03BB"}, "freq": 0.25, "dbgfilter": { "to": 2012, "years": [2014, 2016, 2017, 2018, 2024], "from": 2027 },
+{ "hdr": "7E0", "cmd": {"22": "03BB"}, "freq": 0.25, "dbgfilter": { "to": 2012, "years": [2014, 2016, 2017, 2024], "from": 2027 },
   "signals": [
     {"id": "EXPLORER_VCT_EXH_DES", "fmt": { "len": 16, "max": 50, "mul": 0.0625, "unit": "degrees" }, "name": "VCT exhaust cam desired"}
   ]},
