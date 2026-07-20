@@ -1,0 +1,8 @@
+command_id: 7E0.7E8.22DD01|fc=1
+test_cases:
+- expected_values:
+    EXPLORER_ODO: 109961
+  response: "22DD01\n7E8 06 62 DD 01 01 AD 89 "
+- expected_values:
+    EXPLORER_ODO: 109961
+  response: 7E80662DD0101AD89
