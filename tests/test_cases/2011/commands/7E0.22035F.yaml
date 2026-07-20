@@ -1,0 +1,11 @@
+command_id: 7E0.22035F
+test_cases:
+- expected_values:
+    EXPLORER_RO2_V: 0.00195
+  response: 7E80562035F0002
+- expected_values:
+    EXPLORER_RO2_V: 0.00293
+  response: 7E80562035F0003
+- expected_values:
+    EXPLORER_RO2_V: 0.00391
+  response: 7E80562035F0004
