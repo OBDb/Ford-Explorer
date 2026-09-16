@@ -4,5 +4,17 @@ test_cases:
     EXPLORER_TP_RR: 38.2
   response: "222815\n72E 05 62 28 15 02 FC "
 - expected_values:
+    EXPLORER_TP_RR: 32.05
+  response: '72E056228150281'
+- expected_values:
+    EXPLORER_TP_RR: 32.3
+  response: '72E056228150286'
+- expected_values:
+    EXPLORER_TP_RR: 32.55
+  response: 72E05622815028B
+- expected_values:
+    EXPLORER_TP_RR: 33.05
+  response: '72E056228150295'
+- expected_values:
     EXPLORER_TP_RR: 38.2
   response: 72E0562281502FC
