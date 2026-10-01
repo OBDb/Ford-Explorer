@@ -56,7 +56,7 @@
   ]},
 { "hdr": "7E0", "cmd": {"22": "031A"}, "freq": 0.25, "dbgfilter": { "to": 2010, "years": [2012, 2014, 2024], "from": 2027 },
   "signals": [
-    {"id": "EXPLORER_VCT_INT_ERR", "fmt": { "len": 16, "max": 50, "min": -50, "mul": 0.0625, "unit": "degrees" }, "name": "VCT intake camshaft error"}
+    {"id": "EXPLORER_VCT_INT_ERR", "fmt": { "len": 16, "max": 50, "min": -50, "div": 16, "sign": true, "unit": "degrees" }, "name": "VCT intake camshaft error"}
   ]},
 { "hdr": "7E0", "cmd": {"22": "031B"}, "freq": 0.25, "dbgfilter": { "to": 2010, "years": [2012, 2014, 2016, 2017, 2024], "from": 2027 },
   "signals": [
@@ -72,7 +72,7 @@
   ]},
 { "hdr": "7E0", "cmd": {"22": "0338"}, "freq": 0.25, "dbgfilter": { "to": 2010, "years": [2012, 2014, 2024], "from": 2027 },
   "signals": [
-    {"id": "EXPLORER_ETC_TRIM_LEARNED", "fmt": { "len": 16, "max": 90, "min": -90, "mul": 0.001953125, "unit": "degrees" }, "name": "Electronic throttle control learned trim angle"}
+    {"id": "EXPLORER_ETC_TRIM_LEARNED", "fmt": { "len": 16, "max": 63.9, "min": -64, "div": 512, "sign": true, "unit": "degrees" }, "name": "Electronic throttle control learned trim angle"}
   ]},
 { "hdr": "7E0", "cmd": {"22": "033C"}, "freq": 0.25, "dbgfilter": { "to": 2012, "years": [2014, 2015, 2019, 2024], "from": 2027 },
   "signals": [
@@ -100,7 +100,7 @@
   ]},
 { "hdr": "7E0", "cmd": {"22": "038F"}, "freq": 0.25, "dbgfilter": { "to": 2010, "years": [2012, 2014, 2024], "from": 2027 },
   "signals": [
-    {"id": "EXPLORER_ECT", "fmt": { "len": 16, "max": 148.889, "min": -40, "mul": 0.015625, "unit": "celsius" }, "name": "Engine coolant temperature"}
+    {"id": "EXPLORER_ECT", "fmt": { "len": 16, "max": 148.889, "min": -40, "div": 64, "sign": true, "unit": "celsius" }, "name": "Engine coolant temperature"}
   ]},
 { "hdr": "7E0", "cmd": {"22": "0393"}, "freq": 0.25, "dbgfilter": { "to": 2010, "years": [2012, 2014], "from": 2020 },
   "signals": [
@@ -112,15 +112,15 @@
   ]},
 { "hdr": "7E0", "cmd": {"22": "03BB"}, "freq": 0.25, "dbgfilter": { "to": 2010, "years": [2012, 2014, 2016, 2017, 2024], "from": 2027 },
   "signals": [
-    {"id": "EXPLORER_VCT_EXH_DES", "fmt": { "len": 16, "max": 50, "mul": 0.0625, "unit": "degrees" }, "name": "VCT exhaust cam desired"}
+    {"id": "EXPLORER_VCT_EXH_DES", "fmt": { "len": 16, "max": 50, "div": 16, "sign": true, "unit": "degrees" }, "name": "VCT exhaust cam desired"}
   ]},
 { "hdr": "7E0", "cmd": {"22": "03BC"}, "freq": 0.25, "dbgfilter": { "to": 2010, "years": [2012, 2014, 2024], "from": 2027 },
   "signals": [
-    {"id": "EXPLORER_VCT_INT_DES", "fmt": { "len": 16, "max": 0, "min": -50, "mul": 0.0625, "unit": "degrees" }, "name": "VCT intake cam desired"}
+    {"id": "EXPLORER_VCT_INT_DES", "fmt": { "len": 16, "max": 0, "min": -50, "div": 16, "sign": true, "unit": "degrees" }, "name": "VCT intake cam desired"}
   ]},
 { "hdr": "7E0", "cmd": {"22": "03BD"}, "freq": 0.25, "dbgfilter": { "to": 2010, "years": [2012, 2014, 2024], "from": 2027 },
   "signals": [
-    {"id": "EXPLORER_CL_LC", "fmt": { "len": 16, "max": 5, "min": -5, "mul": 0.0001220703, "unit": "scalar" }, "name": "Closed loop lambda correction"}
+    {"id": "EXPLORER_CL_LC", "fmt": { "len": 16, "max": 3.99, "min": -4, "div": 8192, "sign": true, "unit": "scalar" }, "name": "Closed loop lambda correction"}
   ]},
 { "hdr": "7E0", "cmd": {"22": "03CA"}, "freq": 0.25, "dbgfilter": { "to": 2012, "years": [2014, 2015, 2019, 2024], "from": 2027 },
   "signals": [
@@ -132,7 +132,7 @@
   ]},
 { "hdr": "7E0", "cmd": {"22": "03E8"}, "freq": 0.25, "dbgfilter": { "to": 2010, "years": [2012, 2014, 2024], "from": 2027 },
   "signals": [
-    {"id": "EXPLORER_OAR", "fmt": { "len": 16, "max": 1, "min": -1, "mul": 0.0000610352, "unit": "scalar" }, "name": "Octane adjust ratio"}
+    {"id": "EXPLORER_OAR", "fmt": { "len": 16, "max": 1, "min": -1, "div": 16384, "sign": true, "unit": "scalar" }, "name": "Octane adjust ratio"}
   ]},
 { "hdr": "7E0", "rax": "7E8", "cmd": {"22": "1E12"}, "freq": 2, "dbgfilter": { "to": 2010, "years": [2012, 2014, 2024], "from": 2027 },
   "signals": [

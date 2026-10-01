@@ -4,8 +4,8 @@ test_cases:
     EXPLORER_CL_LC: 0
   response: 7E8056203BD0000
 - expected_values:
-    EXPLORER_CL_LC: 5
+    EXPLORER_CL_LC: -0.02136
   response: 7E8056203BDFF51
 - expected_values:
-    EXPLORER_CL_LC: 5
+    EXPLORER_CL_LC: -0.00488
   response: 7E8056203BDFFD8

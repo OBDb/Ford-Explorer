@@ -10,14 +10,14 @@ test_cases:
     EXPLORER_VCT_INT_ERR: 1
   response: 7E80562031A0010
 - expected_values:
-    EXPLORER_VCT_INT_ERR: 50
+    EXPLORER_VCT_INT_ERR: -0.3125
   response: 7E80562031AFFFB
 - expected_values:
-    EXPLORER_VCT_INT_ERR: 50
+    EXPLORER_VCT_INT_ERR: -0.25
   response: 7E80562031AFFFC
 - expected_values:
-    EXPLORER_VCT_INT_ERR: 50
+    EXPLORER_VCT_INT_ERR: -0.125
   response: 7E80562031AFFFE
 - expected_values:
-    EXPLORER_VCT_INT_ERR: 50
+    EXPLORER_VCT_INT_ERR: -0.0625
   response: 7E80562031AFFFF
