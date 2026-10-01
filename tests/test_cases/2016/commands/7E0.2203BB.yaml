@@ -1,0 +1,14 @@
+command_id: 7E0.2203BB
+test_cases:
+- expected_values:
+    EXPLORER_VCT_EXH_DES: 0
+  response: 7E8056203BB0000
+- expected_values:
+    EXPLORER_VCT_EXH_DES: 19.9375
+  response: 7E8056203BB013F
+- expected_values:
+    EXPLORER_VCT_EXH_DES: 28.9375
+  response: 7E8056203BB01CF
+- expected_values:
+    EXPLORER_VCT_EXH_DES: 30.5
+  response: 7E8056203BB01E8
