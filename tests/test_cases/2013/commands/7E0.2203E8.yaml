@@ -7,8 +7,8 @@ test_cases:
     EXPLORER_OAR: 0.07855
   response: 7E8056203E80507
 - expected_values:
-    EXPLORER_OAR: 1
+    EXPLORER_OAR: -0.42432
   response: 7E8056203E8E4D8
 - expected_values:
-    EXPLORER_OAR: 1
+    EXPLORER_OAR: -0.25342
   response: 7E8056203E8EFC8

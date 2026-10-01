@@ -10,11 +10,11 @@ test_cases:
     EXPLORER_OAR: 0.15875
   response: 7E8056203E80A29
 - expected_values:
-    EXPLORER_OAR: 1
+    EXPLORER_OAR: -0.20685
   response: 7E8056203E8F2C3
 - expected_values:
-    EXPLORER_OAR: 1
+    EXPLORER_OAR: -0.16931
   response: 7E8056203E8F52A
 - expected_values:
-    EXPLORER_OAR: 1
+    EXPLORER_OAR: -0.06317
   response: 7E8056203E8FBF5
