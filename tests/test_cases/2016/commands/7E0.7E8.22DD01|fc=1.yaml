@@ -1,8 +1,8 @@
 command_id: 7E0.7E8.22DD01|fc=1
 test_cases:
 - expected_values:
-    EXPLORER_ODO: 386500
-  response: 7E80662DD0105E5C4
+    EXPLORER_ODO: 165032
+  response: 7E80662DD010284A8
 - expected_values:
     EXPLORER_ODO: 388684
   response: 7E80662DD0105EE4C
