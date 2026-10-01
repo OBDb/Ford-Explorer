@@ -4,6 +4,9 @@ test_cases:
     EXPLORER_VCT_EXH_ACT: 0.125
   response: '7E8056203190002'
 - expected_values:
+    EXPLORER_VCT_EXH_ACT: 0.3125
+  response: '7E8056203190005'
+- expected_values:
     EXPLORER_VCT_EXH_ACT: 19.875
   response: 7E805620319013E
 - expected_values:
