@@ -1,29 +1,29 @@
 command_id: 7E0.22038E
 test_cases:
 - expected_values:
-    EXPLORER_EVAP_V: 5
+    EXPLORER_EVAP_V: 2.432
   response: 7E80562038E0980
 - expected_values:
-    EXPLORER_EVAP_V: 5
+    EXPLORER_EVAP_V: 2.462
   response: 7E80562038E099E
 - expected_values:
-    EXPLORER_EVAP_V: 5
+    EXPLORER_EVAP_V: 2.522
   response: 7E80562038E09DA
 - expected_values:
-    EXPLORER_EVAP_V: 5
+    EXPLORER_EVAP_V: 2.562
   response: 7E80562038E0A02
 - expected_values:
-    EXPLORER_EVAP_V: 5
+    EXPLORER_EVAP_V: 2.617
   response: 7E80562038E0A39
 - expected_values:
-    EXPLORER_EVAP_V: 5
+    EXPLORER_EVAP_V: 2.642
   response: 7E80562038E0A52
 - expected_values:
-    EXPLORER_EVAP_V: 5
+    EXPLORER_EVAP_V: 2.692
   response: 7E80562038E0A84
 - expected_values:
-    EXPLORER_EVAP_V: 5
+    EXPLORER_EVAP_V: 2.697
   response: 7E80562038E0A89
 - expected_values:
-    EXPLORER_EVAP_V: 5
+    EXPLORER_EVAP_V: 2.702
   response: 7E80562038E0A8E
