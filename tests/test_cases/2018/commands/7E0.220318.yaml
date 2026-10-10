@@ -4,8 +4,8 @@ test_cases:
     EXPLORER_VCT_INT_ACT: 0
   response: '7E8056203180000'
 - expected_values:
-    EXPLORER_VCT_INT_ACT: 0
+    EXPLORER_VCT_INT_ACT: -14
   response: 7E805620318FF20
 - expected_values:
-    EXPLORER_VCT_INT_ACT: 0
+    EXPLORER_VCT_INT_ACT: -0.0625
   response: 7E805620318FFFF
