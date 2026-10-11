@@ -1,0 +1,29 @@
+command_id: 7E0.7E8.224195
+test_cases:
+- expected_values:
+    EXPLORER_DTE_DISP: 434.6
+  response: 7E80562419510FA
+- expected_values:
+    EXPLORER_DTE_DISP: 435.6
+  response: '7E8056241951104'
+- expected_values:
+    EXPLORER_DTE_DISP: 437.2
+  response: '7E8056241951114'
+- expected_values:
+    EXPLORER_DTE_DISP: 438.4
+  response: '7E8056241951120'
+- expected_values:
+    EXPLORER_DTE_DISP: 440.4
+  response: '7E8056241951134'
+- expected_values:
+    EXPLORER_DTE_DISP: 440.7
+  response: '7E8056241951137'
+- expected_values:
+    EXPLORER_DTE_DISP: 441
+  response: 7E805624195113A
+- expected_values:
+    EXPLORER_DTE_DISP: 441.4
+  response: 7E805624195113E
+- expected_values:
+    EXPLORER_DTE_DISP: 441.7
+  response: '7E8056241951141'

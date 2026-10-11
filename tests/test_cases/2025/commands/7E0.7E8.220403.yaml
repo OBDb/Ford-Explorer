@@ -1,0 +1,32 @@
+command_id: 7E0.7E8.220403
+test_cases:
+- expected_values:
+    EXPLORER_KS1_RAW: 29
+  response: 7E805620403001D
+- expected_values:
+    EXPLORER_KS1_RAW: 30
+  response: 7E805620403001E
+- expected_values:
+    EXPLORER_KS1_RAW: 39
+  response: '7E8056204030027'
+- expected_values:
+    EXPLORER_KS1_RAW: 47
+  response: 7E805620403002F
+- expected_values:
+    EXPLORER_KS1_RAW: 55
+  response: '7E8056204030037'
+- expected_values:
+    EXPLORER_KS1_RAW: 57
+  response: '7E8056204030039'
+- expected_values:
+    EXPLORER_KS1_RAW: 66
+  response: '7E8056204030042'
+- expected_values:
+    EXPLORER_KS1_RAW: 75
+  response: 7E805620403004B
+- expected_values:
+    EXPLORER_KS1_RAW: 100
+  response: '7E8056204030064'
+- expected_values:
+    EXPLORER_KS1_RAW: 183
+  response: 7E80562040300B7

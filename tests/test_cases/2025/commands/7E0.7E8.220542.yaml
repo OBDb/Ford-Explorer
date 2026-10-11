@@ -1,0 +1,29 @@
+command_id: 7E0.7E8.220542
+test_cases:
+- expected_values:
+    EXPLORER_DIST_SINCE_OIL: 5069
+  response: 7E80562054213CD
+- expected_values:
+    EXPLORER_DIST_SINCE_OIL: 5070
+  response: 7E80562054213CE
+- expected_values:
+    EXPLORER_DIST_SINCE_OIL: 5071
+  response: 7E80562054213CF
+- expected_values:
+    EXPLORER_DIST_SINCE_OIL: 5072
+  response: 7E80562054213D0
+- expected_values:
+    EXPLORER_DIST_SINCE_OIL: 5073
+  response: 7E80562054213D1
+- expected_values:
+    EXPLORER_DIST_SINCE_OIL: 5074
+  response: 7E80562054213D2
+- expected_values:
+    EXPLORER_DIST_SINCE_OIL: 5075
+  response: 7E80562054213D3
+- expected_values:
+    EXPLORER_DIST_SINCE_OIL: 5076
+  response: 7E80562054213D4
+- expected_values:
+    EXPLORER_DIST_SINCE_OIL: 5077
+  response: 7E80562054213D5

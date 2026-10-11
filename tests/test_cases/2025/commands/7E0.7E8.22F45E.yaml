@@ -1,0 +1,32 @@
+command_id: 7E0.7E8.22F45E
+test_cases:
+- expected_values:
+    EXPLORER_ENG_FUEL_RATE: 2.35
+  response: 7E80562F45E002F
+- expected_values:
+    EXPLORER_ENG_FUEL_RATE: 4
+  response: 7E80562F45E0050
+- expected_values:
+    EXPLORER_ENG_FUEL_RATE: 4.2
+  response: 7E80562F45E0054
+- expected_values:
+    EXPLORER_ENG_FUEL_RATE: 5.55
+  response: 7E80562F45E006F
+- expected_values:
+    EXPLORER_ENG_FUEL_RATE: 6.5
+  response: 7E80562F45E0082
+- expected_values:
+    EXPLORER_ENG_FUEL_RATE: 8.9
+  response: 7E80562F45E00B2
+- expected_values:
+    EXPLORER_ENG_FUEL_RATE: 20.85
+  response: 7E80562F45E01A1
+- expected_values:
+    EXPLORER_ENG_FUEL_RATE: 24
+  response: 7E80562F45E01E0
+- expected_values:
+    EXPLORER_ENG_FUEL_RATE: 31.3
+  response: 7E80562F45E0272
+- expected_values:
+    EXPLORER_ENG_FUEL_RATE: 34.85
+  response: 7E80562F45E02B9

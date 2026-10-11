@@ -1,0 +1,32 @@
+command_id: 7E0.7E8.221E1A
+test_cases:
+- expected_values:
+    EXPLORER_PCM_CMD_TRANS_MAIN_LINE_P: 396
+  response: 7E805621E1A00C6
+- expected_values:
+    EXPLORER_PCM_CMD_TRANS_MAIN_LINE_P: 398
+  response: 7E805621E1A00C7
+- expected_values:
+    EXPLORER_PCM_CMD_TRANS_MAIN_LINE_P: 426
+  response: 7E805621E1A00D5
+- expected_values:
+    EXPLORER_PCM_CMD_TRANS_MAIN_LINE_P: 438
+  response: 7E805621E1A00DB
+- expected_values:
+    EXPLORER_PCM_CMD_TRANS_MAIN_LINE_P: 464
+  response: 7E805621E1A00E8
+- expected_values:
+    EXPLORER_PCM_CMD_TRANS_MAIN_LINE_P: 604
+  response: 7E805621E1A012E
+- expected_values:
+    EXPLORER_PCM_CMD_TRANS_MAIN_LINE_P: 630
+  response: 7E805621E1A013B
+- expected_values:
+    EXPLORER_PCM_CMD_TRANS_MAIN_LINE_P: 650
+  response: 7E805621E1A0145
+- expected_values:
+    EXPLORER_PCM_CMD_TRANS_MAIN_LINE_P: 770
+  response: 7E805621E1A0181
+- expected_values:
+    EXPLORER_PCM_CMD_TRANS_MAIN_LINE_P: 1800
+  response: 7E805621E1A0384

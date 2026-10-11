@@ -1,0 +1,32 @@
+command_id: 7E0.7E8.224194
+test_cases:
+- expected_values:
+    EXPLORER_DTE: 429.5
+  response: 7E80562419410C7
+- expected_values:
+    EXPLORER_DTE: 430.3
+  response: 7E80562419410CF
+- expected_values:
+    EXPLORER_DTE: 433.2
+  response: 7E80562419410EC
+- expected_values:
+    EXPLORER_DTE: 434.2
+  response: 7E80562419410F6
+- expected_values:
+    EXPLORER_DTE: 438.7
+  response: '7E8056241941123'
+- expected_values:
+    EXPLORER_DTE: 440.8
+  response: '7E8056241941138'
+- expected_values:
+    EXPLORER_DTE: 440.9
+  response: '7E8056241941139'
+- expected_values:
+    EXPLORER_DTE: 441.5
+  response: 7E805624194113F
+- expected_values:
+    EXPLORER_DTE: 441.8
+  response: '7E8056241941142'
+- expected_values:
+    EXPLORER_DTE: 442
+  response: '7E8056241941144'

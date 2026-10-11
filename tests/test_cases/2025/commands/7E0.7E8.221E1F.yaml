@@ -1,0 +1,11 @@
+command_id: 7E0.7E8.221E1F
+test_cases:
+- expected_values:
+    EXPLORER_GEAR_ENG: 6
+  response: 7E804621E1F06
+- expected_values:
+    EXPLORER_GEAR_ENG: 6
+  response: 7E804621E1F09
+- expected_values:
+    EXPLORER_GEAR_ENG: 6
+  response: 7E804621E1F0A
