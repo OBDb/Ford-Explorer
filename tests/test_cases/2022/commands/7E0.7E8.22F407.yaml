@@ -1,0 +1,8 @@
+command_id: 7E0.7E8.22F407
+test_cases:
+- expected_values:
+    EXPLORER_LTFT: 5.46875
+  response: 7E80462F40787
+- expected_values:
+    EXPLORER_LTFT: 18.75
+  response: 7E80462F40798

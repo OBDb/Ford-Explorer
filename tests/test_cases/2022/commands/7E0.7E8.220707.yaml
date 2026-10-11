@@ -1,0 +1,8 @@
+command_id: 7E0.7E8.220707
+test_cases:
+- expected_values:
+    EXPLORER_GRILL_SHUT_DC: 10.19608
+  response: 7E8046207071A
+- expected_values:
+    EXPLORER_GRILL_SHUT_DC: 100
+  response: 7E804620707FF

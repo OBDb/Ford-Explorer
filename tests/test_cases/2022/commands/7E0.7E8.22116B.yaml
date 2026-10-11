@@ -1,0 +1,11 @@
+command_id: 7E0.7E8.22116B
+test_cases:
+- expected_values:
+    EXPLORER_IGN_TIM_CYL1: 0
+  response: 7E80562116B0000
+- expected_values:
+    EXPLORER_IGN_TIM_CYL1: -20.25
+  response: 7E80562116BFFAF
+- expected_values:
+    EXPLORER_IGN_TIM_CYL1: -1
+  response: 7E80562116BFFFC

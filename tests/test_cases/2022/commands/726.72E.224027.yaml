@@ -1,0 +1,5 @@
+command_id: 726.72E.224027
+test_cases:
+- expected_values:
+    EXPLORER_BATT_AGE: 1549
+  response: 72E05624027060D

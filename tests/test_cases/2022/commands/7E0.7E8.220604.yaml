@@ -1,0 +1,11 @@
+command_id: 7E0.7E8.220604
+test_cases:
+- expected_values:
+    EXPLORER_PCM_A_C_REFRIG_P: 847
+  response: 7E805620604034F
+- expected_values:
+    EXPLORER_PCM_A_C_REFRIG_P: 1019
+  response: 7E80562060403FB
+- expected_values:
+    EXPLORER_PCM_A_C_REFRIG_P: 1282
+  response: '7E8056206040502'

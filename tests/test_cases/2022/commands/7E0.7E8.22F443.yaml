@@ -1,0 +1,11 @@
+command_id: 7E0.7E8.22F443
+test_cases:
+- expected_values:
+    EXPLORER_ENG_LOAD_ACT: 13.72549
+  response: 7E80562F4430023
+- expected_values:
+    EXPLORER_ENG_LOAD_ACT: 98.03922
+  response: 7E80562F44300FA
+- expected_values:
+    EXPLORER_ENG_LOAD_ACT: 109.80392
+  response: 7E80562F4430118

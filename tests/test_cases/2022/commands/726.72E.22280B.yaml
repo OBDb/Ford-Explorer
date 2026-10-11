@@ -1,0 +1,47 @@
+command_id: 726.72E.22280B
+test_cases:
+- expected_values:
+    EXPLORER_TYRE_T: 215
+  response: |-
+    72E100C62280B356FE3
+    72E21290343FF466600
+- expected_values:
+    EXPLORER_TYRE_T: 31
+  response: |-
+    72E100C62280B6B6EA2
+    72E211602B24746B800
+- expected_values:
+    EXPLORER_TYRE_T: 30
+  response: |-
+    72E100C62280B6B6EA2
+    72E218E02A846462D00
+- expected_values:
+    EXPLORER_TYRE_T: 30
+  response: |-
+    72E100C62280B6B6EA2
+    72E218E02B246462F00
+- expected_values:
+    EXPLORER_TYRE_T: 215
+  response: |-
+    72E100C62280B6B6EA2
+    72E218E02BCFF4BE200
+- expected_values:
+    EXPLORER_TYRE_T: 36
+  response: |-
+    72E100C62280B6B6EAA
+    72E218A02D54C464000
+- expected_values:
+    EXPLORER_TYRE_T: 29
+  response: |-
+    72E100C62280B6B6EAC
+    72E213202C14546DF00
+- expected_values:
+    EXPLORER_TYRE_T: 32
+  response: |-
+    72E100C62280B6B6EAC
+    72E213202C14805A100
+- expected_values:
+    EXPLORER_TYRE_T: 33
+  response: |-
+    72E100C62280B6B6EAC
+    72E213202D04946E600

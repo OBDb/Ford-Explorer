@@ -1,0 +1,14 @@
+command_id: 7E0.7E8.22054D
+test_cases:
+- expected_values:
+    EXPLORER_LPFP_SENS_V: 2.55371
+  response: 7E80562054D0A37
+- expected_values:
+    EXPLORER_LPFP_SENS_V: 2.74902
+  response: 7E80562054D0AFF
+- expected_values:
+    EXPLORER_LPFP_SENS_V: 2.75391
+  response: 7E80562054D0B04
+- expected_values:
+    EXPLORER_LPFP_SENS_V: 3.03223
+  response: 7E80562054D0C21

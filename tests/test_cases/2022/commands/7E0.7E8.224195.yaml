@@ -1,0 +1,8 @@
+command_id: 7E0.7E8.224195
+test_cases:
+- expected_values:
+    EXPLORER_DTE_DISP: 338.7
+  response: 7E8056241950D3B
+- expected_values:
+    EXPLORER_DTE_DISP: 354.9
+  response: 7E8056241950DDD

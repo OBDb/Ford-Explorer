@@ -1,0 +1,11 @@
+command_id: 7E0.7E8.220548
+test_cases:
+- expected_values:
+    EXPLORER_LPFP_ACT: 60.62716
+  response: '7E8056205480344'
+- expected_values:
+    EXPLORER_LPFP_ACT: 74.11597
+  response: 7E80562054803FE
+- expected_values:
+    EXPLORER_LPFP_ACT: 74.26102
+  response: '7E8056205480400'
