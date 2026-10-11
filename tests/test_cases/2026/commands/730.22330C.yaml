@@ -1,0 +1,5 @@
+command_id: 730.22330C
+test_cases:
+- expected_values:
+    EXPLORER_STEER_SHFT_TQ: 0.8
+  response: 7380462330C87

@@ -1,0 +1,5 @@
+command_id: 7E0.7E8.2203E3
+test_cases:
+- expected_values:
+    EXPLORER_PF_DIFF_P_FEEDBACK_V: 0.44551
+  response: 7E8056203E301C8
