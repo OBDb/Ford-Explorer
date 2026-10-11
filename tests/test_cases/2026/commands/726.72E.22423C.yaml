@@ -1,0 +1,5 @@
+command_id: 726.72E.22423C
+test_cases:
+- expected_values:
+    EXPLORER_VEH_BAT_B_CURRENT: 3.21875
+  response: 72E0562423C0067
