@@ -1,0 +1,32 @@
+command_id: 7E0.7E8.22F4A6
+test_cases:
+- expected_values:
+    EXPLORER_PCM_VEH_ODO: 67035.1
+  response: 7E80762F4A6000A3A8F
+- expected_values:
+    EXPLORER_PCM_VEH_ODO: 67035.8
+  response: 7E80762F4A6000A3A96
+- expected_values:
+    EXPLORER_PCM_VEH_ODO: 67036.3
+  response: 7E80762F4A6000A3A9B
+- expected_values:
+    EXPLORER_PCM_VEH_ODO: 67037.1
+  response: 7E80762F4A6000A3AA3
+- expected_values:
+    EXPLORER_PCM_VEH_ODO: 67037.8
+  response: 7E80762F4A6000A3AAA
+- expected_values:
+    EXPLORER_PCM_VEH_ODO: 67038.4
+  response: 7E80762F4A6000A3AB0
+- expected_values:
+    EXPLORER_PCM_VEH_ODO: 67039.4
+  response: 7E80762F4A6000A3ABA
+- expected_values:
+    EXPLORER_PCM_VEH_ODO: 67040.4
+  response: 7E80762F4A6000A3AC4
+- expected_values:
+    EXPLORER_PCM_VEH_ODO: 67041.4
+  response: 7E80762F4A6000A3ACE
+- expected_values:
+    EXPLORER_PCM_VEH_ODO: 67042.3
+  response: 7E80762F4A6000A3AD7

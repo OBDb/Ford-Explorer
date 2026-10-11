@@ -1,0 +1,29 @@
+command_id: 7E0.7E8.220604
+test_cases:
+- expected_values:
+    EXPLORER_PCM_A_C_REFRIG_P: 814
+  response: 7E805620604032E
+- expected_values:
+    EXPLORER_PCM_A_C_REFRIG_P: 823
+  response: '7E8056206040337'
+- expected_values:
+    EXPLORER_PCM_A_C_REFRIG_P: 827
+  response: 7E805620604033B
+- expected_values:
+    EXPLORER_PCM_A_C_REFRIG_P: 831
+  response: 7E805620604033F
+- expected_values:
+    EXPLORER_PCM_A_C_REFRIG_P: 844
+  response: 7E805620604034C
+- expected_values:
+    EXPLORER_PCM_A_C_REFRIG_P: 848
+  response: '7E8056206040350'
+- expected_values:
+    EXPLORER_PCM_A_C_REFRIG_P: 856
+  response: '7E8056206040358'
+- expected_values:
+    EXPLORER_PCM_A_C_REFRIG_P: 864
+  response: '7E8056206040360'
+- expected_values:
+    EXPLORER_PCM_A_C_REFRIG_P: 868
+  response: '7E8056206040364'

@@ -1,0 +1,23 @@
+command_id: 7E0.7E8.2203EC
+test_cases:
+- expected_values:
+    EXPLORER_IGN_CORR_CYL1: 0
+  response: 7E8056203EC0000
+- expected_values:
+    EXPLORER_IGN_CORR_CYL1: 0.25
+  response: 7E8056203EC0080
+- expected_values:
+    EXPLORER_IGN_CORR_CYL1: 0.5
+  response: 7E8056203EC0100
+- expected_values:
+    EXPLORER_IGN_CORR_CYL1: 0.85352
+  response: 7E8056203EC01B5
+- expected_values:
+    EXPLORER_IGN_CORR_CYL1: 0.97656
+  response: 7E8056203EC01F4
+- expected_values:
+    EXPLORER_IGN_CORR_CYL1: 1
+  response: 7E8056203EC0200
+- expected_values:
+    EXPLORER_IGN_CORR_CYL1: -0.17188
+  response: 7E8056203ECFFA8

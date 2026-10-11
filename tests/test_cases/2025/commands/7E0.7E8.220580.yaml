@@ -1,0 +1,14 @@
+command_id: 7E0.7E8.220580
+test_cases:
+- expected_values:
+    EXPLORER_GRILL_SHUTTER_POS: 33.33333
+  response: '7E80462058055'
+- expected_values:
+    EXPLORER_GRILL_SHUTTER_POS: 40
+  response: '7E80462058066'
+- expected_values:
+    EXPLORER_GRILL_SHUTTER_POS: 46.66667
+  response: '7E80462058077'
+- expected_values:
+    EXPLORER_GRILL_SHUTTER_POS: 60
+  response: '7E80462058099'

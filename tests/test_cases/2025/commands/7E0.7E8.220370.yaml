@@ -1,0 +1,32 @@
+command_id: 7E0.7E8.220370
+test_cases:
+- expected_values:
+    EXPLORER_MAP_HIRES: 22
+  response: '7E8056203700058'
+- expected_values:
+    EXPLORER_MAP_HIRES: 22.25
+  response: '7E8056203700059'
+- expected_values:
+    EXPLORER_MAP_HIRES: 28.75
+  response: '7E8056203700073'
+- expected_values:
+    EXPLORER_MAP_HIRES: 30.75
+  response: 7E805620370007B
+- expected_values:
+    EXPLORER_MAP_HIRES: 34.25
+  response: '7E8056203700089'
+- expected_values:
+    EXPLORER_MAP_HIRES: 55.75
+  response: 7E80562037000DF
+- expected_values:
+    EXPLORER_MAP_HIRES: 110.25
+  response: 7E80562037001B9
+- expected_values:
+    EXPLORER_MAP_HIRES: 111.5
+  response: 7E80562037001BE
+- expected_values:
+    EXPLORER_MAP_HIRES: 120.25
+  response: 7E80562037001E1
+- expected_values:
+    EXPLORER_MAP_HIRES: 127.25
+  response: 7E80562037001FD
