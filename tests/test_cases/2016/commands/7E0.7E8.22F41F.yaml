@@ -1,0 +1,11 @@
+command_id: 7E0.7E8.22F41F
+test_cases:
+- expected_values:
+    EXPLORER_RUN_TIME: 46
+  response: 7E80562F41F002E
+- expected_values:
+    EXPLORER_RUN_TIME: 236
+  response: 7E80562F41F00EC
+- expected_values:
+    EXPLORER_RUN_TIME: 324
+  response: 7E80562F41F0144
