@@ -4,14 +4,8 @@ test_cases:
     EXPLORER_EVAP_PURGE_CMD: 0
   response: '7E8056211660000'
 - expected_values:
-    EXPLORER_EVAP_PURGE_CMD: 5.71289
-  response: '7E8056211660750'
+    EXPLORER_EVAP_PURGE_CMD: 93.64014
+  response: 7E80562116677DC
 - expected_values:
-    EXPLORER_EVAP_PURGE_CMD: 58.63647
-  response: 7E8056211664B0E
-- expected_values:
-    EXPLORER_EVAP_PURGE_CMD: 91.19263
-  response: 7E80562116674BA
-- expected_values:
-    EXPLORER_EVAP_PURGE_CMD: 92.3584
-  response: '7E8056211667638'
+    EXPLORER_EVAP_PURGE_CMD: 97.14355
+  response: 7E8056211667C58

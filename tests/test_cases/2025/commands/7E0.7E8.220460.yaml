@@ -1,32 +1,8 @@
 command_id: 7E0.7E8.220460
 test_cases:
 - expected_values:
-    EXPLORER_CAT_SENS_V: 1.01465
-  response: 7E805620460040F
+    EXPLORER_CAT_SENS_V: 1.00488
+  response: '7E8056204600405'
 - expected_values:
-    EXPLORER_CAT_SENS_V: 1.02637
-  response: 7E805620460041B
-- expected_values:
-    EXPLORER_CAT_SENS_V: 1.03613
-  response: '7E8056204600425'
-- expected_values:
-    EXPLORER_CAT_SENS_V: 1.03711
-  response: '7E8056204600426'
-- expected_values:
-    EXPLORER_CAT_SENS_V: 1.04492
-  response: 7E805620460042E
-- expected_values:
-    EXPLORER_CAT_SENS_V: 1.04688
-  response: '7E8056204600430'
-- expected_values:
-    EXPLORER_CAT_SENS_V: 1.05664
-  response: 7E805620460043A
-- expected_values:
-    EXPLORER_CAT_SENS_V: 1.06152
-  response: 7E805620460043F
-- expected_values:
-    EXPLORER_CAT_SENS_V: 1.07812
-  response: '7E8056204600450'
-- expected_values:
-    EXPLORER_CAT_SENS_V: 1.08789
-  response: 7E805620460045A
+    EXPLORER_CAT_SENS_V: 1.09277
+  response: 7E805620460045F

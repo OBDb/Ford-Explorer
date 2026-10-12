@@ -1,32 +1,14 @@
 command_id: 7E0.7E8.220461
 test_cases:
 - expected_values:
-    EXPLORER_CAT: -9.15625
-  response: 7E80562046107B6
+    EXPLORER_CAT: -10.53125
+  response: 7E805620461075E
 - expected_values:
-    EXPLORER_CAT: -8.78125
-  response: 7E80562046107CE
+    EXPLORER_CAT: -8.03125
+  response: 7E80562046107FE
 - expected_values:
-    EXPLORER_CAT: -7.40625
-  response: '7E8056204610826'
+    EXPLORER_CAT: -7.90625
+  response: '7E8056204610806'
 - expected_values:
-    EXPLORER_CAT: -6.78125
-  response: 7E805620461084E
-- expected_values:
-    EXPLORER_CAT: -6.65625
-  response: '7E8056204610856'
-- expected_values:
-    EXPLORER_CAT: -5.40625
-  response: 7E80562046108A6
-- expected_values:
-    EXPLORER_CAT: -5.15625
-  response: 7E80562046108B6
-- expected_values:
-    EXPLORER_CAT: -4.65625
-  response: 7E80562046108D6
-- expected_values:
-    EXPLORER_CAT: -3.53125
-  response: 7E805620461091E
-- expected_values:
-    EXPLORER_CAT: -0.03125
-  response: 7E80562046109FE
+    EXPLORER_CAT: -3.78125
+  response: 7E805620461090E

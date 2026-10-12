@@ -1,32 +1,8 @@
 command_id: 7E0.7E8.22F404
 test_cases:
 - expected_values:
-    EXPLORER_ENG_LOAD_PCT: 14.90196
-  response: 7E80462F40426
+    EXPLORER_ENG_LOAD_PCT: 0
+  response: 7E80462F40400
 - expected_values:
-    EXPLORER_ENG_LOAD_PCT: 18.43137
-  response: 7E80462F4042F
-- expected_values:
-    EXPLORER_ENG_LOAD_PCT: 32.94118
-  response: 7E80462F40454
-- expected_values:
-    EXPLORER_ENG_LOAD_PCT: 33.72549
-  response: 7E80462F40456
-- expected_values:
-    EXPLORER_ENG_LOAD_PCT: 35.29412
-  response: 7E80462F4045A
-- expected_values:
-    EXPLORER_ENG_LOAD_PCT: 41.96078
-  response: 7E80462F4046B
-- expected_values:
-    EXPLORER_ENG_LOAD_PCT: 44.70588
-  response: 7E80462F40472
-- expected_values:
-    EXPLORER_ENG_LOAD_PCT: 50.98039
-  response: 7E80462F40482
-- expected_values:
-    EXPLORER_ENG_LOAD_PCT: 67.05882
-  response: 7E80462F404AB
-- expected_values:
-    EXPLORER_ENG_LOAD_PCT: 67.84314
-  response: 7E80462F404AD
+    EXPLORER_ENG_LOAD_PCT: 70.98039
+  response: 7E80462F404B5

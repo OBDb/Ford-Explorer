@@ -359,7 +359,7 @@
   "signals": [
     {"id": "EXPLORER_ECT", "fmt": { "len": 16, "max": 148.889, "min": -40, "div": 64, "sign": true, "unit": "celsius" }, "name": "Engine coolant temperature"}
   ]},
-{ "hdr": "7E0", "cmd": {"22": "0393"}, "freq": 0.25, "dbgfilter": { "to": 2010, "years": [2012, 2014], "from": 2020 },
+{ "hdr": "7E0", "cmd": {"22": "0393"}, "freq": 0.25, "filter": { "to": 2019 }, "dbgfilter": { "to": 2010, "years": [2012, 2014] },
   "signals": [
     {"id": "EXPLORER_AC_P", "fmt": { "len": 16, "max": 1000, "min": -100, "mul": 0.2900754962, "unit": "psi" }, "name": "Air conditioning compressor pressure"}
   ]},

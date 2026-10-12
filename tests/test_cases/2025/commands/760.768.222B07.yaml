@@ -1,14 +1,8 @@
 command_id: 760.768.222B07
 test_cases:
 - expected_values:
-    EXPLORER_FL_VSS: 86
-  response: 76804622B0756
-- expected_values:
-    EXPLORER_FL_VSS: 92
-  response: 76804622B075C
-- expected_values:
-    EXPLORER_FL_VSS: 116
-  response: 76804622B0774
+    EXPLORER_FL_VSS: 13
+  response: 76804622B070D
 - expected_values:
     EXPLORER_FL_VSS: 119
   response: 76804622B0777

@@ -1,26 +1,8 @@
 command_id: 7E0.7E8.22F462
 test_cases:
 - expected_values:
-    EXPLORER_PCM_ACT_ENG_PCT_TRQ: 5
-  response: 7E80462F46282
-- expected_values:
-    EXPLORER_PCM_ACT_ENG_PCT_TRQ: 10
-  response: 7E80462F46287
-- expected_values:
-    EXPLORER_PCM_ACT_ENG_PCT_TRQ: 13
-  response: 7E80462F4628A
-- expected_values:
-    EXPLORER_PCM_ACT_ENG_PCT_TRQ: 16
-  response: 7E80462F4628D
-- expected_values:
-    EXPLORER_PCM_ACT_ENG_PCT_TRQ: 30
-  response: 7E80462F4629B
-- expected_values:
-    EXPLORER_PCM_ACT_ENG_PCT_TRQ: 42
-  response: 7E80462F462A7
-- expected_values:
-    EXPLORER_PCM_ACT_ENG_PCT_TRQ: 48
-  response: 7E80462F462AD
+    EXPLORER_PCM_ACT_ENG_PCT_TRQ: 0
+  response: 7E80462F4627D
 - expected_values:
     EXPLORER_PCM_ACT_ENG_PCT_TRQ: 51
   response: 7E80462F462B0
