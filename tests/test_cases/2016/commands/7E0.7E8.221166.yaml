@@ -1,0 +1,29 @@
+command_id: 7E0.7E8.221166
+test_cases:
+- expected_values:
+    EXPLORER_EVAP_PURGE_CMD: 0
+  response: '7E8056211660000'
+- expected_values:
+    EXPLORER_EVAP_PURGE_CMD: 8.33435
+  response: 7E8056211660AAB
+- expected_values:
+    EXPLORER_EVAP_PURGE_CMD: 10.0708
+  response: 7E8056211660CE4
+- expected_values:
+    EXPLORER_EVAP_PURGE_CMD: 24.63684
+  response: 7E8056211661F89
+- expected_values:
+    EXPLORER_EVAP_PURGE_CMD: 50.28992
+  response: 7E805621166405F
+- expected_values:
+    EXPLORER_EVAP_PURGE_CMD: 64.65149
+  response: 7E80562116652C1
+- expected_values:
+    EXPLORER_EVAP_PURGE_CMD: 65.25879
+  response: '7E8056211665388'
+- expected_values:
+    EXPLORER_EVAP_PURGE_CMD: 72.58606
+  response: 7E8056211665CE9
+- expected_values:
+    EXPLORER_EVAP_PURGE_CMD: 85.60181
+  response: 7E8056211666D92

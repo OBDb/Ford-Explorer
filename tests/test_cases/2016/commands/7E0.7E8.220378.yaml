@@ -1,0 +1,14 @@
+command_id: 7E0.7E8.220378
+test_cases:
+- expected_values:
+    EXPLORER_GEN_CTRL: 14.31388
+  response: '7E8056203781252'
+- expected_values:
+    EXPLORER_GEN_CTRL: 19.51754
+  response: 7E80562037818FB
+- expected_values:
+    EXPLORER_GEN_CTRL: 23.54313
+  response: 7E8056203781E22
+- expected_values:
+    EXPLORER_GEN_CTRL: 26.68669
+  response: '7E8056203782228'

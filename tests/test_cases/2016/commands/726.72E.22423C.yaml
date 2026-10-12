@@ -1,0 +1,14 @@
+command_id: 726.72E.22423C
+test_cases:
+- expected_values:
+    EXPLORER_VEH_BAT_B_CURRENT: 3.03125
+  response: 72E0562423C0061
+- expected_values:
+    EXPLORER_VEH_BAT_B_CURRENT: 4.59375
+  response: 72E0562423C0093
+- expected_values:
+    EXPLORER_VEH_BAT_B_CURRENT: 8.5625
+  response: 72E0562423C0112
+- expected_values:
+    EXPLORER_VEH_BAT_B_CURRENT: -7.1875
+  response: 72E0562423CFF1A

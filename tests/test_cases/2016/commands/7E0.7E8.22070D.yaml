@@ -1,0 +1,11 @@
+command_id: 7E0.7E8.22070D
+test_cases:
+- expected_values:
+    EXPLORER_TRANSFER_CASE_FLUID_T: 9.9375
+  response: 7E80562070D009F
+- expected_values:
+    EXPLORER_TRANSFER_CASE_FLUID_T: 21.0625
+  response: 7E80562070D0151
+- expected_values:
+    EXPLORER_TRANSFER_CASE_FLUID_T: 31.9375
+  response: 7E80562070D01FF

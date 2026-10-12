@@ -1,0 +1,11 @@
+command_id: 7E0.7E8.221E63
+test_cases:
+- expected_values:
+    EXPLORER_AWD_CLU_CMD_CTRL_SIG: 61.96078
+  response: 7E804621E639E
+- expected_values:
+    EXPLORER_AWD_CLU_CMD_CTRL_SIG: 71.76471
+  response: 7E804621E63B7
+- expected_values:
+    EXPLORER_AWD_CLU_CMD_CTRL_SIG: 96.07843
+  response: 7E804621E63F5

@@ -1,0 +1,20 @@
+command_id: 7E0.7E8.22F434
+test_cases:
+- expected_values:
+    EXPLORER_AIR_FUEL_RAT: 14.135
+  response: 7E80762F4347B957FB4
+- expected_values:
+    EXPLORER_AIR_FUEL_RAT: 14.63227
+  response: 7E80762F4347FEE7FE6
+- expected_values:
+    EXPLORER_AIR_FUEL_RAT: 14.75737
+  response: 7E80762F43481067FEC
+- expected_values:
+    EXPLORER_AIR_FUEL_RAT: 14.88962
+  response: 7E80762F434822E7FFF
+- expected_values:
+    EXPLORER_AIR_FUEL_RAT: 15.29084
+  response: 7E80762F43485B08012
+- expected_values:
+    EXPLORER_AIR_FUEL_RAT: 15.72377
+  response: 7E80762F43489798033
