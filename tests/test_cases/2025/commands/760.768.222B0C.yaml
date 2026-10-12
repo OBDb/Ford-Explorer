@@ -4,8 +4,8 @@ test_cases:
     EXPLORER_LAT_ANG: 0
   response: 76805622B0C0000
 - expected_values:
-    EXPLORER_LAT_ANG: -3
-  response: 76805622B0CFFFD
+    EXPLORER_LAT_ANG: -9
+  response: 76805622B0CFFF7
 - expected_values:
     EXPLORER_LAT_ANG: -2
   response: 76805622B0CFFFE

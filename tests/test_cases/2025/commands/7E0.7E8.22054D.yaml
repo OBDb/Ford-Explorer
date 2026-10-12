@@ -1,8 +1,8 @@
 command_id: 7E0.7E8.22054D
 test_cases:
 - expected_values:
-    EXPLORER_LPFP_SENS_V: 2.91992
-  response: 7E80562054D0BAE
+    EXPLORER_LPFP_SENS_V: 2.60742
+  response: 7E80562054D0A6E
 - expected_values:
     EXPLORER_LPFP_SENS_V: 2.99805
   response: 7E80562054D0BFE

@@ -10,5 +10,5 @@ test_cases:
     EXPLORER_CAT: -7.90625
   response: '7E8056204610806'
 - expected_values:
-    EXPLORER_CAT: -3.53125
-  response: 7E805620461091E
+    EXPLORER_CAT: -3.78125
+  response: 7E805620461090E
