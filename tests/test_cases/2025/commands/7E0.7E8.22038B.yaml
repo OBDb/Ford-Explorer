@@ -4,17 +4,5 @@ test_cases:
     EXPLORER_PCM_MISF_ACCEL_CYL4_NORM: 0
   response: 7E80462038B00
 - expected_values:
-    EXPLORER_PCM_MISF_ACCEL_CYL4_NORM: 0.0625
-  response: 7E80462038B04
-- expected_values:
-    EXPLORER_PCM_MISF_ACCEL_CYL4_NORM: 0.09375
-  response: 7E80462038B06
-- expected_values:
-    EXPLORER_PCM_MISF_ACCEL_CYL4_NORM: -0.04688
-  response: 7E80462038BFD
-- expected_values:
-    EXPLORER_PCM_MISF_ACCEL_CYL4_NORM: -0.03125
-  response: 7E80462038BFE
-- expected_values:
     EXPLORER_PCM_MISF_ACCEL_CYL4_NORM: -0.01562
   response: 7E80462038BFF

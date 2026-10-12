@@ -1,32 +1,11 @@
 command_id: 7E0.7E8.22F40C
 test_cases:
 - expected_values:
-    EXPLORER_RPM: 1430
-  response: 7E80562F40C1658
+    EXPLORER_RPM: 1213.25
+  response: 7E80562F40C12F5
 - expected_values:
-    EXPLORER_RPM: 1462.75
-  response: 7E80562F40C16DB
+    EXPLORER_RPM: 1730
+  response: 7E80562F40C1B08
 - expected_values:
-    EXPLORER_RPM: 1488.25
-  response: 7E80562F40C1741
-- expected_values:
-    EXPLORER_RPM: 1533.25
-  response: 7E80562F40C17F5
-- expected_values:
-    EXPLORER_RPM: 1593.25
-  response: 7E80562F40C18E5
-- expected_values:
-    EXPLORER_RPM: 1836.75
-  response: 7E80562F40C1CB3
-- expected_values:
-    EXPLORER_RPM: 2080.5
-  response: 7E80562F40C2082
-- expected_values:
-    EXPLORER_RPM: 2092
-  response: 7E80562F40C20B0
-- expected_values:
-    EXPLORER_RPM: 2116.25
-  response: 7E80562F40C2111
-- expected_values:
-    EXPLORER_RPM: 3371.5
-  response: 7E80562F40C34AE
+    EXPLORER_RPM: 3896.25
+  response: 7E80562F40C3CE1

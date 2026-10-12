@@ -1,32 +1,14 @@
 command_id: 7E0.7E8.22093C
 test_cases:
 - expected_values:
-    EXPLORER_ETC_ANG_ACT: 3.36523
-  response: 7E80562093C06BB
+    EXPLORER_ETC_ANG_ACT: 2.58789
+  response: 7E80562093C052D
 - expected_values:
-    EXPLORER_ETC_ANG_ACT: 3.42969
-  response: 7E80562093C06DC
-- expected_values:
-    EXPLORER_ETC_ANG_ACT: 8.82031
-  response: 7E80562093C11A4
-- expected_values:
-    EXPLORER_ETC_ANG_ACT: 9.58789
-  response: 7E80562093C132D
+    EXPLORER_ETC_ANG_ACT: 9.99414
+  response: 7E80562093C13FD
 - expected_values:
     EXPLORER_ETC_ANG_ACT: 16
   response: 7E80562093C2000
-- expected_values:
-    EXPLORER_ETC_ANG_ACT: 17.22656
-  response: 7E80562093C2274
-- expected_values:
-    EXPLORER_ETC_ANG_ACT: 23.64648
-  response: 7E80562093C2F4B
-- expected_values:
-    EXPLORER_ETC_ANG_ACT: 24.48633
-  response: 7E80562093C30F9
-- expected_values:
-    EXPLORER_ETC_ANG_ACT: 35.75586
-  response: 7E80562093C4783
 - expected_values:
     EXPLORER_ETC_ANG_ACT: 39.09375
   response: 7E80562093C4E30

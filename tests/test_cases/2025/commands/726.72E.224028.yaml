@@ -3,3 +3,6 @@ test_cases:
 - expected_values:
     EXPLORER_BATT_SOC: 75
   response: 72E046240284B
+- expected_values:
+    EXPLORER_BATT_SOC: 76
+  response: 72E046240284C
