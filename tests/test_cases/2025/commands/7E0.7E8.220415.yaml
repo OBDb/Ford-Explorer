@@ -1,32 +1,11 @@
 command_id: 7E0.7E8.220415
 test_cases:
 - expected_values:
-    EXPLORER_PCM_ENG_EOP_RAW: 293
-  response: '7E8056204150125'
+    EXPLORER_PCM_ENG_EOP_RAW: 266
+  response: 7E805620415010A
 - expected_values:
-    EXPLORER_PCM_ENG_EOP_RAW: 295
-  response: '7E8056204150127'
-- expected_values:
-    EXPLORER_PCM_ENG_EOP_RAW: 320
-  response: '7E8056204150140'
-- expected_values:
-    EXPLORER_PCM_ENG_EOP_RAW: 336
-  response: '7E8056204150150'
-- expected_values:
-    EXPLORER_PCM_ENG_EOP_RAW: 357
-  response: '7E8056204150165'
-- expected_values:
-    EXPLORER_PCM_ENG_EOP_RAW: 387
-  response: '7E8056204150183'
-- expected_values:
-    EXPLORER_PCM_ENG_EOP_RAW: 404
-  response: '7E8056204150194'
-- expected_values:
-    EXPLORER_PCM_ENG_EOP_RAW: 420
-  response: 7E80562041501A4
-- expected_values:
-    EXPLORER_PCM_ENG_EOP_RAW: 467
-  response: 7E80562041501D3
+    EXPLORER_PCM_ENG_EOP_RAW: 600
+  response: '7E8056204150258'
 - expected_values:
     EXPLORER_PCM_ENG_EOP_RAW: 746
   response: 7E80562041502EA

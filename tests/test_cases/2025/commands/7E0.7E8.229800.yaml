@@ -1,26 +1,11 @@
 command_id: 7E0.7E8.229800
 test_cases:
 - expected_values:
-    EXPLORER_AC_P_SENS_V: 1.34766
-  response: '7E8056298000564'
+    EXPLORER_AC_P_SENS_V: 1.1084
+  response: 7E805629800046F
 - expected_values:
-    EXPLORER_AC_P_SENS_V: 1.35254
-  response: '7E8056298000569'
-- expected_values:
-    EXPLORER_AC_P_SENS_V: 1.37207
-  response: 7E805629800057D
-- expected_values:
-    EXPLORER_AC_P_SENS_V: 1.38184
-  response: '7E8056298000587'
-- expected_values:
-    EXPLORER_AC_P_SENS_V: 1.38672
-  response: 7E805629800058C
-- expected_values:
-    EXPLORER_AC_P_SENS_V: 1.3916
-  response: '7E8056298000591'
-- expected_values:
-    EXPLORER_AC_P_SENS_V: 1.40625
-  response: 7E80562980005A0
+    EXPLORER_AC_P_SENS_V: 1.29395
+  response: 7E805629800052D
 - expected_values:
     EXPLORER_AC_P_SENS_V: 1.4209
   response: 7E80562980005AF

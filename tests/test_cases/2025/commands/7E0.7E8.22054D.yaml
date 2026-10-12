@@ -4,26 +4,11 @@ test_cases:
     EXPLORER_LPFP_SENS_V: 2.91992
   response: 7E80562054D0BAE
 - expected_values:
-    EXPLORER_LPFP_SENS_V: 3.00781
-  response: 7E80562054D0C08
+    EXPLORER_LPFP_SENS_V: 2.99805
+  response: 7E80562054D0BFE
 - expected_values:
-    EXPLORER_LPFP_SENS_V: 3.07617
-  response: 7E80562054D0C4E
+    EXPLORER_LPFP_SENS_V: 3.50098
+  response: 7E80562054D0E01
 - expected_values:
-    EXPLORER_LPFP_SENS_V: 3.27637
-  response: 7E80562054D0D1B
-- expected_values:
-    EXPLORER_LPFP_SENS_V: 3.31055
-  response: 7E80562054D0D3E
-- expected_values:
-    EXPLORER_LPFP_SENS_V: 3.31543
-  response: 7E80562054D0D43
-- expected_values:
-    EXPLORER_LPFP_SENS_V: 3.35938
-  response: 7E80562054D0D70
-- expected_values:
-    EXPLORER_LPFP_SENS_V: 3.40332
-  response: 7E80562054D0D9D
-- expected_values:
-    EXPLORER_LPFP_SENS_V: 3.44238
-  response: 7E80562054D0DC5
+    EXPLORER_LPFP_SENS_V: 3.93066
+  response: 7E80562054D0FB9

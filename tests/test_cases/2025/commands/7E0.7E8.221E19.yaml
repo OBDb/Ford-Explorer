@@ -7,6 +7,9 @@ test_cases:
     EXPLORER_PCM_CMD_TRANS_GEAR_RATIO: 0.68898
   response: 7E805621E190B06
 - expected_values:
+    EXPLORER_PCM_CMD_TRANS_GEAR_RATIO: 0.8528
+  response: 7E805621E190DA5
+- expected_values:
     EXPLORER_PCM_CMD_TRANS_GEAR_RATIO: 1.00002
   response: 7E805621E191000
 - expected_values:

@@ -1,29 +1,8 @@
 command_id: 7E0.7E8.220707
 test_cases:
 - expected_values:
-    EXPLORER_GRILL_SHUT_DC: 33.72549
-  response: '7E80462070756'
+    EXPLORER_GRILL_SHUT_DC: 2.35294
+  response: '7E80462070706'
 - expected_values:
-    EXPLORER_GRILL_SHUT_DC: 34.5098
-  response: '7E80462070758'
-- expected_values:
-    EXPLORER_GRILL_SHUT_DC: 35.68627
-  response: 7E8046207075B
-- expected_values:
-    EXPLORER_GRILL_SHUT_DC: 36.47059
-  response: 7E8046207075D
-- expected_values:
-    EXPLORER_GRILL_SHUT_DC: 37.64706
-  response: '7E80462070760'
-- expected_values:
-    EXPLORER_GRILL_SHUT_DC: 38.03922
-  response: '7E80462070761'
-- expected_values:
-    EXPLORER_GRILL_SHUT_DC: 48.23529
-  response: 7E8046207077B
-- expected_values:
-    EXPLORER_GRILL_SHUT_DC: 49.41176
-  response: 7E8046207077E
-- expected_values:
-    EXPLORER_GRILL_SHUT_DC: 58.82353
-  response: '7E80462070796'
+    EXPLORER_GRILL_SHUT_DC: 100
+  response: 7E804620707FF

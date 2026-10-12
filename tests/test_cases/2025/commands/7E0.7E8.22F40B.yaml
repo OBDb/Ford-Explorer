@@ -1,32 +1,8 @@
 command_id: 7E0.7E8.22F40B
 test_cases:
 - expected_values:
-    EXPLORER_MAP: 4.20613
-  response: 7E80462F40B1D
-- expected_values:
-    EXPLORER_MAP: 4.93132
-  response: 7E80462F40B22
-- expected_values:
-    EXPLORER_MAP: 5.07636
-  response: 7E80462F40B23
-- expected_values:
-    EXPLORER_MAP: 5.2214
-  response: 7E80462F40B24
-- expected_values:
-    EXPLORER_MAP: 7.97714
-  response: 7E80462F40B37
-- expected_values:
-    EXPLORER_MAP: 12.61839
-  response: 7E80462F40B57
-- expected_values:
-    EXPLORER_MAP: 16.09932
-  response: 7E80462F40B6F
-- expected_values:
-    EXPLORER_MAP: 16.24436
-  response: 7E80462F40B70
-- expected_values:
-    EXPLORER_MAP: 17.40467
-  response: 7E80462F40B78
+    EXPLORER_MAP: 3.19086
+  response: 7E80462F40B16
 - expected_values:
     EXPLORER_MAP: 18.56498
   response: 7E80462F40B80

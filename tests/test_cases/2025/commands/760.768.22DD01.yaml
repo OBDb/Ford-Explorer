@@ -4,11 +4,8 @@ test_cases:
     EXPLORER_ABS_ODO: 67034
   response: 7680662DD010105DA
 - expected_values:
-    EXPLORER_ABS_ODO: 67037
-  response: 7680662DD010105DD
+    EXPLORER_ABS_ODO: 67069
+  response: 7680662DD010105FD
 - expected_values:
-    EXPLORER_ABS_ODO: 67039
-  response: 7680662DD010105DF
-- expected_values:
-    EXPLORER_ABS_ODO: 67042
-  response: 7680662DD010105E2
+    EXPLORER_ABS_ODO: 67072
+  response: 7680662DD01010600
