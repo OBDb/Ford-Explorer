@@ -125,4 +125,4 @@ supported_commands_by_ecu:
   - 7E0.7E8.22F42F:EXPLORER_FLI
 unsupported_commands_by_ecu:
   "7E0":
-  - 7E0.220393:EXPLORER_AC_P
+  - 7E0.220393
