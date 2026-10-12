@@ -3,3 +3,6 @@ test_cases:
 - expected_values:
     EXPLORER_FOOT_BRAKE: 0
   response: 70B07623B4000000000
+- expected_values:
+    EXPLORER_FOOT_BRAKE: 1
+  response: 70B07623B4002000000

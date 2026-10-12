@@ -13,8 +13,14 @@ test_cases:
     EXPLORER_TRQ_CTRL_REQ: 7
   response: 7E8046203AF07
 - expected_values:
+    EXPLORER_TRQ_CTRL_REQ: 12
+  response: 7E8046203AF0C
+- expected_values:
     EXPLORER_TRQ_CTRL_REQ: 16
   response: 7E8046203AF10
+- expected_values:
+    EXPLORER_TRQ_CTRL_REQ: 22
+  response: 7E8046203AF16
 - expected_values:
     EXPLORER_TRQ_CTRL_REQ: 26
   response: 7E8046203AF1A

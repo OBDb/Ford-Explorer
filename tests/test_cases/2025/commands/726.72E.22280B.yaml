@@ -16,11 +16,6 @@ test_cases:
     72E100C62280B600708
     72E2166028F8246F8CC
 - expected_values:
-    EXPLORER_TYRE_T: 93
-  response: |-
-    72E100C62280B600708
-    72E216602948546FCCC
-- expected_values:
     EXPLORER_TYRE_T: 83
   response: |-
     72E100C62280B600709
@@ -30,6 +25,11 @@ test_cases:
   response: |-
     72E100C62280B600709
     72E21D802B2834673CC
+- expected_values:
+    EXPLORER_TYRE_T: 87
+  response: |-
+    72E100C62280B600720
+    72E21B8028F7F465FCC
 - expected_values:
     EXPLORER_TYRE_T: 89
   response: |-

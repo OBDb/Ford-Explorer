@@ -1,14 +1,11 @@
 command_id: 7E0.7E8.221505
 test_cases:
 - expected_values:
-    EXPLORER_VSS_HD: 56.67188
-  response: 7E8056215051C56
+    EXPLORER_VSS_HD: 0
+  response: '7E8056215050000'
 - expected_values:
-    EXPLORER_VSS_HD: 68.02344
-  response: '7E8056215052203'
-- expected_values:
-    EXPLORER_VSS_HD: 109.92969
-  response: 7E80562150536F7
+    EXPLORER_VSS_HD: 15.97656
+  response: 7E80562150507FD
 - expected_values:
     EXPLORER_VSS_HD: 124.36719
   response: 7E8056215053E2F

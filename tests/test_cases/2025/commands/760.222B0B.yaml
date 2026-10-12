@@ -4,23 +4,8 @@ test_cases:
     EXPLORER_YAW_RATE_SIG: 0
   response: 76805622B0B0000
 - expected_values:
-    EXPLORER_YAW_RATE_SIG: 0.2
-  response: 76805622B0B0001
-- expected_values:
-    EXPLORER_YAW_RATE_SIG: -6.2
-  response: 76805622B0BFFE1
-- expected_values:
-    EXPLORER_YAW_RATE_SIG: -1.6
-  response: 76805622B0BFFF8
-- expected_values:
-    EXPLORER_YAW_RATE_SIG: -1.2
-  response: 76805622B0BFFFA
-- expected_values:
-    EXPLORER_YAW_RATE_SIG: -1
-  response: 76805622B0BFFFB
-- expected_values:
-    EXPLORER_YAW_RATE_SIG: -0.4
-  response: 76805622B0BFFFE
+    EXPLORER_YAW_RATE_SIG: -22
+  response: 76805622B0BFF92
 - expected_values:
     EXPLORER_YAW_RATE_SIG: -0.2
   response: 76805622B0BFFFF

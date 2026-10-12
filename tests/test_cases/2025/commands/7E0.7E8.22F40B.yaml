@@ -4,5 +4,5 @@ test_cases:
     EXPLORER_MAP: 3.19086
   response: 7E80462F40B16
 - expected_values:
-    EXPLORER_MAP: 18.56498
-  response: 7E80462F40B80
+    EXPLORER_MAP: 20.16041
+  response: 7E80462F40B8B

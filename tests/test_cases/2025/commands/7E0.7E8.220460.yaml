@@ -4,5 +4,5 @@ test_cases:
     EXPLORER_CAT_SENS_V: 1.00488
   response: '7E8056204600405'
 - expected_values:
-    EXPLORER_CAT_SENS_V: 1.08789
-  response: 7E805620460045A
+    EXPLORER_CAT_SENS_V: 1.09277
+  response: 7E805620460045F

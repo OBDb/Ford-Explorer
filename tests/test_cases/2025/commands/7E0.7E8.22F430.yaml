@@ -6,3 +6,6 @@ test_cases:
 - expected_values:
     EXPLORER_WARMUP_CLR: 73
   response: 7E80462F43049
+- expected_values:
+    EXPLORER_WARMUP_CLR: 74
+  response: 7E80462F4304A

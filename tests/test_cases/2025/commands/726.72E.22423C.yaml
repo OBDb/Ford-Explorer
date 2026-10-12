@@ -4,5 +4,8 @@ test_cases:
     EXPLORER_VEH_BAT_B_CURRENT: 1.59375
   response: 72E0562423C0033
 - expected_values:
-    EXPLORER_VEH_BAT_B_CURRENT: 3.25
-  response: 72E0562423C0068
+    EXPLORER_VEH_BAT_B_CURRENT: 7.6875
+  response: 72E0562423C00F6
+- expected_values:
+    EXPLORER_VEH_BAT_B_CURRENT: -9.5
+  response: 72E0562423CFED0
