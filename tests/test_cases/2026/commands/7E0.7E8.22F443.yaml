@@ -1,8 +1,8 @@
 command_id: 7E0.7E8.22F443
 test_cases:
 - expected_values:
-    EXPLORER_ENG_LOAD_ACT: 12.94118
-  response: 7E80562F4430021
+    EXPLORER_ENG_LOAD_ACT: 12.54902
+  response: 7E80562F4430020
 - expected_values:
     EXPLORER_ENG_LOAD_ACT: 97.64706
   response: 7E80562F44300F9

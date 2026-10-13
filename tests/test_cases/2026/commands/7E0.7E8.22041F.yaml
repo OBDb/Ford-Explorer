@@ -4,5 +4,5 @@ test_cases:
     EXPLORER_LPFP_DES: 54.81
   response: 7E80462041F7E
 - expected_values:
-    EXPLORER_LPFP_DES: 75.255
-  response: 7E80462041FAD
+    EXPLORER_LPFP_DES: 77.43
+  response: 7E80462041FB2

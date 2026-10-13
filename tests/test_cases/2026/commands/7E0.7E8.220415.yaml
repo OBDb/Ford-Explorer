@@ -1,8 +1,8 @@
 command_id: 7E0.7E8.220415
 test_cases:
 - expected_values:
-    EXPLORER_PCM_ENG_EOP_RAW: 246
-  response: 7E80562041500F6
+    EXPLORER_PCM_ENG_EOP_RAW: 233
+  response: 7E80562041500E9
 - expected_values:
     EXPLORER_PCM_ENG_EOP_RAW: 255
   response: 7E80562041500FF
@@ -10,5 +10,5 @@ test_cases:
     EXPLORER_PCM_ENG_EOP_RAW: 256
   response: '7E8056204150100'
 - expected_values:
-    EXPLORER_PCM_ENG_EOP_RAW: 524
-  response: 7E805620415020C
+    EXPLORER_PCM_ENG_EOP_RAW: 512
+  response: '7E8056204150200'

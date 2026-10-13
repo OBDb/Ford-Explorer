@@ -1,14 +1,14 @@
 command_id: 7E0.7E8.220304
 test_cases:
 - expected_values:
-    EXPLORER_CMD_GEN_V: 12.57625
-  response: 7E80562030464AB
+    EXPLORER_CMD_GEN_V: 10.5935
+  response: 7E80562030454CC
 - expected_values:
-    EXPLORER_CMD_GEN_V: 12.99154
-  response: 7E80562030467FE
+    EXPLORER_CMD_GEN_V: 14.36623
+  response: 7E80562030472FF
 - expected_values:
-    EXPLORER_CMD_GEN_V: 12.99544
-  response: '7E8056203046806'
+    EXPLORER_CMD_GEN_V: 14.36721
+  response: '7E8056203047301'
 - expected_values:
     EXPLORER_CMD_GEN_V: 14.90303
   response: 7E805620304774B

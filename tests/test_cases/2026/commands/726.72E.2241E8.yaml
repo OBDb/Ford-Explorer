@@ -3,3 +3,6 @@ test_cases:
 - expected_values:
     EXPLORER_VEH_BAT_B_V: 13.5
   response: 72E046241E896
+- expected_values:
+    EXPLORER_VEH_BAT_B_V: 14.3
+  response: 72E046241E8A6

@@ -10,5 +10,5 @@ test_cases:
     EXPLORER_DTE: 128
   response: '7E8056241940500'
 - expected_values:
-    EXPLORER_DTE: 154.2
-  response: '7E8056241940606'
+    EXPLORER_DTE: 640.4
+  response: '7E8056241941904'

@@ -3,3 +3,9 @@ test_cases:
 - expected_values:
     EXPLORER_IAT_SENS_V: 0.86022
   response: 7E80562127900B0
+- expected_values:
+    EXPLORER_IAT_SENS_V: 0.88465
+  response: 7E80562127900B5
+- expected_values:
+    EXPLORER_IAT_SENS_V: 0.89443
+  response: 7E80562127900B7

@@ -3,3 +3,6 @@ test_cases:
 - expected_values:
     EXPLORER_BATT_AGE: 306
   response: '72E056240270132'
+- expected_values:
+    EXPLORER_BATT_AGE: 308
+  response: '72E056240270134'
