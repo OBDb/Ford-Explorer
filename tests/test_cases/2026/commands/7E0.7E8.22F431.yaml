@@ -4,5 +4,5 @@ test_cases:
     EXPLORER_DIST_DTC_CLR: 15885
   response: 7E80562F4313E0D
 - expected_values:
-    EXPLORER_DIST_DTC_CLR: 15982
-  response: 7E80562F4313E6E
+    EXPLORER_DIST_DTC_CLR: 16080
+  response: 7E80562F4313ED0

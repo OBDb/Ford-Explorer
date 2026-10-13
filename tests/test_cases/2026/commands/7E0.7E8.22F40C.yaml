@@ -1,14 +1,14 @@
 command_id: 7E0.7E8.22F40C
 test_cases:
 - expected_values:
-    EXPLORER_RPM: 736.25
-  response: 7E80562F40C0B81
+    EXPLORER_RPM: 698.5
+  response: 7E80562F40C0AEA
 - expected_values:
-    EXPLORER_RPM: 897
-  response: 7E80562F40C0E04
+    EXPLORER_RPM: 1408.5
+  response: 7E80562F40C1602
 - expected_values:
     EXPLORER_RPM: 1599.75
   response: 7E80562F40C18FF
 - expected_values:
-    EXPLORER_RPM: 2429.25
-  response: 7E80562F40C25F5
+    EXPLORER_RPM: 2855.25
+  response: 7E80562F40C2C9D

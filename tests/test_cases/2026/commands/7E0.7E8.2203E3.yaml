@@ -3,3 +3,6 @@ test_cases:
 - expected_values:
     EXPLORER_PF_DIFF_P_FEEDBACK_V: 0.44551
   response: 7E8056203E301C8
+- expected_values:
+    EXPLORER_PF_DIFF_P_FEEDBACK_V: 1.13039
+  response: 7E8056203E30485

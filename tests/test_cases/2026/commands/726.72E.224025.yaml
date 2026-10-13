@@ -3,3 +3,6 @@ test_cases:
 - expected_values:
     EXPLORER_BAT_QUIESCENT: 37
   response: 72E05624025081A
+- expected_values:
+    EXPLORER_BAT_QUIESCENT: 38
+  response: 72E05624025081C

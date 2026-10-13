@@ -3,3 +3,6 @@ test_cases:
 - expected_values:
     EXPLORER_NORM_CUM_DCHG_BAT_OFF: 14.7
   response: '72E056240260093'
+- expected_values:
+    EXPLORER_NORM_CUM_DCHG_BAT_OFF: 14.8
+  response: '72E056240260094'

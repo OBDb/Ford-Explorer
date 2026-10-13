@@ -4,11 +4,11 @@ test_cases:
     EXPLORER_LPFP_SENS_V: 1.96973
   response: 7E80562054D07E1
 - expected_values:
-    EXPLORER_LPFP_SENS_V: 1.99707
-  response: 7E80562054D07FD
-- expected_values:
     EXPLORER_LPFP_SENS_V: 2
   response: 7E80562054D0800
 - expected_values:
-    EXPLORER_LPFP_SENS_V: 2.50293
-  response: 7E80562054D0A03
+    EXPLORER_LPFP_SENS_V: 2.49805
+  response: 7E80562054D09FE
+- expected_values:
+    EXPLORER_LPFP_SENS_V: 2.50098
+  response: 7E80562054D0A01

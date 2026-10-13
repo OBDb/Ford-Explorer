@@ -10,5 +10,5 @@ test_cases:
     EXPLORER_KS1_RAW: 256
   response: '7E8056204030100'
 - expected_values:
-    EXPLORER_KS1_RAW: 860
-  response: 7E805620403035C
+    EXPLORER_KS1_RAW: 1314
+  response: '7E8056204030522'
