@@ -1,0 +1,14 @@
+command_id: 7E0.7E8.221E19
+test_cases:
+- expected_values:
+    EXPLORER_PCM_CMD_TRANS_GEAR_RATIO: 0.636
+  response: 7E805621E190A2D
+- expected_values:
+    EXPLORER_PCM_CMD_TRANS_GEAR_RATIO: 1.00002
+  response: 7E805621E191000
+- expected_values:
+    EXPLORER_PCM_CMD_TRANS_GEAR_RATIO: 2.99687
+  response: 7E805621E192FF3
+- expected_values:
+    EXPLORER_PCM_CMD_TRANS_GEAR_RATIO: 4.88484
+  response: 7E805621E194E28

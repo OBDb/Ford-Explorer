@@ -1,0 +1,17 @@
+command_id: 7E0.7E8.22F478
+test_cases:
+- expected_values:
+    EXPLORER_EGT_B1: -14.1
+  response: |-
+    7E8100C62F4780103D7
+    7E821000000000000CC
+- expected_values:
+    EXPLORER_EGT_B1: -12.7
+  response: |-
+    7E8100C62F4780111FE
+    7E821000000000000CC
+- expected_values:
+    EXPLORER_EGT_B1: -11.8
+  response: |-
+    7E8100C62F478011A02
+    7E821000000000000CC

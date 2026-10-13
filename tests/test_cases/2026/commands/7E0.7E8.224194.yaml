@@ -1,0 +1,14 @@
+command_id: 7E0.7E8.224194
+test_cases:
+- expected_values:
+    EXPLORER_DTE: 108.5
+  response: 7E805624194043D
+- expected_values:
+    EXPLORER_DTE: 127.7
+  response: 7E80562419404FD
+- expected_values:
+    EXPLORER_DTE: 128
+  response: '7E8056241940500'
+- expected_values:
+    EXPLORER_DTE: 154.2
+  response: '7E8056241940606'
