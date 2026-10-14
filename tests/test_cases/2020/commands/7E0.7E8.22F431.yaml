@@ -4,20 +4,5 @@ test_cases:
     EXPLORER_DIST_DTC_CLR: 21213
   response: 7E80562F43152DD
 - expected_values:
-    EXPLORER_DIST_DTC_CLR: 21214
-  response: 7E80562F43152DE
-- expected_values:
-    EXPLORER_DIST_DTC_CLR: 21215
-  response: 7E80562F43152DF
-- expected_values:
-    EXPLORER_DIST_DTC_CLR: 21216
-  response: 7E80562F43152E0
-- expected_values:
-    EXPLORER_DIST_DTC_CLR: 21218
-  response: 7E80562F43152E2
-- expected_values:
-    EXPLORER_DIST_DTC_CLR: 21219
-  response: 7E80562F43152E3
-- expected_values:
-    EXPLORER_DIST_DTC_CLR: 21220
-  response: 7E80562F43152E4
+    EXPLORER_DIST_DTC_CLR: 21229
+  response: 7E80562F43152ED

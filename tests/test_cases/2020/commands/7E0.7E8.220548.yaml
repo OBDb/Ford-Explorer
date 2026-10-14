@@ -4,8 +4,8 @@ test_cases:
     EXPLORER_LPFP_ACT: 62.29513
   response: 7E805620548035B
 - expected_values:
-    EXPLORER_LPFP_ACT: 73.82589
-  response: 7E80562054803FA
+    EXPLORER_LPFP_ACT: 73.97093
+  response: 7E80562054803FC
 - expected_values:
-    EXPLORER_LPFP_ACT: 74.5511
-  response: '7E8056205480404'
+    EXPLORER_LPFP_ACT: 74.40606
+  response: '7E8056205480402'

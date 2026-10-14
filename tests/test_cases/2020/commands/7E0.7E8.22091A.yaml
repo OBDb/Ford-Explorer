@@ -1,11 +1,14 @@
 command_id: 7E0.7E8.22091A
 test_cases:
 - expected_values:
-    EXPLORER_ETC_ANG_DES: 3.29297
-  response: 7E80562091A0696
+    EXPLORER_ETC_ANG_DES: 1.94336
+  response: 7E80562091A03E3
 - expected_values:
-    EXPLORER_ETC_ANG_DES: 13.00391
-  response: 7E80562091A1A02
+    EXPLORER_ETC_ANG_DES: 6.47461
+  response: 7E80562091A0CF3
 - expected_values:
-    EXPLORER_ETC_ANG_DES: 25.44336
-  response: 7E80562091A32E3
+    EXPLORER_ETC_ANG_DES: 10
+  response: 7E80562091A1400
+- expected_values:
+    EXPLORER_ETC_ANG_DES: 27.77148
+  response: 7E80562091A378B

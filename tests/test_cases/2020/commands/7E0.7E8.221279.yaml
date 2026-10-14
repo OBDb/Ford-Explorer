@@ -1,8 +1,11 @@
 command_id: 7E0.7E8.221279
 test_cases:
 - expected_values:
+    EXPLORER_IAT_SENS_V: 2.16031
+  response: 7E80562127901BA
+- expected_values:
+    EXPLORER_IAT_SENS_V: 2.40469
+  response: 7E80562127901EC
+- expected_values:
     EXPLORER_IAT_SENS_V: 2.74194
   response: '7E8056212790231'
-- expected_values:
-    EXPLORER_IAT_SENS_V: 2.89345
-  response: '7E8056212790250'
