@@ -1,0 +1,14 @@
+command_id: 7E0.7E8.2205FC
+test_cases:
+- expected_values:
+    EXPLORER_PCM_CYL_HEAD_T_SENS_2_RAW: 38.48438
+  response: 7E8056205FC099F
+- expected_values:
+    EXPLORER_PCM_CYL_HEAD_T_SENS_2_RAW: 76.28125
+  response: 7E8056205FC1312
+- expected_values:
+    EXPLORER_PCM_CYL_HEAD_T_SENS_2_RAW: 87.57812
+  response: 7E8056205FC15E5
+- expected_values:
+    EXPLORER_PCM_CYL_HEAD_T_SENS_2_RAW: 92.59375
+  response: 7E8056205FC1726

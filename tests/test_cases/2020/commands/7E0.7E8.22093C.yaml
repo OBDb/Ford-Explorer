@@ -1,0 +1,14 @@
+command_id: 7E0.7E8.22093C
+test_cases:
+- expected_values:
+    EXPLORER_ETC_ANG_ACT: 2.875
+  response: 7E80562093C05C0
+- expected_values:
+    EXPLORER_ETC_ANG_ACT: 3.9375
+  response: 7E80562093C07E0
+- expected_values:
+    EXPLORER_ETC_ANG_ACT: 4.03906
+  response: 7E80562093C0814
+- expected_values:
+    EXPLORER_ETC_ANG_ACT: 25.09375
+  response: 7E80562093C3230

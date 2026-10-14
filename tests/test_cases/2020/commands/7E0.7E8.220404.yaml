@@ -1,0 +1,8 @@
+command_id: 7E0.7E8.220404
+test_cases:
+- expected_values:
+    EXPLORER_KS2_RAW: 18
+  response: '7E8056204040012'
+- expected_values:
+    EXPLORER_KS2_RAW: 181
+  response: 7E80562040400B5

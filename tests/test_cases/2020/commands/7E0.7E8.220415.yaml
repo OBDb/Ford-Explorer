@@ -1,0 +1,11 @@
+command_id: 7E0.7E8.220415
+test_cases:
+- expected_values:
+    EXPLORER_PCM_ENG_EOP_RAW: 95
+  response: 7E805620415005F
+- expected_values:
+    EXPLORER_PCM_ENG_EOP_RAW: 247
+  response: 7E80562041500F7
+- expected_values:
+    EXPLORER_PCM_ENG_EOP_RAW: 267
+  response: 7E805620415010B
