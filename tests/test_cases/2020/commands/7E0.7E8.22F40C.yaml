@@ -4,11 +4,11 @@ test_cases:
     EXPLORER_RPM: 662
   response: 7E80562F40C0A58
 - expected_values:
-    EXPLORER_RPM: 701.5
-  response: 7E80562F40C0AF6
+    EXPLORER_RPM: 703.75
+  response: 7E80562F40C0AFF
 - expected_values:
-    EXPLORER_RPM: 1538.25
-  response: 7E80562F40C1809
+    EXPLORER_RPM: 704.25
+  response: 7E80562F40C0B01
 - expected_values:
     EXPLORER_RPM: 2632.25
   response: 7E80562F40C2921

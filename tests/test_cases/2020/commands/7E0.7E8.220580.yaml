@@ -7,6 +7,9 @@ test_cases:
     EXPLORER_GRILL_SHUTTER_POS: 26.66667
   response: '7E80462058044'
 - expected_values:
+    EXPLORER_GRILL_SHUTTER_POS: 40
+  response: '7E80462058066'
+- expected_values:
     EXPLORER_GRILL_SHUTTER_POS: 53.33333
   response: '7E80462058088'
 - expected_values:
@@ -15,6 +18,9 @@ test_cases:
 - expected_values:
     EXPLORER_GRILL_SHUTTER_POS: 66.66667
   response: 7E804620580AA
+- expected_values:
+    EXPLORER_GRILL_SHUTTER_POS: 73.33333
+  response: 7E804620580BB
 - expected_values:
     EXPLORER_GRILL_SHUTTER_POS: 93.33333
   response: 7E804620580EE

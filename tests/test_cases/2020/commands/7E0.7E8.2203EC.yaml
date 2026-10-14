@@ -4,8 +4,14 @@ test_cases:
     EXPLORER_IGN_CORR_CYL1: 0
   response: 7E8056203EC0000
 - expected_values:
+    EXPLORER_IGN_CORR_CYL1: 1.58203
+  response: 7E8056203EC032A
+- expected_values:
     EXPLORER_IGN_CORR_CYL1: 5.01758
   response: 7E8056203EC0A09
+- expected_values:
+    EXPLORER_IGN_CORR_CYL1: 6
+  response: 7E8056203EC0C00
 - expected_values:
     EXPLORER_IGN_CORR_CYL1: -4.14258
   response: 7E8056203ECF7B7

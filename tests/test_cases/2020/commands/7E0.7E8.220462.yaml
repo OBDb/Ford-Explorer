@@ -1,11 +1,14 @@
 command_id: 7E0.7E8.220462
 test_cases:
 - expected_values:
-    EXPLORER_WGDC: 0.10376
-  response: '7E8056204620022'
+    EXPLORER_WGDC: 0.08545
+  response: 7E805620462001C
 - expected_values:
     EXPLORER_WGDC: 16.39709
   response: 7E80562046214FD
 - expected_values:
-    EXPLORER_WGDC: 61.48376
-  response: 7E8056204624EB3
+    EXPLORER_WGDC: 36.00464
+  response: 7E8056204622E16
+- expected_values:
+    EXPLORER_WGDC: 76.66321
+  response: '7E8056204626221'

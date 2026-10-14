@@ -6,3 +6,6 @@ test_cases:
 - expected_values:
     EXPLORER_AC_P_SENS_V: 1.23535
   response: 7E80562980004F1
+- expected_values:
+    EXPLORER_AC_P_SENS_V: 1.25
+  response: '7E8056298000500'

@@ -1,11 +1,11 @@
 command_id: 7E0.7E8.220370
 test_cases:
 - expected_values:
-    EXPLORER_MAP_HIRES: 29.5
-  response: '7E8056203700076'
+    EXPLORER_MAP_HIRES: 23.75
+  response: 7E805620370005F
 - expected_values:
-    EXPLORER_MAP_HIRES: 51.5
-  response: 7E80562037000CE
+    EXPLORER_MAP_HIRES: 64
+  response: '7E8056203700100'
 - expected_values:
-    EXPLORER_MAP_HIRES: 72
-  response: '7E8056203700120'
+    EXPLORER_MAP_HIRES: 124.5
+  response: 7E80562037001F2
