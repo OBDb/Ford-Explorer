@@ -1,0 +1,11 @@
+command_id: 7E0.7E8.221505
+test_cases:
+- expected_values:
+    EXPLORER_VSS_HD: 0
+  response: '7E8056215050000'
+- expected_values:
+    EXPLORER_VSS_HD: 63.75
+  response: 7E8056215051FE0
+- expected_values:
+    EXPLORER_VSS_HD: 110.9375
+  response: '7E8056215053778'

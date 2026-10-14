@@ -1,0 +1,14 @@
+command_id: 7E0.7E8.2203EC
+test_cases:
+- expected_values:
+    EXPLORER_IGN_CORR_CYL1: 0
+  response: 7E8056203EC0000
+- expected_values:
+    EXPLORER_IGN_CORR_CYL1: 5.01758
+  response: 7E8056203EC0A09
+- expected_values:
+    EXPLORER_IGN_CORR_CYL1: -4.14258
+  response: 7E8056203ECF7B7
+- expected_values:
+    EXPLORER_IGN_CORR_CYL1: -1
+  response: 7E8056203ECFE00
