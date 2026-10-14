@@ -4,8 +4,8 @@ test_cases:
     EXPLORER_ODO: 113208
   response: 7E80662DD0101BA38
 - expected_values:
-    EXPLORER_ODO: 113582
-  response: 7E80662DD0101BBAE
+    EXPLORER_ODO: 117484
+  response: 7E80662DD0101CAEC
 - expected_values:
-    EXPLORER_ODO: 114495
-  response: 7E80662DD0101BF3F
+    EXPLORER_ODO: 117485
+  response: 7E80662DD0101CAED
