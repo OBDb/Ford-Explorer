@@ -4,5 +4,5 @@ test_cases:
     EXPLORER_VSS: 0
   response: 7E80462F40D00
 - expected_values:
-    EXPLORER_VSS: 130
-  response: 7E80462F40D82
+    EXPLORER_VSS: 137
+  response: 7E80462F40D89

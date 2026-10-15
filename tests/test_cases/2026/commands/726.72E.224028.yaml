@@ -4,8 +4,20 @@ test_cases:
     EXPLORER_BATT_SOC: 78
   response: 72E046240284E
 - expected_values:
+    EXPLORER_BATT_SOC: 79
+  response: 72E046240284F
+- expected_values:
+    EXPLORER_BATT_SOC: 80
+  response: '72E0462402850'
+- expected_values:
+    EXPLORER_BATT_SOC: 81
+  response: '72E0462402851'
+- expected_values:
     EXPLORER_BATT_SOC: 82
   response: '72E0462402852'
+- expected_values:
+    EXPLORER_BATT_SOC: 83
+  response: '72E0462402853'
 - expected_values:
     EXPLORER_BATT_SOC: 89
   response: '72E0462402859'

@@ -6,3 +6,6 @@ test_cases:
 - expected_values:
     EXPLORER_NORM_CUM_CHG_IGN_ON: 22.9
   response: 72E0562401E00E5
+- expected_values:
+    EXPLORER_NORM_CUM_CHG_IGN_ON: 23.1
+  response: 72E0562401E00E7

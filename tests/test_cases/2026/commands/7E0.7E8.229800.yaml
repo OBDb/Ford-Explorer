@@ -1,8 +1,8 @@
 command_id: 7E0.7E8.229800
 test_cases:
 - expected_values:
-    EXPLORER_AC_P_SENS_V: 1.08105
-  response: '7E8056298000453'
+    EXPLORER_AC_P_SENS_V: 1.05176
+  response: '7E8056298000435'
 - expected_values:
     EXPLORER_AC_P_SENS_V: 1.24902
   response: 7E80562980004FF

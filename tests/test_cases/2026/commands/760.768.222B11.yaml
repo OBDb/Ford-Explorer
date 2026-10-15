@@ -3,3 +3,9 @@ test_cases:
 - expected_values:
     EXPLORER_LAT_G: -1
   response: 76805622B11FF9F
+- expected_values:
+    EXPLORER_LAT_G: -0.44
+  response: 76805622B11FFEA
+- expected_values:
+    EXPLORER_LAT_G: -0.38
+  response: 76805622B11FFED
