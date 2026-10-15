@@ -1,6 +1,9 @@
 command_id: 726.72E.224028
 test_cases:
 - expected_values:
+    EXPLORER_BATT_SOC: 78
+  response: 72E046240284E
+- expected_values:
     EXPLORER_BATT_SOC: 82
   response: '72E0462402852'
 - expected_values:
