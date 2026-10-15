@@ -6,3 +6,18 @@ test_cases:
 - expected_values:
     EXPLORER_BRK_FL_P: 1
   response: 76805622B0D0001
+- expected_values:
+    EXPLORER_BRK_FL_P: 2
+  response: 76805622B0D0002
+- expected_values:
+    EXPLORER_BRK_FL_P: 3
+  response: 76805622B0D0003
+- expected_values:
+    EXPLORER_BRK_FL_P: 4
+  response: 76805622B0D0004
+- expected_values:
+    EXPLORER_BRK_FL_P: 5
+  response: 76805622B0D0005
+- expected_values:
+    EXPLORER_BRK_FL_P: 6
+  response: 76805622B0D0006

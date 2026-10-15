@@ -1,8 +1,14 @@
 command_id: 7E0.7E8.2203E3
 test_cases:
 - expected_values:
-    EXPLORER_PF_DIFF_P_FEEDBACK_V: 0.44551
-  response: 7E8056203E301C8
+    EXPLORER_PF_DIFF_P_FEEDBACK_V: 0.26477
+  response: 7E8056203E3010F
 - expected_values:
-    EXPLORER_PF_DIFF_P_FEEDBACK_V: 1.13039
-  response: 7E8056203E30485
+    EXPLORER_PF_DIFF_P_FEEDBACK_V: 0.74838
+  response: 7E8056203E302FE
+- expected_values:
+    EXPLORER_PF_DIFF_P_FEEDBACK_V: 1.25154
+  response: 7E8056203E30501
+- expected_values:
+    EXPLORER_PF_DIFF_P_FEEDBACK_V: 1.91101
+  response: 7E8056203E307A4

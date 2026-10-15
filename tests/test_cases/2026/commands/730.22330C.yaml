@@ -4,11 +4,20 @@ test_cases:
     EXPLORER_STEER_SHFT_TQ: -1.4
   response: 7380462330C71
 - expected_values:
+    EXPLORER_STEER_SHFT_TQ: -0.6
+  response: 7380462330C79
+- expected_values:
     EXPLORER_STEER_SHFT_TQ: 0.1
   response: 7380462330C80
+- expected_values:
+    EXPLORER_STEER_SHFT_TQ: 0.2
+  response: 7380462330C81
 - expected_values:
     EXPLORER_STEER_SHFT_TQ: 0.3
   response: 7380462330C82
 - expected_values:
     EXPLORER_STEER_SHFT_TQ: 0.8
   response: 7380462330C87
+- expected_values:
+    EXPLORER_STEER_SHFT_TQ: 2
+  response: 7380462330C93

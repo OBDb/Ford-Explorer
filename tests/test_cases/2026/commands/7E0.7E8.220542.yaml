@@ -9,3 +9,6 @@ test_cases:
 - expected_values:
     EXPLORER_DIST_SINCE_OIL: 3840
   response: 7E8056205420F00
+- expected_values:
+    EXPLORER_DIST_SINCE_OIL: 4125
+  response: 7E805620542101D

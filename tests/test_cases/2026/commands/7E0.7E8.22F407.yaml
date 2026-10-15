@@ -7,5 +7,11 @@ test_cases:
     EXPLORER_LTFT: 1.5625
   response: 7E80462F40782
 - expected_values:
+    EXPLORER_LTFT: 2.34375
+  response: 7E80462F40783
+- expected_values:
+    EXPLORER_LTFT: 3.125
+  response: 7E80462F40784
+- expected_values:
     EXPLORER_LTFT: 3.90625
   response: 7E80462F40785
