@@ -5,3 +5,8 @@ test_cases:
   response: |-
     72E100C62280B606D8B
     72E217C02D5E54B6DCC
+- expected_values:
+    EXPLORER_TYRE_T: 74
+  response: |-
+    72E100C62280B606D8B
+    72E217C02DF7206B7CC
