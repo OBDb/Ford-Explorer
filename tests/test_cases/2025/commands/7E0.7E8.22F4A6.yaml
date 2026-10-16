@@ -1,6 +1,9 @@
 command_id: 7E0.7E8.22F4A6
 test_cases:
 - expected_values:
+    EXPLORER_PCM_VEH_ODO: 20483.8
+  response: 7E80762F4A600032026
+- expected_values:
     EXPLORER_PCM_VEH_ODO: 67035.1
   response: 7E80762F4A6000A3A8F
 - expected_values:

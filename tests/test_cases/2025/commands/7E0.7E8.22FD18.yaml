@@ -3,3 +3,6 @@ test_cases:
 - expected_values:
     EXPLORER_AC_P_7E0: 0
   response: 7E80762FD18000161D6
+- expected_values:
+    EXPLORER_AC_P_7E0: 0
+  response: 7E80762FD18000214C8

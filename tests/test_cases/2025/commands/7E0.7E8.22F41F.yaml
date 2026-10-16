@@ -7,8 +7,8 @@ test_cases:
     EXPLORER_RUN_TIME: 519
   response: 7E80562F41F0207
 - expected_values:
-    EXPLORER_RUN_TIME: 782
-  response: 7E80562F41F030E
-- expected_values:
     EXPLORER_RUN_TIME: 1018
   response: 7E80562F41F03FA
+- expected_values:
+    EXPLORER_RUN_TIME: 5403
+  response: 7E80562F41F151B
