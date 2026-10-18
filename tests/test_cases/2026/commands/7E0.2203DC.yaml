@@ -4,11 +4,11 @@ test_cases:
     EXPLORER_HPFP_DES: 23.20604
   response: 7E8056203DC0010
 - expected_values:
-    EXPLORER_HPFP_DES: 1131.29437
-  response: 7E8056203DC030C
-- expected_values:
     EXPLORER_HPFP_DES: 1850.68156
   response: 7E8056203DC04FC
+- expected_values:
+    EXPLORER_HPFP_DES: 3500
+  response: 7E8056203DC0B06
 - expected_values:
     EXPLORER_HPFP_DES: 3500
   response: 7E8056203DC0D6D

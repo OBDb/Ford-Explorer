@@ -1,6 +1,9 @@
 command_id: 726.72E.224025
 test_cases:
 - expected_values:
+    EXPLORER_BAT_QUIESCENT: 26
+  response: '72E056240250804'
+- expected_values:
     EXPLORER_BAT_QUIESCENT: 32
   response: '72E056240250810'
 - expected_values:

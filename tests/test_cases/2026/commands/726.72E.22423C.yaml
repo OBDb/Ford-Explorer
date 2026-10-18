@@ -18,3 +18,6 @@ test_cases:
 - expected_values:
     EXPLORER_VEH_BAT_B_CURRENT: 5.40625
   response: 72E0562423C00AD
+- expected_values:
+    EXPLORER_VEH_BAT_B_CURRENT: -2.0625
+  response: 72E0562423CFFBE

@@ -4,11 +4,11 @@ test_cases:
     EXPLORER_AIR_FUEL_RAT: 0
   response: 7E80762F43400007FF9
 - expected_values:
+    EXPLORER_AIR_FUEL_RAT: 0
+  response: 7E80762F43400007FFF
+- expected_values:
     EXPLORER_AIR_FUEL_RAT: 14.52549
   response: 7E80762F4347EFF7FF5
-- expected_values:
-    EXPLORER_AIR_FUEL_RAT: 14.68142
-  response: 7E80762F434805C7FFF
 - expected_values:
     EXPLORER_AIR_FUEL_RAT: 14.73548
   response: 7E80762F43480D58000
