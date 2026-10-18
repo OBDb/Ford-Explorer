@@ -1,11 +1,14 @@
 command_id: 726.72E.224209
 test_cases:
 - expected_values:
-    EXPLORER_BAT_CURRENT: 19.25
-  response: 72E0762420900004D60
+    EXPLORER_BAT_CURRENT: 13.25
+  response: '72E0762420900003540'
 - expected_values:
-    EXPLORER_BAT_CURRENT: 19.75
-  response: 72E0762420900004FE0
+    EXPLORER_BAT_CURRENT: 18
+  response: 72E07624209000048E0
+- expected_values:
+    EXPLORER_BAT_CURRENT: 21.25
+  response: '72E0762420900005500'
 - expected_values:
     EXPLORER_BAT_CURRENT: 32
   response: '72E0762420900008080'

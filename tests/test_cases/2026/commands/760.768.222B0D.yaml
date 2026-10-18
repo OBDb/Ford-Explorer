@@ -21,3 +21,9 @@ test_cases:
 - expected_values:
     EXPLORER_BRK_FL_P: 6
   response: 76805622B0D0006
+- expected_values:
+    EXPLORER_BRK_FL_P: 8
+  response: 76805622B0D0008
+- expected_values:
+    EXPLORER_BRK_FL_P: 27
+  response: 76805622B0D001B

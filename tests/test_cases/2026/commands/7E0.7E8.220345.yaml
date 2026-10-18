@@ -12,3 +12,6 @@ test_cases:
 - expected_values:
     EXPLORER_PCM_MISF_EVENTS_LATEST_CYC: 3
   response: '7E80762034500000003'
+- expected_values:
+    EXPLORER_PCM_MISF_EVENTS_LATEST_CYC: 4
+  response: '7E80762034500000004'
