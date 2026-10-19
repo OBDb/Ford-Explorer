@@ -1,0 +1,5 @@
+command_id: 7E0.7E8.2203B9
+test_cases:
+- expected_values:
+    EXPLORER_FAN_SPD_DES: 28.159
+  response: 7E8056203B9240B
