@@ -1,5 +1,20 @@
 command_id: 760.768.222B0D
 test_cases:
 - expected_values:
+    EXPLORER_BRK_FL_P: 0
+  response: 76805622B0D0000
+- expected_values:
+    EXPLORER_BRK_FL_P: 1
+  response: 76805622B0D0001
+- expected_values:
+    EXPLORER_BRK_FL_P: 15
+  response: 76805622B0D000F
+- expected_values:
+    EXPLORER_BRK_FL_P: 94
+  response: 76805622B0D005E
+- expected_values:
     EXPLORER_BRK_FL_P: 114
   response: 76805622B0D0072
+- expected_values:
+    EXPLORER_BRK_FL_P: 169
+  response: 76805622B0D00A9

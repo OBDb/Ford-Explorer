@@ -3,3 +3,24 @@ test_cases:
 - expected_values:
     EXPLORER_PCM_CMD_TRANS_MAIN_LINE_P: 392
   response: 7E805621E1A00C4
+- expected_values:
+    EXPLORER_PCM_CMD_TRANS_MAIN_LINE_P: 490
+  response: 7E805621E1A00F5
+- expected_values:
+    EXPLORER_PCM_CMD_TRANS_MAIN_LINE_P: 612
+  response: 7E805621E1A0132
+- expected_values:
+    EXPLORER_PCM_CMD_TRANS_MAIN_LINE_P: 620
+  response: 7E805621E1A0136
+- expected_values:
+    EXPLORER_PCM_CMD_TRANS_MAIN_LINE_P: 628
+  response: 7E805621E1A013A
+- expected_values:
+    EXPLORER_PCM_CMD_TRANS_MAIN_LINE_P: 636
+  response: 7E805621E1A013E
+- expected_values:
+    EXPLORER_PCM_CMD_TRANS_MAIN_LINE_P: 754
+  response: 7E805621E1A0179
+- expected_values:
+    EXPLORER_PCM_CMD_TRANS_MAIN_LINE_P: 766
+  response: 7E805621E1A017F

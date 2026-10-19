@@ -1,0 +1,14 @@
+command_id: 7E0.7E8.221E62
+test_cases:
+- expected_values:
+    EXPLORER_AWD_CLU_DIAGNOSTIC: 58.82353
+  response: 7E804621E6296
+- expected_values:
+    EXPLORER_AWD_CLU_DIAGNOSTIC: 60.39216
+  response: 7E804621E629A
+- expected_values:
+    EXPLORER_AWD_CLU_DIAGNOSTIC: 60.78431
+  response: 7E804621E629B
+- expected_values:
+    EXPLORER_AWD_CLU_DIAGNOSTIC: 61.96078
+  response: 7E804621E629E

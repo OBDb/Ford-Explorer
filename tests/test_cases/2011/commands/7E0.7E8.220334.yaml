@@ -3,3 +3,12 @@ test_cases:
 - expected_values:
     EXPLORER_PCM_CYL_HEAD_T_CORR: 27.29688
   response: 7E80562033406D3
+- expected_values:
+    EXPLORER_PCM_CYL_HEAD_T_CORR: 32.67188
+  response: 7E805620334082B
+- expected_values:
+    EXPLORER_PCM_CYL_HEAD_T_CORR: 63.45312
+  response: 7E8056203340FDD
+- expected_values:
+    EXPLORER_PCM_CYL_HEAD_T_CORR: 65.71875
+  response: 7E805620334106E

@@ -1,5 +1,11 @@
 command_id: 7E0.7E8.220403
 test_cases:
 - expected_values:
-    EXPLORER_KS1_RAW: 168
-  response: 7E80562040300A8
+    EXPLORER_KS1_RAW: 126
+  response: 7E805620403007E
+- expected_values:
+    EXPLORER_KS1_RAW: 242
+  response: 7E80562040300F2
+- expected_values:
+    EXPLORER_KS1_RAW: 308
+  response: '7E8056204030134'
