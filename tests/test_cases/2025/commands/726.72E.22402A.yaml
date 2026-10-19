@@ -4,5 +4,5 @@ test_cases:
     EXPLORER_VEH_BAT_V: 12.25
   response: 72E0462402A7D
 - expected_values:
-    EXPLORER_VEH_BAT_V: 14.3
-  response: 72E0462402AA6
+    EXPLORER_VEH_BAT_V: 14.55
+  response: 72E0462402AAB

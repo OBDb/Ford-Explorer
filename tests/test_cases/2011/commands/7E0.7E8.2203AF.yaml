@@ -3,3 +3,6 @@ test_cases:
 - expected_values:
     EXPLORER_TRQ_CTRL_REQ: 0
   response: 7E8046203AF00
+- expected_values:
+    EXPLORER_TRQ_CTRL_REQ: 9
+  response: 7E8046203AF09

@@ -3,3 +3,12 @@ test_cases:
 - expected_values:
     EXPLORER_CAT_TEMP: 287.9
   response: 7E80562F43C0CCF
+- expected_values:
+    EXPLORER_CAT_TEMP: 419.3
+  response: 7E80562F43C11F1
+- expected_values:
+    EXPLORER_CAT_TEMP: 600
+  response: 7E80562F43C1900
+- expected_values:
+    EXPLORER_CAT_TEMP: 627.4
+  response: 7E80562F43C1A12

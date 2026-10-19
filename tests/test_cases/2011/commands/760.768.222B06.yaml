@@ -3,3 +3,15 @@ test_cases:
 - expected_values:
     EXPLORER_FR_VSS: 0
   response: 76804622B0600
+- expected_values:
+    EXPLORER_FR_VSS: 6
+  response: 76804622B0606
+- expected_values:
+    EXPLORER_FR_VSS: 19
+  response: 76804622B0613
+- expected_values:
+    EXPLORER_FR_VSS: 30
+  response: 76804622B061E
+- expected_values:
+    EXPLORER_FR_VSS: 33
+  response: 76804622B0621

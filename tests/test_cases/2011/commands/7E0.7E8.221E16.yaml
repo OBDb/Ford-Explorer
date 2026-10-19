@@ -1,5 +1,23 @@
 command_id: 7E0.7E8.221E16
 test_cases:
 - expected_values:
+    EXPLORER_AXLE_GEAR_RATIO_MEAS: 1.41431
+  response: 7E805621E1616A1
+- expected_values:
+    EXPLORER_AXLE_GEAR_RATIO_MEAS: 1.84204
+  response: 7E805621E161D79
+- expected_values:
+    EXPLORER_AXLE_GEAR_RATIO_MEAS: 1.84302
+  response: 7E805621E161D7D
+- expected_values:
+    EXPLORER_AXLE_GEAR_RATIO_MEAS: 2.86963
+  response: 7E805621E162DEA
+- expected_values:
+    EXPLORER_AXLE_GEAR_RATIO_MEAS: 2.87695
+  response: 7E805621E162E08
+- expected_values:
+    EXPLORER_AXLE_GEAR_RATIO_MEAS: 4.48608
+  response: 7E805621E1647C7
+- expected_values:
     EXPLORER_AXLE_GEAR_RATIO_MEAS: 5
   response: 7E805621E165000

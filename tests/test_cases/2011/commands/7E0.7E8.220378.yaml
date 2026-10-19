@@ -1,5 +1,14 @@
 command_id: 7E0.7E8.220378
 test_cases:
 - expected_values:
+    EXPLORER_GEN_CTRL: 18.53785
+  response: 7E80562037817BA
+- expected_values:
+    EXPLORER_GEN_CTRL: 27.13838
+  response: 7E80562037822BC
+- expected_values:
+    EXPLORER_GEN_CTRL: 28.30425
+  response: 7E805620378243A
+- expected_values:
     EXPLORER_GEN_CTRL: 36.51108
   response: 7E8056203782EBB

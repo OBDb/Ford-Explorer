@@ -3,3 +3,6 @@ test_cases:
 - expected_values:
     EXPLORER_BATT_TEMP: 21
   response: 72E046240293D
+- expected_values:
+    EXPLORER_BATT_TEMP: 22
+  response: 72E046240293E

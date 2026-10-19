@@ -3,3 +3,21 @@ test_cases:
 - expected_values:
     EXPLORER_YAW_RATE_SIG: 0
   response: 76805622B0B0000
+- expected_values:
+    EXPLORER_YAW_RATE_SIG: 0.4
+  response: 76805622B0B0002
+- expected_values:
+    EXPLORER_YAW_RATE_SIG: 6
+  response: 76805622B0B001E
+- expected_values:
+    EXPLORER_YAW_RATE_SIG: 7.4
+  response: 76805622B0B0025
+- expected_values:
+    EXPLORER_YAW_RATE_SIG: -3.2
+  response: 76805622B0BFFF0
+- expected_values:
+    EXPLORER_YAW_RATE_SIG: -2
+  response: 76805622B0BFFF6
+- expected_values:
+    EXPLORER_YAW_RATE_SIG: -1
+  response: 76805622B0BFFFB

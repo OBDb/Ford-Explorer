@@ -3,3 +3,21 @@ test_cases:
 - expected_values:
     EXPLORER_VSS_HD: 0
   response: '7E8056215050000'
+- expected_values:
+    EXPLORER_VSS_HD: 1.10156
+  response: 7E805621505008D
+- expected_values:
+    EXPLORER_VSS_HD: 2.52344
+  response: '7E8056215050143'
+- expected_values:
+    EXPLORER_VSS_HD: 5.05469
+  response: '7E8056215050287'
+- expected_values:
+    EXPLORER_VSS_HD: 14.07812
+  response: 7E805621505070A
+- expected_values:
+    EXPLORER_VSS_HD: 21.05469
+  response: 7E8056215050A87
+- expected_values:
+    EXPLORER_VSS_HD: 34.39062
+  response: '7E8056215051132'
