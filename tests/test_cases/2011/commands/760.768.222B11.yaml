@@ -7,11 +7,17 @@ test_cases:
     EXPLORER_LAT_G: 0.4
   response: 76805622B110014
 - expected_values:
+    EXPLORER_LAT_G: 0.6
+  response: 76805622B11001E
+- expected_values:
     EXPLORER_LAT_G: 1
   response: 76805622B11003C
 - expected_values:
     EXPLORER_LAT_G: 1
   response: 76805622B110046
+- expected_values:
+    EXPLORER_LAT_G: 1
+  response: 76805622B110064
 - expected_values:
     EXPLORER_LAT_G: -1
   response: 76805622B11FFBA

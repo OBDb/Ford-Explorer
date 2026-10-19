@@ -1,11 +1,14 @@
 command_id: 7E0.7E8.2204F7
 test_cases:
 - expected_values:
-    EXPLORER_GEN_CURRENT: 24.39844
-  response: 7E8056204F7061A
+    EXPLORER_GEN_CURRENT: 0.12496
+  response: 7E8056204F70008
 - expected_values:
-    EXPLORER_GEN_CURRENT: 47.3286
-  response: 7E8056204F70BD6
+    EXPLORER_GEN_CURRENT: 27.89732
+  response: 7E8056204F706FA
+- expected_values:
+    EXPLORER_GEN_CURRENT: 28.06914
+  response: 7E8056204F70705
 - expected_values:
     EXPLORER_GEN_CURRENT: 54.37322
   response: 7E8056204F70D99

@@ -15,3 +15,12 @@ test_cases:
 - expected_values:
     EXPLORER_ODO_V3: 112508.1
   response: 7280662404C112AD9
+- expected_values:
+    EXPLORER_ODO_V3: 112508.3
+  response: 7280662404C112ADB
+- expected_values:
+    EXPLORER_ODO_V3: 112508.8
+  response: 7280662404C112AE0
+- expected_values:
+    EXPLORER_ODO_V3: 112508.9
+  response: 7280662404C112AE1

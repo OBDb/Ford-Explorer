@@ -1,8 +1,8 @@
 command_id: 7E0.7E8.22F404
 test_cases:
 - expected_values:
-    EXPLORER_ENG_LOAD_PCT: 24.70588
-  response: 7E80462F4043F
+    EXPLORER_ENG_LOAD_PCT: 0
+  response: 7E80462F40400
 - expected_values:
-    EXPLORER_ENG_LOAD_PCT: 57.2549
-  response: 7E80462F40492
+    EXPLORER_ENG_LOAD_PCT: 80.39216
+  response: 7E80462F404CD

@@ -7,6 +7,12 @@ test_cases:
     EXPLORER_RL_VSS: 7
   response: 76804622B0907
 - expected_values:
+    EXPLORER_RL_VSS: 11
+  response: 76804622B090B
+- expected_values:
+    EXPLORER_RL_VSS: 13
+  response: 76804622B090D
+- expected_values:
     EXPLORER_RL_VSS: 18
   response: 76804622B0912
 - expected_values:

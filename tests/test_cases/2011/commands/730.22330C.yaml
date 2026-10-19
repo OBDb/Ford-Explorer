@@ -21,3 +21,6 @@ test_cases:
 - expected_values:
     EXPLORER_STEER_SHFT_TQ: 2.4
   response: 7380462330C97
+- expected_values:
+    EXPLORER_STEER_SHFT_TQ: 2.9
+  response: 7380462330C9C
