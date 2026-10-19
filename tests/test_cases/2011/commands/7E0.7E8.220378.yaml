@@ -1,0 +1,5 @@
+command_id: 7E0.7E8.220378
+test_cases:
+- expected_values:
+    EXPLORER_GEN_CTRL: 36.51108
+  response: 7E8056203782EBB
