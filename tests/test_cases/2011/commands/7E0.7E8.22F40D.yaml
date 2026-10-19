@@ -10,8 +10,20 @@ test_cases:
     EXPLORER_VSS: 4
   response: 7E80462F40D04
 - expected_values:
+    EXPLORER_VSS: 8
+  response: 7E80462F40D08
+- expected_values:
     EXPLORER_VSS: 13
   response: 7E80462F40D0D
+- expected_values:
+    EXPLORER_VSS: 14
+  response: 7E80462F40D0E
+- expected_values:
+    EXPLORER_VSS: 15
+  response: 7E80462F40D0F
+- expected_values:
+    EXPLORER_VSS: 19
+  response: 7E80462F40D13
 - expected_values:
     EXPLORER_VSS: 20
   response: 7E80462F40D14

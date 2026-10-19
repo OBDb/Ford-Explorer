@@ -4,8 +4,11 @@ test_cases:
     EXPLORER_ETC_ANG_ACT: 3.04883
   response: 7E80562093C0619
 - expected_values:
+    EXPLORER_ETC_ANG_ACT: 4.01758
+  response: 7E80562093C0809
+- expected_values:
     EXPLORER_ETC_ANG_ACT: 5.43945
   response: 7E80562093C0AE1
 - expected_values:
-    EXPLORER_ETC_ANG_ACT: 9.71484
-  response: 7E80562093C136E
+    EXPLORER_ETC_ANG_ACT: 10.04688
+  response: 7E80562093C1418

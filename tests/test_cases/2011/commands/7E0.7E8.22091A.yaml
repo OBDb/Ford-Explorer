@@ -7,5 +7,5 @@ test_cases:
     EXPLORER_ETC_ANG_DES: 5.9668
   response: 7E80562091A0BEF
 - expected_values:
-    EXPLORER_ETC_ANG_DES: 6.86133
-  response: 7E80562091A0DB9
+    EXPLORER_ETC_ANG_DES: 11.68945
+  response: 7E80562091A1761

@@ -4,8 +4,8 @@ test_cases:
     EXPLORER_KS1_RAW: 126
   response: 7E805620403007E
 - expected_values:
-    EXPLORER_KS1_RAW: 242
-  response: 7E80562040300F2
+    EXPLORER_KS1_RAW: 295
+  response: '7E8056204030127'
 - expected_values:
-    EXPLORER_KS1_RAW: 308
-  response: '7E8056204030134'
+    EXPLORER_KS1_RAW: 65535
+  response: 7E805620403FFFF

@@ -4,6 +4,9 @@ test_cases:
     EXPLORER_BCM_STEER_ANG_ACT: -507.5
   response: 768056233020AA5
 - expected_values:
+    EXPLORER_BCM_STEER_ANG_ACT: -363.8
+  response: '768056233021042'
+- expected_values:
     EXPLORER_BCM_STEER_ANG_ACT: -26.6
   response: 768056233021D6E
 - expected_values:
@@ -18,3 +21,6 @@ test_cases:
 - expected_values:
     EXPLORER_BCM_STEER_ANG_ACT: 0.9
   response: '768056233021E81'
+- expected_values:
+    EXPLORER_BCM_STEER_ANG_ACT: 293.3
+  response: 7680562330229ED

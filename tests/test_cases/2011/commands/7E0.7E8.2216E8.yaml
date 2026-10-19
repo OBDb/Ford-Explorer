@@ -4,6 +4,9 @@ test_cases:
     EXPLORER_CMD_GEN_DUTY: 0
   response: 7E8056216E80000
 - expected_values:
+    EXPLORER_CMD_GEN_DUTY: 3.57084
+  response: 7E8056216E80492
+- expected_values:
     EXPLORER_CMD_GEN_DUTY: 50.70593
   response: 7E8056216E840E6
 - expected_values:

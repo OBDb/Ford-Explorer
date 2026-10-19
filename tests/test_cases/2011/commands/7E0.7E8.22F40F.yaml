@@ -9,3 +9,12 @@ test_cases:
 - expected_values:
     EXPLORER_IAT_ALT2: 21
   response: 7E80462F40F3D
+- expected_values:
+    EXPLORER_IAT_ALT2: 28
+  response: 7E80462F40F44
+- expected_values:
+    EXPLORER_IAT_ALT2: 29
+  response: 7E80462F40F45
+- expected_values:
+    EXPLORER_IAT_ALT2: 33
+  response: 7E80462F40F49

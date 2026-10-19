@@ -13,6 +13,12 @@ test_cases:
     EXPLORER_YAW_RATE_SIG: 7.4
   response: 76805622B0B0025
 - expected_values:
+    EXPLORER_YAW_RATE_SIG: 19.2
+  response: 76805622B0B0060
+- expected_values:
+    EXPLORER_YAW_RATE_SIG: -22.4
+  response: 76805622B0BFF90
+- expected_values:
     EXPLORER_YAW_RATE_SIG: -3.2
   response: 76805622B0BFFF0
 - expected_values:

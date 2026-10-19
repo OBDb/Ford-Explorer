@@ -4,23 +4,5 @@ test_cases:
     EXPLORER_PCM_MISF_ACCEL_CYL6_NORM: 0
   response: '7E80462039800'
 - expected_values:
-    EXPLORER_PCM_MISF_ACCEL_CYL6_NORM: 0.01562
-  response: '7E80462039801'
-- expected_values:
-    EXPLORER_PCM_MISF_ACCEL_CYL6_NORM: 0.04688
-  response: '7E80462039803'
-- expected_values:
-    EXPLORER_PCM_MISF_ACCEL_CYL6_NORM: 0.0625
-  response: '7E80462039804'
-- expected_values:
-    EXPLORER_PCM_MISF_ACCEL_CYL6_NORM: 0.14062
-  response: '7E80462039809'
-- expected_values:
-    EXPLORER_PCM_MISF_ACCEL_CYL6_NORM: 0.21875
-  response: 7E8046203980E
-- expected_values:
-    EXPLORER_PCM_MISF_ACCEL_CYL6_NORM: -0.07812
-  response: 7E804620398FB
-- expected_values:
-    EXPLORER_PCM_MISF_ACCEL_CYL6_NORM: -0.04688
-  response: 7E804620398FD
+    EXPLORER_PCM_MISF_ACCEL_CYL6_NORM: -0.01562
+  response: 7E804620398FF

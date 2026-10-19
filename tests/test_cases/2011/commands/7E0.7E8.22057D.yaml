@@ -6,3 +6,12 @@ test_cases:
 - expected_values:
     EXPLORER_AAT_ALT: 21
   response: 7E80462057D7A
+- expected_values:
+    EXPLORER_AAT_ALT: 25
+  response: 7E80462057D82
+- expected_values:
+    EXPLORER_AAT_ALT: 26
+  response: 7E80462057D84
+- expected_values:
+    EXPLORER_AAT_ALT: 27
+  response: 7E80462057D86
