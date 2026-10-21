@@ -10,17 +10,8 @@ test_cases:
     EXPLORER_ODO: 111881
   response: 7E80662DD0101B509
 - expected_values:
-    EXPLORER_ODO: 111882
-  response: 7E80662DD0101B50A
-- expected_values:
     EXPLORER_ODO: 112507
   response: 7E80662DD0101B77B
 - expected_values:
-    EXPLORER_ODO: 112508
-  response: 7E80662DD0101B77C
-- expected_values:
-    EXPLORER_ODO: 112509
-  response: 7E80662DD0101B77D
-- expected_values:
-    EXPLORER_ODO: 112510
-  response: 7E80662DD0101B77E
+    EXPLORER_ODO: 112531
+  response: 7E80662DD0101B793
