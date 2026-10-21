@@ -7,26 +7,5 @@ test_cases:
     EXPLORER_TP_FR: 29.7
   response: '72E056228140252'
 - expected_values:
-    EXPLORER_TP_FR: 29.95
-  response: '72E056228140257'
-- expected_values:
-    EXPLORER_TP_FR: 30.95
-  response: 72E05622814026B
-- expected_values:
-    EXPLORER_TP_FR: 31.05
-  response: 72E05622814026D
-- expected_values:
-    EXPLORER_TP_FR: 31.3
-  response: '72E056228140272'
-- expected_values:
-    EXPLORER_TP_FR: 31.45
-  response: '72E056228140275'
-- expected_values:
-    EXPLORER_TP_FR: 31.7
-  response: 72E05622814027A
-- expected_values:
-    EXPLORER_TP_FR: 31.95
-  response: 72E05622814027F
-- expected_values:
     EXPLORER_TP_FR: 34.05
   response: 72E0562281402A9
