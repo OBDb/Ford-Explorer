@@ -1,0 +1,20 @@
+command_id: 760.768.223201
+test_cases:
+- expected_values:
+    EXPLORER_STEER_ANGLE: 790
+  response: 768056232017FA6
+- expected_values:
+    EXPLORER_STEER_ANGLE: -790
+  response: '768056232018078'
+- expected_values:
+    EXPLORER_STEER_ANGLE: -790
+  response: 7680562320180B4
+- expected_values:
+    EXPLORER_STEER_ANGLE: -790
+  response: 7680562320180D2
+- expected_values:
+    EXPLORER_STEER_ANGLE: -787.5
+  response: '768056232018258'
+- expected_values:
+    EXPLORER_STEER_ANGLE: -781.25
+  response: 7680562320183DE
