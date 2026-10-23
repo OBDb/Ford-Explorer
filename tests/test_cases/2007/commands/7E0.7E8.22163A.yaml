@@ -22,6 +22,11 @@ test_cases:
     7E80462163A02
     7E80462163A02
 - expected_values:
+    EXPLORER_TQ_INTO_TQ_CONV_7E0: 0.81349
+  response: |-
+    7E80462163A03
+    7E80462163A03
+- expected_values:
     EXPLORER_TQ_INTO_TQ_CONV_7E0: 1.62698
   response: |-
     7E80462163A06

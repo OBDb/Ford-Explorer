@@ -4,9 +4,6 @@ test_cases:
     EXPLORER_ETC_ANG_DES: 1.85156
   response: 7E80562091A03B4
 - expected_values:
-    EXPLORER_ETC_ANG_DES: 2.00586
-  response: 7E80562091A0403
-- expected_values:
     EXPLORER_ETC_ANG_DES: 2.10938
   response: |-
     7E80562091A0438
@@ -29,14 +26,6 @@ test_cases:
   response: |-
     7E80562091A04B0
     7E80562091A04B0
-- expected_values:
-    EXPLORER_ETC_ANG_DES: 2.42383
-  response: |-
-    7E80562091A04D9
-    7E80562091A04D9
-- expected_values:
-    EXPLORER_ETC_ANG_DES: 2.49219
-  response: 7E80562091A04FC
 - expected_values:
     EXPLORER_ETC_ANG_DES: 2.52344
   response: |-
@@ -68,16 +57,47 @@ test_cases:
     7E80562091A056F
     7E80562091A056F
 - expected_values:
+    EXPLORER_ETC_ANG_DES: 3.48047
+  response: |-
+    7E80562091A06F6
+    7E80562091A06F6
+    7E80562091A06F6
+- expected_values:
+    EXPLORER_ETC_ANG_DES: 3.48438
+  response: |-
+    7E80562091A06F8
+    7E80562091A06F8
+- expected_values:
+    EXPLORER_ETC_ANG_DES: 3.49609
+  response: 7E80562091A06FE
+- expected_values:
+    EXPLORER_ETC_ANG_DES: 3.50195
+  response: 7E80562091A0701
+- expected_values:
+    EXPLORER_ETC_ANG_DES: 3.52734
+  response: |-
+    7E80562091A070E
+    7E80562091A070E
+    7E80562091A070E
+    7E80562091A070E
+    7E80562091A070E
+- expected_values:
     EXPLORER_ETC_ANG_DES: 4.12109
   response: |-
     7E80562091A083E
     7E80562091A083E
 - expected_values:
     EXPLORER_ETC_ANG_DES: 7.625
-  response: 7E80562091A0F40
-- expected_values:
-    EXPLORER_ETC_ANG_DES: 7.625
   response: |-
     7E80562091A0F40
     7E80562091A0F40
     7E80562091A0F40
+- expected_values:
+    EXPLORER_ETC_ANG_DES: 8.18555
+  response: 7E80562091A105F
+- expected_values:
+    EXPLORER_ETC_ANG_DES: 13
+  response: |-
+    7E80562091A1A00
+    7E80562091A1A00
+    7E80562091A1A00

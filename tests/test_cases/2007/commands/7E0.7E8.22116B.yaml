@@ -1,8 +1,8 @@
 command_id: 7E0.7E8.22116B
 test_cases:
 - expected_values:
-    EXPLORER_IGN_TIM_CYL1: 10
-  response: 7E80562116B0028
+    EXPLORER_IGN_TIM_CYL1: 8.25
+  response: 7E80562116B0021
 - expected_values:
     EXPLORER_IGN_TIM_CYL1: 13
   response: |-
@@ -40,15 +40,15 @@ test_cases:
     7E80562116B003F
     7E80562116B003F
 - expected_values:
-    EXPLORER_IGN_TIM_CYL1: 16.5
+    EXPLORER_IGN_TIM_CYL1: 16.25
   response: |-
-    7E80562116B0042
-    7E80562116B0042
+    7E80562116B0041
+    7E80562116B0041
 - expected_values:
     EXPLORER_IGN_TIM_CYL1: 17.25
   response: |-
     7E80562116B0045
     7E80562116B0045
 - expected_values:
-    EXPLORER_IGN_TIM_CYL1: 24
-  response: 7E80562116B0060
+    EXPLORER_IGN_TIM_CYL1: 33.25
+  response: 7E80562116B0085

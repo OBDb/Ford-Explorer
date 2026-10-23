@@ -43,3 +43,6 @@ test_cases:
   response: |-
     7E8056216160002
     7E8056216160002
+- expected_values:
+    EXPLORER_TOT_MIS_CNT: 7
+  response: '7E8056216160007'

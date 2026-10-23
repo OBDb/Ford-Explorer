@@ -29,3 +29,11 @@ test_cases:
     7E8046211B302
     7E8046211B302
     7E8046211B302
+- expected_values:
+    EXPLORER_TRANS_GEAR: 4
+  response: 7E8046211B308
+- expected_values:
+    EXPLORER_TRANS_GEAR: 4
+  response: |-
+    7E8046211B308
+    7E8046211B308

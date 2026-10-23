@@ -17,3 +17,8 @@ test_cases:
 - expected_values:
     EXPLORER_4_WHL_DRIVE_ENGAGED: 1
   response: 7E80562A211000A
+- expected_values:
+    EXPLORER_4_WHL_DRIVE_ENGAGED: 1
+  response: |-
+    7E80562A211000A
+    7E80562A211000A

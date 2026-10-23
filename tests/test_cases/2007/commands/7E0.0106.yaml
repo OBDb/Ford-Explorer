@@ -1,13 +1,13 @@
 command_id: 7E0.0106
 test_cases:
 - expected_values:
-    SHRTFT1: -3.90625
-  response: 7E80341067B
-- expected_values:
-    SHRTFT1: -3.90625
+    SHRTFT1: -14.84375
   response: |-
-    7E80341067B
-    7E80341067B
+    7E80341066D
+    7E80341066D
+- expected_values:
+    SHRTFT1: -5.46875
+  response: '7E803410679'
 - expected_values:
     SHRTFT1: -0.78125
   response: |-
@@ -25,10 +25,10 @@ test_cases:
     7E803410684
     7E803410684
 - expected_values:
-    SHRTFT1: 4.6875
-  response: |-
-    7E803410686
-    7E803410686
+    SHRTFT1: 53.90625
+  response: 7E8034106C5
 - expected_values:
-    SHRTFT1: 7.8125
-  response: 7E80341068A
+    SHRTFT1: 66.40625
+  response: |-
+    7E8034106D5
+    7E8034106D5

@@ -18,6 +18,9 @@ test_cases:
     7E80341078A
     7E80341078A
 - expected_values:
+    LONGFT1: 8.59375
+  response: 7E80341078B
+- expected_values:
     LONGFT1: 10.15625
   response: 7E80341078D
 - expected_values:
