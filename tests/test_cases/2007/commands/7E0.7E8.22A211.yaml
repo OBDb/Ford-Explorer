@@ -1,0 +1,19 @@
+command_id: 7E0.7E8.22A211
+test_cases:
+- expected_values:
+    EXPLORER_4_WHL_DRIVE_ENGAGED: 0.8
+  response: 7E80562A2110008
+- expected_values:
+    EXPLORER_4_WHL_DRIVE_ENGAGED: 0.8
+  response: |-
+    7E80562A2110008
+    7E80562A2110008
+- expected_values:
+    EXPLORER_4_WHL_DRIVE_ENGAGED: 0.8
+  response: |-
+    7E80562A2110008
+    7E80562A2110008
+    7E80562A2110008
+- expected_values:
+    EXPLORER_4_WHL_DRIVE_ENGAGED: 1
+  response: 7E80562A211000A

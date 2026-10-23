@@ -1,0 +1,22 @@
+command_id: 7E0.7E8.2209D4
+test_cases:
+- expected_values:
+    EXPLORER_ACCEL_PEDAL_POS: 0
+  response: 7E8046209D400
+- expected_values:
+    EXPLORER_ACCEL_PEDAL_POS: 0
+  response: |-
+    7E8046209D400
+    7E8046209D400
+- expected_values:
+    EXPLORER_ACCEL_PEDAL_POS: 0
+  response: |-
+    7E8046209D400
+    7E8046209D400
+    7E8046209D400
+- expected_values:
+    EXPLORER_ACCEL_PEDAL_POS: 29.5
+  response: |-
+    7E8046209D43B
+    7E8046209D43B
+    7E8046209D43B

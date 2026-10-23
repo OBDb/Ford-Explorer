@@ -1,0 +1,16 @@
+command_id: 7E0.7E8.221127
+test_cases:
+- expected_values:
+    EXPLORER_BAROMETRIC_P: 1037.08194
+  response: 7E804621127F5
+- expected_values:
+    EXPLORER_BAROMETRIC_P: 1037.08194
+  response: |-
+    7E804621127F5
+    7E804621127F5
+- expected_values:
+    EXPLORER_BAROMETRIC_P: 1037.08194
+  response: |-
+    7E804621127F5
+    7E804621127F5
+    7E804621127F5

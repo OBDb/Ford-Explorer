@@ -1,0 +1,55 @@
+command_id: 7E0.7E8.221672
+test_cases:
+- expected_values:
+    EXPLORER_FUEL_PMP_DUTY: 32.03125
+  response: '7E8056216722976'
+- expected_values:
+    EXPLORER_FUEL_PMP_DUTY: 32.03125
+  response: |-
+    7E80562167229A2
+    7E80562167229A2
+- expected_values:
+    EXPLORER_FUEL_PMP_DUTY: 32.03125
+  response: |-
+    7E80562167229D0
+    7E80562167229D0
+- expected_values:
+    EXPLORER_FUEL_PMP_DUTY: 32.03125
+  response: |-
+    7E80562167229FC
+    7E80562167229FC
+- expected_values:
+    EXPLORER_FUEL_PMP_DUTY: 32.03125
+  response: 7E80562167229FF
+- expected_values:
+    EXPLORER_FUEL_PMP_DUTY: 32.8125
+  response: |-
+    7E8056216722A73
+    7E8056216722A73
+    7E8056216722A73
+- expected_values:
+    EXPLORER_FUEL_PMP_DUTY: 32.8125
+  response: |-
+    7E8056216722AAA
+    7E8056216722AAA
+    7E8056216722AAA
+    7E8056216722AAA
+- expected_values:
+    EXPLORER_FUEL_PMP_DUTY: 32.8125
+  response: |-
+    7E8056216722AEF
+    7E8056216722AEF
+- expected_values:
+    EXPLORER_FUEL_PMP_DUTY: 32.8125
+  response: |-
+    7E8056216722AF0
+    7E8056216722AF0
+    7E8056216722AF0
+- expected_values:
+    EXPLORER_FUEL_PMP_DUTY: 75
+  response: '7E8056216726000'
+- expected_values:
+    EXPLORER_FUEL_PMP_DUTY: 75
+  response: |-
+    7E8056216726000
+    7E8056216726000

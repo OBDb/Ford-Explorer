@@ -1,0 +1,55 @@
+command_id: 7E0.7E8.221639
+test_cases:
+- expected_values:
+    EXPLORER_FUEL_TANK_P: 4404.96
+  response: 7E80562163976C0
+- expected_values:
+    EXPLORER_FUEL_TANK_P: 4562.6112
+  response: 7E8056216397B00
+- expected_values:
+    EXPLORER_FUEL_TANK_P: 4581.1584
+  response: |-
+    7E8056216397B80
+    7E8056216397B80
+- expected_values:
+    EXPLORER_FUEL_TANK_P: 4590.432
+  response: |-
+    7E8056216397BC0
+    7E8056216397BC0
+    7E8056216397BC0
+- expected_values:
+    EXPLORER_FUEL_TANK_P: 4729.536
+  response: |-
+    7E8056216397F80
+    7E8056216397F80
+    7E8056216397F80
+- expected_values:
+    EXPLORER_FUEL_TANK_P: 4766.6304
+  response: |-
+    7E8056216398080
+    7E8056216398080
+- expected_values:
+    EXPLORER_FUEL_TANK_P: 4812.9984
+  response: |-
+    7E80562163981C0
+    7E80562163981C0
+- expected_values:
+    EXPLORER_FUEL_TANK_P: 4924.2816
+  response: |-
+    7E80562163984C0
+    7E80562163984C0
+    7E80562163984C0
+- expected_values:
+    EXPLORER_FUEL_TANK_P: 4933.5552
+  response: '7E8056216398500'
+- expected_values:
+    EXPLORER_FUEL_TANK_P: 4933.5552
+  response: |-
+    7E8056216398500
+    7E8056216398500
+- expected_values:
+    EXPLORER_FUEL_TANK_P: 4942.8288
+  response: |-
+    7E8056216398540
+    7E8056216398540
+    7E8056216398540

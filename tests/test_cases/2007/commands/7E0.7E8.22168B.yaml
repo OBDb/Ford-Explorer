@@ -1,0 +1,53 @@
+command_id: 7E0.7E8.22168B
+test_cases:
+- expected_values:
+    EXPLORER_FUEL_INJ_IMPULSE: 0.1
+  response: |-
+    7E80562168BA680
+    7E80562168BA680
+- expected_values:
+    EXPLORER_FUEL_INJ_IMPULSE: 0.1
+  response: 7E80562168BA700
+- expected_values:
+    EXPLORER_FUEL_INJ_IMPULSE: 0.1
+  response: 7E80562168BA7C0
+- expected_values:
+    EXPLORER_FUEL_INJ_IMPULSE: 0.1
+  response: |-
+    7E80562168BDB00
+    7E80562168BDB00
+- expected_values:
+    EXPLORER_FUEL_INJ_IMPULSE: 0.1
+  response: |-
+    7E80562168BDD40
+    7E80562168BDD40
+    7E80562168BDD40
+- expected_values:
+    EXPLORER_FUEL_INJ_IMPULSE: 0.1
+  response: |-
+    7E80562168BDE40
+    7E80562168BDE40
+    7E80562168BDE40
+- expected_values:
+    EXPLORER_FUEL_INJ_IMPULSE: 0.1
+  response: |-
+    7E80562168BDEC0
+    7E80562168BDEC0
+- expected_values:
+    EXPLORER_FUEL_INJ_IMPULSE: 0.1
+  response: |-
+    7E80562168BDFC0
+    7E80562168BDFC0
+- expected_values:
+    EXPLORER_FUEL_INJ_IMPULSE: 0.1
+  response: |-
+    7E80562168BE000
+    7E80562168BE000
+- expected_values:
+    EXPLORER_FUEL_INJ_IMPULSE: 0.1
+  response: |-
+    7E80562168BE240
+    7E80562168BE240
+- expected_values:
+    EXPLORER_FUEL_INJ_IMPULSE: 0.1
+  response: 7E80562168BE580
