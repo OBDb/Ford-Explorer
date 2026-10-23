@@ -1,0 +1,60 @@
+command_id: 7E0.7E8.2211B8
+test_cases:
+- expected_values:
+    EXPLORER_TQ_CONV_SLIP: 0
+  response: 7E8056211B80000
+- expected_values:
+    EXPLORER_TQ_CONV_SLIP: 4.2721
+  response: |-
+    7E8056211B80007
+    7E8056211B80007
+- expected_values:
+    EXPLORER_TQ_CONV_SLIP: 6.7133
+  response: |-
+    7E8056211B8000B
+    7E8056211B8000B
+- expected_values:
+    EXPLORER_TQ_CONV_SLIP: 12.8163
+  response: |-
+    7E8056211B80015
+    7E8056211B80015
+    7E8056211B80015
+- expected_values:
+    EXPLORER_TQ_CONV_SLIP: 19.5296
+  response: |-
+    7E8056211B80020
+    7E8056211B80020
+- expected_values:
+    EXPLORER_TQ_CONV_SLIP: 19.5296
+  response: |-
+    7E8056211B80020
+    7E8056211B80020
+    7E8056211B80020
+- expected_values:
+    EXPLORER_TQ_CONV_SLIP: 28.6841
+  response: |-
+    7E8056211B8002F
+    7E8056211B8002F
+    7E8056211B8002F
+- expected_values:
+    EXPLORER_TQ_CONV_SLIP: 34.7871
+  response: |-
+    7E8056211B80039
+    7E8056211B80039
+- expected_values:
+    EXPLORER_TQ_CONV_SLIP: 39.6695
+  response: |-
+    7E8056211B80041
+    7E8056211B80041
+    7E8056211B80041
+- expected_values:
+    EXPLORER_TQ_CONV_SLIP: 1898.033
+  response: |-
+    7E8056211B80C26
+    7E8056211B80C26
+- expected_values:
+    EXPLORER_TQ_CONV_SLIP: 1921.8347
+  response: 7E8056211B80C4D
+- expected_values:
+    EXPLORER_TQ_CONV_SLIP: 1964.5557
+  response: 7E8056211B80C93

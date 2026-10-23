@@ -1,0 +1,29 @@
+command_id: 7E0.7E8.221172
+test_cases:
+- expected_values:
+    EXPLORER_BAT_V: 12.5625
+  response: 7E804621172C9
+- expected_values:
+    EXPLORER_BAT_V: 12.5625
+  response: |-
+    7E804621172C9
+    7E804621172C9
+- expected_values:
+    EXPLORER_BAT_V: 13.8125
+  response: |-
+    7E804621172DD
+    7E804621172DD
+- expected_values:
+    EXPLORER_BAT_V: 13.9375
+  response: |-
+    7E804621172DF
+    7E804621172DF
+- expected_values:
+    EXPLORER_BAT_V: 13.9375
+  response: |-
+    7E804621172DF
+    7E804621172DF
+    7E804621172DF
+- expected_values:
+    EXPLORER_BAT_V: 14
+  response: 7E804621172E0

@@ -1,0 +1,23 @@
+command_id: 7E0.7E8.2211B3
+test_cases:
+- expected_values:
+    EXPLORER_TRANS_GEAR: 1
+  response: 7E8046211B302
+- expected_values:
+    EXPLORER_TRANS_GEAR: 1
+  response: |-
+    7E8046211B302
+    7E8046211B302
+- expected_values:
+    EXPLORER_TRANS_GEAR: 1
+  response: |-
+    7E8046211B302
+    7E8046211B302
+    7E8046211B302
+- expected_values:
+    EXPLORER_TRANS_GEAR: 1
+  response: |-
+    7E8046211B302
+    7E8046211B302
+    7E8046211B302
+    7E8046211B302

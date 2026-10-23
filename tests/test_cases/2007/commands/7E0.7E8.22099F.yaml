@@ -1,0 +1,56 @@
+command_id: 7E0.7E8.22099F
+test_cases:
+- expected_values:
+    EXPLORER_FAN_SPD_SENS: 289
+  response: 7E80562099F0484
+- expected_values:
+    EXPLORER_FAN_SPD_SENS: 290.25
+  response: |-
+    7E80562099F0489
+    7E80562099F0489
+- expected_values:
+    EXPLORER_FAN_SPD_SENS: 312
+  response: |-
+    7E80562099F04E0
+    7E80562099F04E0
+- expected_values:
+    EXPLORER_FAN_SPD_SENS: 316.5
+  response: |-
+    7E80562099F04F2
+    7E80562099F04F2
+    7E80562099F04F2
+- expected_values:
+    EXPLORER_FAN_SPD_SENS: 320
+  response: 7E80562099F0500
+- expected_values:
+    EXPLORER_FAN_SPD_SENS: 415.75
+  response: |-
+    7E80562099F067F
+    7E80562099F067F
+- expected_values:
+    EXPLORER_FAN_SPD_SENS: 443.25
+  response: |-
+    7E80562099F06ED
+    7E80562099F06ED
+    7E80562099F06ED
+- expected_values:
+    EXPLORER_FAN_SPD_SENS: 446.5
+  response: |-
+    7E80562099F06FA
+    7E80562099F06FA
+- expected_values:
+    EXPLORER_FAN_SPD_SENS: 511.75
+  response: 7E80562099F07FF
+- expected_values:
+    EXPLORER_FAN_SPD_SENS: 512.5
+  response: |-
+    7E80562099F0802
+    7E80562099F0802
+- expected_values:
+    EXPLORER_FAN_SPD_SENS: 6997.75
+  response: 7E80562099F6D57
+- expected_values:
+    EXPLORER_FAN_SPD_SENS: 6997.75
+  response: |-
+    7E80562099F6D57
+    7E80562099F6D57

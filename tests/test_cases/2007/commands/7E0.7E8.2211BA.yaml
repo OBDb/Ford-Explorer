@@ -1,0 +1,42 @@
+command_id: 7E0.7E8.2211BA
+test_cases:
+- expected_values:
+    EXPLORER_CONV_SPD_RAT: 0
+  response: 7E8056211BA0000
+- expected_values:
+    EXPLORER_CONV_SPD_RAT: 983.10976
+  response: |-
+    7E8056211BA3EFB
+    7E8056211BA3EFB
+- expected_values:
+    EXPLORER_CONV_SPD_RAT: 983.17073
+  response: 7E8056211BA3EFC
+- expected_values:
+    EXPLORER_CONV_SPD_RAT: 983.41463
+  response: |-
+    7E8056211BA3F00
+    7E8056211BA3F00
+- expected_values:
+    EXPLORER_CONV_SPD_RAT: 988.23171
+  response: |-
+    7E8056211BA3F4F
+    7E8056211BA3F4F
+- expected_values:
+    EXPLORER_CONV_SPD_RAT: 988.47561
+  response: |-
+    7E8056211BA3F53
+    7E8056211BA3F53
+    7E8056211BA3F53
+- expected_values:
+    EXPLORER_CONV_SPD_RAT: 990.2439
+  response: |-
+    7E8056211BA3F70
+    7E8056211BA3F0
+- expected_values:
+    EXPLORER_CONV_SPD_RAT: 997.68293
+  response: |-
+    7E8056211BA3FEA
+    7E8056211BA3FEA
+- expected_values:
+    EXPLORER_CONV_SPD_RAT: 3986.09756
+  response: 7E8056211BAFF5C

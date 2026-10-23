@@ -1,0 +1,59 @@
+command_id: 7E0.7E8.22093C
+test_cases:
+- expected_values:
+    EXPLORER_ETC_ANG_ACT: 1.85352
+  response: 7E80562093C03B5
+- expected_values:
+    EXPLORER_ETC_ANG_ACT: 2
+  response: 7E80562093C0400
+- expected_values:
+    EXPLORER_ETC_ANG_ACT: 2.125
+  response: |-
+    7E80562093C0440
+    7E80562093C0440
+- expected_values:
+    EXPLORER_ETC_ANG_ACT: 2.25
+  response: |-
+    7E80562093C0480
+    7E80562093C0480
+    7E80562093C0480
+- expected_values:
+    EXPLORER_ETC_ANG_ACT: 2.25
+  response: |-
+    7E80562093C0480
+    7E80562093C0480
+    7E80562093C0480
+    7E80562093C0480
+- expected_values:
+    EXPLORER_ETC_ANG_ACT: 2.375
+  response: |-
+    7E80562093C04C0
+    7E80562093C04C0
+    7E80562093C04C0
+- expected_values:
+    EXPLORER_ETC_ANG_ACT: 2.4375
+  response: |-
+    7E80562093C04E0
+    7E80562093C04E0
+- expected_values:
+    EXPLORER_ETC_ANG_ACT: 2.45703
+  response: 7E80562093C04EA
+- expected_values:
+    EXPLORER_ETC_ANG_ACT: 2.70703
+  response: |-
+    7E80562093C056A
+    7E80562093C056A
+- expected_values:
+    EXPLORER_ETC_ANG_ACT: 3
+  response: |-
+    7E80562093C0600
+    7E80562093C0600
+    7E80562093C0600
+- expected_values:
+    EXPLORER_ETC_ANG_ACT: 4.125
+  response: |-
+    7E80562093C0840
+    7E80562093C0840
+- expected_values:
+    EXPLORER_ETC_ANG_ACT: 7
+  response: 7E80562093C0E00

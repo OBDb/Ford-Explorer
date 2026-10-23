@@ -1,0 +1,45 @@
+command_id: 7E0.7E8.221616
+test_cases:
+- expected_values:
+    EXPLORER_TOT_MIS_CNT: 0
+  response: '7E8056216160000'
+- expected_values:
+    EXPLORER_TOT_MIS_CNT: 0
+  response: |-
+    7E8056216160000
+    7E8056216160000
+- expected_values:
+    EXPLORER_TOT_MIS_CNT: 0
+  response: |-
+    7E8056216160000
+    7E8056216160000
+    7E8056216160000
+- expected_values:
+    EXPLORER_TOT_MIS_CNT: 1
+  response: '7E8056216160001'
+- expected_values:
+    EXPLORER_TOT_MIS_CNT: 1
+  response: |-
+    7E8056216160001
+    7E8056216160001
+- expected_values:
+    EXPLORER_TOT_MIS_CNT: 1
+  response: |-
+    7E8056216160001
+    7E8056216160001
+    7E8056216160001
+- expected_values:
+    EXPLORER_TOT_MIS_CNT: 1
+  response: |-
+    7E8056216160001
+    7E8056216160001
+    7E8056216160001
+    7E8056216160001
+- expected_values:
+    EXPLORER_TOT_MIS_CNT: 2
+  response: '7E8056216160002'
+- expected_values:
+    EXPLORER_TOT_MIS_CNT: 2
+  response: |-
+    7E8056216160002
+    7E8056216160002

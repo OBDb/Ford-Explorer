@@ -1,0 +1,26 @@
+command_id: 7E0.7E8.2216E8
+test_cases:
+- expected_values:
+    EXPLORER_CMD_GEN_DUTY: 0
+  response: 7E8056216E80000
+- expected_values:
+    EXPLORER_CMD_GEN_DUTY: 100
+  response: 7E8056216E88000
+- expected_values:
+    EXPLORER_CMD_GEN_DUTY: 100
+  response: |-
+    7E8056216E88000
+    7E8056216E88000
+- expected_values:
+    EXPLORER_CMD_GEN_DUTY: 100
+  response: |-
+    7E8056216E88000
+    7E8056216E88000
+    7E8056216E88000
+- expected_values:
+    EXPLORER_CMD_GEN_DUTY: 100
+  response: |-
+    7E8056216E88000
+    7E8056216E88000
+    7E8056216E88000
+    7E8056216E88000
