@@ -8,3 +8,9 @@ test_cases:
   response: |-
     7E80562163BFF5C
     7E80562163BFF5C
+- expected_values:
+    EXPLORER_TRANS_GEAR_RAT: 4015.748
+  response: |-
+    7E80562163BFF5C
+    7E80562163BFF5C
+    7E80562163BFF5C

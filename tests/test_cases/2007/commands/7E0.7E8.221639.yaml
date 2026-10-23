@@ -18,6 +18,17 @@ test_cases:
     7E8056216397BC0
     7E8056216397BC0
 - expected_values:
+    EXPLORER_FUEL_TANK_P: 4701.7152
+  response: |-
+    7E8056216397EC0
+    7E8056216397EC0
+- expected_values:
+    EXPLORER_FUEL_TANK_P: 4720.2624
+  response: |-
+    7E8056216397F40
+    7E8056216397F40
+    7E8056216397F40
+- expected_values:
     EXPLORER_FUEL_TANK_P: 4729.536
   response: |-
     7E8056216397F80
@@ -29,10 +40,10 @@ test_cases:
     7E8056216398080
     7E8056216398080
 - expected_values:
-    EXPLORER_FUEL_TANK_P: 4812.9984
+    EXPLORER_FUEL_TANK_P: 4785.1776
   response: |-
-    7E80562163981C0
-    7E80562163981C0
+    7E8056216398100
+    7E8056216398100
 - expected_values:
     EXPLORER_FUEL_TANK_P: 4924.2816
   response: |-

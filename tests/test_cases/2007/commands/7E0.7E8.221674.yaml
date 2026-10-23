@@ -62,16 +62,6 @@ test_cases:
     7E8056216740608
     7E8056216740608
 - expected_values:
-    EXPLORER_ATF_T_VAR_1: 195.625
-  response: |-
-    7E805621674061D
-    7E805621674061D
-- expected_values:
-    EXPLORER_ATF_T_VAR_1: 196.125
-  response: |-
-    7E8056216740621
-    7E8056216740621
-- expected_values:
     EXPLORER_ATF_T_VAR_1: 196.125
   response: |-
     7E8056216740621
@@ -83,3 +73,19 @@ test_cases:
     7E8056216740625
     7E8056216740625
     7E8056216740625
+- expected_values:
+    EXPLORER_ATF_T_VAR_1: 197.75
+  response: |-
+    7E805621674062E
+    7E805621674062E
+- expected_values:
+    EXPLORER_ATF_T_VAR_1: 197.75
+  response: |-
+    7E805621674062E
+    7E805621674062E
+    7E805621674062E
+- expected_values:
+    EXPLORER_ATF_T_VAR_1: 198.25
+  response: |-
+    7E8056216740632
+    7E8056216740632

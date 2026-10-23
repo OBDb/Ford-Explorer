@@ -1,8 +1,21 @@
 command_id: 7E0.7E8.2216C1
 test_cases:
 - expected_values:
-    EXPLORER_FLI_7E0: 91.43956
-  response: 7E8056216C1750A
+    EXPLORER_FLI_7E0: 90.03571
+  response: 7E8056216C1733E
+- expected_values:
+    EXPLORER_FLI_7E0: 90.31648
+  response: |-
+    7E8056216C1739A
+    7E8056216C1739A
+- expected_values:
+    EXPLORER_FLI_7E0: 90.59725
+  response: 7E8056216C173F6
+- expected_values:
+    EXPLORER_FLI_7E0: 90.87802
+  response: |-
+    7E8056216C17452
+    7E8056216C17452
 - expected_values:
     EXPLORER_FLI_7E0: 91.72033
   response: |-
@@ -14,11 +27,6 @@ test_cases:
   response: |-
     7E8056216C175C2
     7E8056216C175C2
-- expected_values:
-    EXPLORER_FLI_7E0: 92.0011
-  response: |-
-    7E8056216C175C2
-    7E8056216C175C2
     7E8056216C175C2
 - expected_values:
     EXPLORER_FLI_7E0: 92.0011
@@ -28,8 +36,13 @@ test_cases:
     7E8056216C175C2
     7E8056216C175C2
 - expected_values:
-    EXPLORER_FLI_7E0: 92.88919
-  response: 7E8056216C176E5
+    EXPLORER_FLI_7E0: 92.0011
+  response: |-
+    7E8056216C175C2
+    7E8056216C175C2
+    7E8056216C175C2
+    7E8056216C175C2
+    7E8056216C175C2
 - expected_values:
     EXPLORER_FLI_7E0: 92.88919
   response: |-

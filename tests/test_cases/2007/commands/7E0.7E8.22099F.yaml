@@ -23,10 +23,13 @@ test_cases:
     EXPLORER_FAN_SPD_SENS: 320
   response: 7E80562099F0500
 - expected_values:
-    EXPLORER_FAN_SPD_SENS: 415.75
+    EXPLORER_FAN_SPD_SENS: 383.75
+  response: 7E80562099F05FF
+- expected_values:
+    EXPLORER_FAN_SPD_SENS: 395.75
   response: |-
-    7E80562099F067F
-    7E80562099F067F
+    7E80562099F062F
+    7E80562099F062F
 - expected_values:
     EXPLORER_FAN_SPD_SENS: 443.25
   response: |-
@@ -38,9 +41,6 @@ test_cases:
   response: |-
     7E80562099F06FA
     7E80562099F06FA
-- expected_values:
-    EXPLORER_FAN_SPD_SENS: 511.75
-  response: 7E80562099F07FF
 - expected_values:
     EXPLORER_FAN_SPD_SENS: 512.5
   response: |-
