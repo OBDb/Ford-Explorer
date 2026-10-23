@@ -28,3 +28,7 @@ test_cases:
   response: |-
     7E8044114957E
     7E8044114957E
+- expected_values:
+    O2S11: 0.78
+    SHRTFT11: 0
+  response: 7E80441149C80

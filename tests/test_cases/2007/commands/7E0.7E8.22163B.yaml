@@ -1,6 +1,20 @@
 command_id: 7E0.7E8.22163B
 test_cases:
 - expected_values:
+    EXPLORER_TRANS_GEAR_RAT: 834.64567
+  response: 7E80562163B3545
+- expected_values:
+    EXPLORER_TRANS_GEAR_RAT: 1007.87402
+  response: |-
+    7E80562163B4023
+    7E80562163B4023
+- expected_values:
+    EXPLORER_TRANS_GEAR_RAT: 2519.68504
+  response: 7E80562163BA0A2
+- expected_values:
+    EXPLORER_TRANS_GEAR_RAT: 3102.36221
+  response: 7E80562163BC5E1
+- expected_values:
     EXPLORER_TRANS_GEAR_RAT: 4015.748
   response: 7E80562163BFF5C
 - expected_values:

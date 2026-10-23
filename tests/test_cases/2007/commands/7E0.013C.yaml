@@ -4,17 +4,11 @@ test_cases:
     CATEMP11: 469.5
   response: 7E804413C13E7
 - expected_values:
-    CATEMP11: 470.6
-  response: 7E804413C13F2
-- expected_values:
     CATEMP11: 471.7
   response: 7E804413C13FD
 - expected_values:
     CATEMP11: 473.3
   response: 7E804413C140D
-- expected_values:
-    CATEMP11: 473.7
-  response: 7E804413C1411
 - expected_values:
     CATEMP11: 502.2
   response: |-
@@ -23,12 +17,3 @@ test_cases:
 - expected_values:
     CATEMP11: 502.3
   response: 7E804413C152F
-- expected_values:
-    CATEMP11: 502.6
-  response: 7E804413C1532
-- expected_values:
-    CATEMP11: 503
-  response: 7E804413C1536
-- expected_values:
-    CATEMP11: 510.4
-  response: 7E804413C1580

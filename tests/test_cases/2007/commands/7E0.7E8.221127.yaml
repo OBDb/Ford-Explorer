@@ -14,3 +14,17 @@ test_cases:
     7E804621127F5
     7E804621127F5
     7E804621127F5
+- expected_values:
+    EXPLORER_BAROMETRIC_P: 1045.54791
+  response: 7E804621127F7
+- expected_values:
+    EXPLORER_BAROMETRIC_P: 1045.54791
+  response: |-
+    7E804621127F7
+    7E804621127F7
+- expected_values:
+    EXPLORER_BAROMETRIC_P: 1045.54791
+  response: |-
+    7E804621127F7
+    7E804621127F7
+    7E804621127F7

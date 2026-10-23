@@ -20,3 +20,6 @@ test_cases:
 - expected_values:
     O2S12: 0.605
   response: 7E804411579FF
+- expected_values:
+    O2S12: 0.62
+  response: 7E80441157CFF
