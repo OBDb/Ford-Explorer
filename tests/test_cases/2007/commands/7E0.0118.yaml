@@ -12,3 +12,15 @@ test_cases:
     O2S21: 0.23
     SHRTFT21: -0.78125
   response: 7E80441182E7F
+- expected_values:
+    O2S21: 0.695
+    SHRTFT21: 0.78125
+  response: 7E80441188B81
+- expected_values:
+    O2S21: 0.72
+    SHRTFT21: 3.125
+  response: '7E80441189084'
+- expected_values:
+    O2S21: 0.76
+    SHRTFT21: 3.90625
+  response: '7E80441189885'

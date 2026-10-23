@@ -17,6 +17,12 @@ test_cases:
     7E8056211BA3F00
     7E8056211BA3F00
 - expected_values:
+    EXPLORER_CONV_SPD_RAT: 986.40244
+  response: |-
+    7E8056211BA3F31
+    7E8056211BA3F31
+    7E8056211BA3F31
+- expected_values:
     EXPLORER_CONV_SPD_RAT: 988.23171
   response: |-
     7E8056211BA3F4F
@@ -37,6 +43,11 @@ test_cases:
   response: |-
     7E8056211BA3FEA
     7E8056211BA3FEA
+- expected_values:
+    EXPLORER_CONV_SPD_RAT: 999.87805
+  response: |-
+    7E8056211BA400E
+    7E8056211BA400E
 - expected_values:
     EXPLORER_CONV_SPD_RAT: 3986.09756
   response: 7E8056211BAFF5C

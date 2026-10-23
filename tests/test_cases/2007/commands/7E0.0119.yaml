@@ -1,6 +1,15 @@
 command_id: 7E0.0119
 test_cases:
 - expected_values:
+    O2S22: 0.17
+  response: 7E804411922FF
+- expected_values:
+    O2S22: 0.225
+  response: 7E80441192DFF
+- expected_values:
+    O2S22: 0.265
+  response: 7E804411935FF
+- expected_values:
     O2S22: 0.63
   response: 7E80441197EFF
 - expected_values:
