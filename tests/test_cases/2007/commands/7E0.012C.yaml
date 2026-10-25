@@ -8,4 +8,9 @@ test_cases:
   response: |-
     7E803412C00
     7E803412C00
+- expected_values:
+    EGR_PCT: 0
+  response: |-
+    7E803412C00
+    7E803412C00
     7E803412C00

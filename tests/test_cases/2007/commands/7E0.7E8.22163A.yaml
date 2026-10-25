@@ -33,6 +33,11 @@ test_cases:
     7E80462163A06
     7E80462163A06
 - expected_values:
+    EXPLORER_TQ_INTO_TQ_CONV_7E0: 13.28702
+  response: |-
+    7E80462163A31
+    7E80462163A31
+- expected_values:
     EXPLORER_TQ_INTO_TQ_CONV_7E0: 13.82934
   response: |-
     7E80462163A33

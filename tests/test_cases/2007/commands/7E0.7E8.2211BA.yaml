@@ -51,3 +51,8 @@ test_cases:
 - expected_values:
     EXPLORER_CONV_SPD_RAT: 3986.09756
   response: 7E8056211BAFF5C
+- expected_values:
+    EXPLORER_CONV_SPD_RAT: 3986.09756
+  response: |-
+    7E8056211BAFF5C
+    7E8056211BAFF5C

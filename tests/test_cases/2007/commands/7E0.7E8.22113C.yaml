@@ -8,3 +8,10 @@ test_cases:
   response: |-
     7E80562113C0000
     7E80562113C0000
+- expected_values:
+    EXPLORER_EGR_DUTY: 0
+  response: |-
+    7E80562113C0000
+    7E80562113C0000
+    7E80562113C0000
+    7E80562113C0000
