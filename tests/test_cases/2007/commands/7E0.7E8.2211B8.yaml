@@ -4,26 +4,21 @@ test_cases:
     EXPLORER_TQ_CONV_SLIP: 0
   response: 7E8056211B80000
 - expected_values:
+    EXPLORER_TQ_CONV_SLIP: 0
+  response: |-
+    7E8056211B80000
+    7E8056211B80000
+- expected_values:
     EXPLORER_TQ_CONV_SLIP: 3.0515
   response: |-
     7E8056211B80005
     7E8056211B80005
     7E8056211B80005
 - expected_values:
-    EXPLORER_TQ_CONV_SLIP: 4.2721
-  response: |-
-    7E8056211B80007
-    7E8056211B80007
-- expected_values:
     EXPLORER_TQ_CONV_SLIP: 9.1545
   response: |-
     7E8056211B8000F
     7E8056211B8000F
-- expected_values:
-    EXPLORER_TQ_CONV_SLIP: 19.5296
-  response: |-
-    7E8056211B80020
-    7E8056211B80020
 - expected_values:
     EXPLORER_TQ_CONV_SLIP: 19.5296
   response: |-

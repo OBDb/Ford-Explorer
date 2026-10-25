@@ -14,5 +14,16 @@ test_cases:
     7E803411128
     7E803411128
 - expected_values:
+    TP: 18.82353
+  response: |-
+    7E803411130
+    7E803411130
+- expected_values:
+    TP: 18.82353
+  response: |-
+    7E803411130
+    7E803411130
+    7E803411130
+- expected_values:
     TP: 23.13725
   response: 7E80341113B

@@ -4,10 +4,10 @@ test_cases:
     EXPLORER_IGN_TIM_CYL1: 8.25
   response: 7E80562116B0021
 - expected_values:
-    EXPLORER_IGN_TIM_CYL1: 13
+    EXPLORER_IGN_TIM_CYL1: 10
   response: |-
-    7E80562116B0034
-    7E80562116B0034
+    7E80562116B0028
+    7E80562116B0028
 - expected_values:
     EXPLORER_IGN_TIM_CYL1: 13.75
   response: |-

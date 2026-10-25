@@ -1,6 +1,9 @@
 command_id: 7E0.7E8.221674
 test_cases:
 - expected_values:
+    EXPLORER_ATF_T_VAR_1: 92
+  response: 7E80562167402E0
+- expected_values:
     EXPLORER_ATF_T_VAR_1: 190.125
   response: 7E80562167405F1
 - expected_values:
