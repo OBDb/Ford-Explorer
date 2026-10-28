@@ -16,14 +16,6 @@ test_cases:
     7E8056216160000
 - expected_values:
     EXPLORER_TOT_MIS_CNT: 1
-  response: '7E8056216160001'
-- expected_values:
-    EXPLORER_TOT_MIS_CNT: 1
-  response: |-
-    7E8056216160001
-    7E8056216160001
-- expected_values:
-    EXPLORER_TOT_MIS_CNT: 1
   response: |-
     7E8056216160001
     7E8056216160001
@@ -36,13 +28,10 @@ test_cases:
     7E8056216160001
     7E8056216160001
 - expected_values:
-    EXPLORER_TOT_MIS_CNT: 2
-  response: '7E8056216160002'
+    EXPLORER_TOT_MIS_CNT: 9
+  response: '7E8056216160009'
 - expected_values:
-    EXPLORER_TOT_MIS_CNT: 2
+    EXPLORER_TOT_MIS_CNT: 9
   response: |-
-    7E8056216160002
-    7E8056216160002
-- expected_values:
-    EXPLORER_TOT_MIS_CNT: 7
-  response: '7E8056216160007'
+    7E8056216160009
+    7E8056216160009

@@ -15,6 +15,24 @@ test_cases:
     7E8056216C14426
     7E8056216C14426
 - expected_values:
+    EXPLORER_FLI_7E0: 55.31175
+  response: |-
+    7E8056216C146CC
+    7E8056216C146CC
+    7E8056216C146CC
+    7E8056216C146CC
+- expected_values:
+    EXPLORER_FLI_7E0: 56.1388
+  response: |-
+    7E8056216C147DB
+    7E8056216C147DB
+    7E8056216C147DB
+- expected_values:
+    EXPLORER_FLI_7E0: 56.5508
+  response: |-
+    7E8056216C14862
+    7E8056216C14862
+- expected_values:
     EXPLORER_FLI_7E0: 90.31648
   response: |-
     7E8056216C1739A
@@ -22,11 +40,6 @@ test_cases:
 - expected_values:
     EXPLORER_FLI_7E0: 90.59725
   response: 7E8056216C173F6
-- expected_values:
-    EXPLORER_FLI_7E0: 90.87802
-  response: |-
-    7E8056216C17452
-    7E8056216C17452
 - expected_values:
     EXPLORER_FLI_7E0: 91.72033
   response: |-

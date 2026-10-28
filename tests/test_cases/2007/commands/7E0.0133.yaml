@@ -4,6 +4,11 @@ test_cases:
     BARO: 102
   response: '7E803413366'
 - expected_values:
+    BARO: 102
+  response: |-
+    7E803413366
+    7E803413366
+- expected_values:
     BARO: 104
   response: '7E803413368'
 - expected_values:
