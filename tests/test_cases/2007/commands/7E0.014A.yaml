@@ -8,3 +8,9 @@ test_cases:
   response: |-
     7E803414A4A
     7E803414A4A
+- expected_values:
+    APP_E: 29.01961
+  response: |-
+    7E803414A4A
+    7E803414A4A
+    7E803414A4A

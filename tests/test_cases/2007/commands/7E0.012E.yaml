@@ -15,23 +15,5 @@ test_cases:
     7E803412E00
     7E803412E00
 - expected_values:
-    EVAP_PCT: 3.92157
-  response: 7E803412E0A
-- expected_values:
-    EVAP_PCT: 38.43137
-  response: 7E803412E62
-- expected_values:
-    EVAP_PCT: 48.23529
-  response: 7E803412E7B
-- expected_values:
-    EVAP_PCT: 63.13725
-  response: 7E803412EA1
-- expected_values:
-    EVAP_PCT: 73.72549
-  response: 7E803412EBC
-- expected_values:
-    EVAP_PCT: 74.11765
-  response: 7E803412EBD
-- expected_values:
-    EVAP_PCT: 76.07843
-  response: 7E803412EC2
+    EVAP_PCT: 84.70588
+  response: 7E803412ED8

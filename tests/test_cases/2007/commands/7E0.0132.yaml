@@ -4,16 +4,16 @@ test_cases:
     EVAP_VP: -0.541
   response: 7E8044132F78C
 - expected_values:
-    EVAP_VP: -0.13725
-  response: 7E8044132FDDB
-- expected_values:
-    EVAP_VP: -0.12
-  response: 7E8044132FE20
+    EVAP_VP: -0.455
+  response: 7E8044132F8E4
 - expected_values:
     EVAP_VP: -0.1115
   response: |-
     7E8044132FE42
     7E8044132FE42
+- expected_values:
+    EVAP_VP: -0.06
+  response: 7E8044132FF10
 - expected_values:
     EVAP_VP: -0.06
   response: |-
@@ -32,9 +32,6 @@ test_cases:
     7E8044132FF32
     7E8044132FF32
     7E8044132FF32
-- expected_values:
-    EVAP_VP: -0.04275
-  response: 7E8044132FF55
 - expected_values:
     EVAP_VP: -0.03425
   response: |-
