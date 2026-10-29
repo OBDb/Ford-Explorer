@@ -136,6 +136,7 @@ supported_commands_by_ecu:
   - 7E4.7EC.22000F
 unsupported_commands_by_ecu:
   "6F5":
+  - 6F5.224899
   - 6F5.22489D
   "703":
   - 703.70B.22017C:EXPLORER_ACTUATOR_CAM_POS
