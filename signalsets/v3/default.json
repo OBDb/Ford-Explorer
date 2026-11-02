@@ -956,7 +956,7 @@
   "signals": [
     {"id": "EXPLORER_ICP_V", "path": "Battery", "fmt": { "len": 8, "max": 5, "div": 51, "unit": "volts" }, "name": "Injection control pressure sensor voltage"}
   ]},
-{ "hdr": "7E0", "rax": "7E8", "cmd": {"22": "16C1"}, "freq": 30, "dbgfilter": { "to": 2006, "from": 2008 },
+{ "hdr": "7E0", "rax": "7E8", "cmd": {"22": "16C1"}, "freq": 1, "dbgfilter": { "to": 2006, "from": 2008 },
   "signals": [
     {"id": "EXPLORER_FLI_7E0", "path": "Fuel", "fmt": { "len": 16, "max": 200, "mul": 0.0030518509, "unit": "percent" }, "name": "Fuel level", "suggestedMetric": "fuelTankLevel"}
   ]},
