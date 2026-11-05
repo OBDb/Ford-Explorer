@@ -1,0 +1,14 @@
+command_id: 7E0.7E8.221E1A
+test_cases:
+- expected_values:
+    EXPLORER_PCM_CMD_TRANS_MAIN_LINE_P: 200
+  response: 7E805621E1A0064
+- expected_values:
+    EXPLORER_PCM_CMD_TRANS_MAIN_LINE_P: 456
+  response: 7E805621E1A00E4
+- expected_values:
+    EXPLORER_PCM_CMD_TRANS_MAIN_LINE_P: 1040
+  response: 7E805621E1A0208
+- expected_values:
+    EXPLORER_PCM_CMD_TRANS_MAIN_LINE_P: 1700
+  response: 7E805621E1A0352

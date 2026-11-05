@@ -1,0 +1,26 @@
+command_id: 7E0.7E8.22DD01|fc=1
+test_cases:
+- expected_values:
+    EXPLORER_ODO: 116685
+  response: 7E80662DD0101C7CD
+- expected_values:
+    EXPLORER_ODO: 116686
+  response: 7E80662DD0101C7CE
+- expected_values:
+    EXPLORER_ODO: 116687
+  response: 7E80662DD0101C7CF
+- expected_values:
+    EXPLORER_ODO: 116688
+  response: 7E80662DD0101C7D0
+- expected_values:
+    EXPLORER_ODO: 116689
+  response: 7E80662DD0101C7D1
+- expected_values:
+    EXPLORER_ODO: 116690
+  response: 7E80662DD0101C7D2
+- expected_values:
+    EXPLORER_ODO: 116691
+  response: 7E80662DD0101C7D3
+- expected_values:
+    EXPLORER_ODO: 116692
+  response: 7E80662DD0101C7D4
