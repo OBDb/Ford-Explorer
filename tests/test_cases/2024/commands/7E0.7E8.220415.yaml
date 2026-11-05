@@ -4,8 +4,8 @@ test_cases:
     EXPLORER_PCM_ENG_EOP_RAW: 104
   response: '7E8056204150068'
 - expected_values:
-    EXPLORER_PCM_ENG_EOP_RAW: 303
-  response: 7E805620415012F
+    EXPLORER_PCM_ENG_EOP_RAW: 297
+  response: '7E8056204150129'
 - expected_values:
     EXPLORER_PCM_ENG_EOP_RAW: 476
   response: 7E80562041501DC

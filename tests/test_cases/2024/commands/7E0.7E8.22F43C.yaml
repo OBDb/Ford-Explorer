@@ -1,14 +1,14 @@
 command_id: 7E0.7E8.22F43C
 test_cases:
 - expected_values:
-    EXPLORER_CAT_TEMP: 481.3
-  response: 7E80562F43C145D
+    EXPLORER_CAT_TEMP: 360.2
+  response: 7E80562F43C0FA2
 - expected_values:
-    EXPLORER_CAT_TEMP: 522.6
-  response: 7E80562F43C15FA
+    EXPLORER_CAT_TEMP: 446.7
+  response: 7E80562F43C1303
 - expected_values:
-    EXPLORER_CAT_TEMP: 677.7
-  response: 7E80562F43C1C09
+    EXPLORER_CAT_TEMP: 548.5
+  response: 7E80562F43C16FD
 - expected_values:
     EXPLORER_CAT_TEMP: 716.7
   response: 7E80562F43C1D8F

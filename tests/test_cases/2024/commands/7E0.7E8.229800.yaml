@@ -7,5 +7,5 @@ test_cases:
     EXPLORER_AC_P_SENS_V: 1.74902
   response: 7E80562980006FF
 - expected_values:
-    EXPLORER_AC_P_SENS_V: 1.80957
-  response: 7E805629800073D
+    EXPLORER_AC_P_SENS_V: 1.75
+  response: '7E8056298000700'

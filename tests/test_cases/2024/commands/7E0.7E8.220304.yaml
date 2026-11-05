@@ -4,8 +4,11 @@ test_cases:
     EXPLORER_CMD_GEN_V: 10.5935
   response: 7E80562030454CC
 - expected_values:
-    EXPLORER_CMD_GEN_V: 14.4853
-  response: 7E80562030473F3
+    EXPLORER_CMD_GEN_V: 14.11638
+  response: 7E80562030470FF
+- expected_values:
+    EXPLORER_CMD_GEN_V: 14.11686
+  response: '7E8056203047100'
 - expected_values:
     EXPLORER_CMD_GEN_V: 14.49214
   response: '7E8056203047401'

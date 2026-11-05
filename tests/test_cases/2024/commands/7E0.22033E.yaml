@@ -4,11 +4,11 @@ test_cases:
     EXPLORER_TIP_ABS: 14.565
   response: 7E80562033E336C
 - expected_values:
-    EXPLORER_TIP_ABS: 14.71215
-  response: 7E80562033E33F1
+    EXPLORER_TIP_ABS: 15.00535
+  response: 7E80562033E34FA
 - expected_values:
-    EXPLORER_TIP_ABS: 16.45588
-  response: 7E80562033E3A19
+    EXPLORER_TIP_ABS: 15.31073
+  response: 7E80562033E360E
 - expected_values:
-    EXPLORER_TIP_ABS: 18.4397
-  response: 7E80562033E411A
+    EXPLORER_TIP_ABS: 36.00311
+  response: 7E80562033E7F1C

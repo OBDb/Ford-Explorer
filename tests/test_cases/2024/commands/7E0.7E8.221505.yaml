@@ -4,5 +4,8 @@ test_cases:
     EXPLORER_VSS_HD: 0
   response: '7E8056215050000'
 - expected_values:
-    EXPLORER_VSS_HD: 75.58594
-  response: 7E80562150525CB
+    EXPLORER_VSS_HD: 51.97656
+  response: 7E80562150519FD
+- expected_values:
+    EXPLORER_VSS_HD: 76.13281
+  response: '7E8056215052611'

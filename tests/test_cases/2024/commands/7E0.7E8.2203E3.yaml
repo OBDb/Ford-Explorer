@@ -1,32 +1,11 @@
 command_id: 7E0.7E8.2203E3
 test_cases:
 - expected_values:
-    EXPLORER_PF_DIFF_P_FEEDBACK_V: 1.48992
-  response: 7E8056203E305F5
-- expected_values:
-    EXPLORER_PF_DIFF_P_FEEDBACK_V: 1.49481
-  response: 7E8056203E305FA
+    EXPLORER_PF_DIFF_P_FEEDBACK_V: 1.48016
+  response: 7E8056203E305EB
 - expected_values:
     EXPLORER_PF_DIFF_P_FEEDBACK_V: 1.4997
   response: 7E8056203E305FF
 - expected_values:
     EXPLORER_PF_DIFF_P_FEEDBACK_V: 1.50458
   response: 7E8056203E30604
-- expected_values:
-    EXPLORER_PF_DIFF_P_FEEDBACK_V: 1.51924
-  response: 7E8056203E30613
-- expected_values:
-    EXPLORER_PF_DIFF_P_FEEDBACK_V: 1.52412
-  response: 7E8056203E30618
-- expected_values:
-    EXPLORER_PF_DIFF_P_FEEDBACK_V: 1.53389
-  response: 7E8056203E30622
-- expected_values:
-    EXPLORER_PF_DIFF_P_FEEDBACK_V: 1.54854
-  response: 7E8056203E30631
-- expected_values:
-    EXPLORER_PF_DIFF_P_FEEDBACK_V: 1.56808
-  response: 7E8056203E30645
-- expected_values:
-    EXPLORER_PF_DIFF_P_FEEDBACK_V: 1.63159
-  response: 7E8056203E30686

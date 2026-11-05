@@ -1,14 +1,11 @@
 command_id: 7E0.220307
 test_cases:
 - expected_values:
-    EXPLORER_LPFP_DUTY: 21.1731
-  response: 7E8056203071B1A
+    EXPLORER_LPFP_DUTY: 20.32776
+  response: 7E8056203071A05
 - expected_values:
-    EXPLORER_LPFP_DUTY: 22.62268
-  response: 7E8056203071CF5
+    EXPLORER_LPFP_DUTY: 22.65015
+  response: 7E8056203071CFE
 - expected_values:
-    EXPLORER_LPFP_DUTY: 24.24622
-  response: 7E8056203071F09
-- expected_values:
-    EXPLORER_LPFP_DUTY: 30.2002
-  response: 7E80562030726A8
+    EXPLORER_LPFP_DUTY: 40.88135
+  response: '7E8056203073454'
