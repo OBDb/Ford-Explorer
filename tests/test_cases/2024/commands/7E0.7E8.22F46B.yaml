@@ -4,6 +4,11 @@ test_cases:
     EXPLORER_EGR_T_7E0: 1598.4
   response: |-
     7E8100862F46B400000
+    7E8211600CCCCCCCCCC
+- expected_values:
+    EXPLORER_EGR_T_7E0: 1598.4
+  response: |-
+    7E8100862F46B400000
     7E8211700CCCCCCCCCC
 - expected_values:
     EXPLORER_EGR_T_7E0: 1598.4
@@ -25,3 +30,8 @@ test_cases:
   response: |-
     7E8100862F46B400000
     7E8211B00CCCCCCCCCC
+- expected_values:
+    EXPLORER_EGR_T_7E0: 1598.4
+  response: |-
+    7E8100862F46B400000
+    7E8211C00CCCCCCCCCC

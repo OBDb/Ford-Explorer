@@ -4,8 +4,8 @@ test_cases:
     EXPLORER_VCT_EXH_DES: 0
   response: 7E8056203BB0000
 - expected_values:
-    EXPLORER_VCT_EXH_DES: 25.5625
-  response: 7E8056203BB0199
+    EXPLORER_VCT_EXH_DES: 31.9375
+  response: 7E8056203BB01FF
 - expected_values:
-    EXPLORER_VCT_EXH_DES: 32.5
-  response: 7E8056203BB0208
+    EXPLORER_VCT_EXH_DES: 32.3125
+  response: 7E8056203BB0205

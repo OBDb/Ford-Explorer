@@ -4,11 +4,29 @@ test_cases:
     EXPLORER_IGN_CORR_CYL1: 0
   response: 7E8056203EC0000
 - expected_values:
+    EXPLORER_IGN_CORR_CYL1: -3.40039
+  response: 7E8056203ECF933
+- expected_values:
+    EXPLORER_IGN_CORR_CYL1: -2.69531
+  response: 7E8056203ECFA9C
+- expected_values:
+    EXPLORER_IGN_CORR_CYL1: -2.20898
+  response: 7E8056203ECFB95
+- expected_values:
+    EXPLORER_IGN_CORR_CYL1: -1.76172
+  response: 7E8056203ECFC7A
+- expected_values:
     EXPLORER_IGN_CORR_CYL1: -1.5
   response: 7E8056203ECFD00
 - expected_values:
     EXPLORER_IGN_CORR_CYL1: -1.33789
   response: 7E8056203ECFD53
 - expected_values:
+    EXPLORER_IGN_CORR_CYL1: -1.12109
+  response: 7E8056203ECFDC2
+- expected_values:
     EXPLORER_IGN_CORR_CYL1: -0.90039
   response: 7E8056203ECFE33
+- expected_values:
+    EXPLORER_IGN_CORR_CYL1: -0.25
+  response: 7E8056203ECFF80

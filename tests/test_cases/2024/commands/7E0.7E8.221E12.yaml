@@ -16,5 +16,11 @@ test_cases:
     EXPLORER_GEAR: '6'
   response: 7E804621E1206
 - expected_values:
+    EXPLORER_GEAR: '7'
+  response: 7E804621E1207
+- expected_values:
     EXPLORER_GEAR: '8'
   response: 7E804621E1208
+- expected_values:
+    EXPLORER_GEAR: '9'
+  response: 7E804621E1209
