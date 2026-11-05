@@ -1,0 +1,26 @@
+command_id: 7E0.220316
+test_cases:
+- expected_values:
+    EXPLORER_VCT_INT_DUTY: 0
+  response: '7E8056203160000'
+- expected_values:
+    EXPLORER_VCT_INT_DUTY: 31.91833
+  response: 7E80562031628DB
+- expected_values:
+    EXPLORER_VCT_INT_DUTY: 33.27942
+  response: 7E8056203162A99
+- expected_values:
+    EXPLORER_VCT_INT_DUTY: 34.07288
+  response: 7E8056203162B9D
+- expected_values:
+    EXPLORER_VCT_INT_DUTY: 34.08508
+  response: 7E8056203162BA1
+- expected_values:
+    EXPLORER_VCT_INT_DUTY: 34.79919
+  response: 7E8056203162C8B
+- expected_values:
+    EXPLORER_VCT_INT_DUTY: 35.14099
+  response: 7E8056203162CFB
+- expected_values:
+    EXPLORER_VCT_INT_DUTY: 35.46448
+  response: 7E8056203162D65

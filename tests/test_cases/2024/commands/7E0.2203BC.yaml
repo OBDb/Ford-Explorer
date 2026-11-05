@@ -1,0 +1,23 @@
+command_id: 7E0.2203BC
+test_cases:
+- expected_values:
+    EXPLORER_VCT_INT_DES: 0
+  response: 7E8056203BC0000
+- expected_values:
+    EXPLORER_VCT_INT_DES: -22.6875
+  response: 7E8056203BCFE95
+- expected_values:
+    EXPLORER_VCT_INT_DES: -15.125
+  response: 7E8056203BCFF0E
+- expected_values:
+    EXPLORER_VCT_INT_DES: -14.5
+  response: 7E8056203BCFF18
+- expected_values:
+    EXPLORER_VCT_INT_DES: -11.25
+  response: 7E8056203BCFF4C
+- expected_values:
+    EXPLORER_VCT_INT_DES: -0.375
+  response: 7E8056203BCFFFA
+- expected_values:
+    EXPLORER_VCT_INT_DES: -0.1875
+  response: 7E8056203BCFFFD

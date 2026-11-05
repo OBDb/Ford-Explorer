@@ -1,0 +1,11 @@
+command_id: 7E0.7E8.221166
+test_cases:
+- expected_values:
+    EXPLORER_EVAP_PURGE_CMD: 0
+  response: '7E8056211660000'
+- expected_values:
+    EXPLORER_EVAP_PURGE_CMD: 1.55334
+  response: 7E80562116601FD
+- expected_values:
+    EXPLORER_EVAP_PURGE_CMD: 86.06262
+  response: 7E8056211666E29

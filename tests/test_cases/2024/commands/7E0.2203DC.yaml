@@ -1,0 +1,11 @@
+command_id: 7E0.2203DC
+test_cases:
+- expected_values:
+    EXPLORER_HPFP_DES: 20.30528
+  response: 7E8056203DC000E
+- expected_values:
+    EXPLORER_HPFP_DES: 368.39586
+  response: 7E8056203DC00FE
+- expected_values:
+    EXPLORER_HPFP_DES: 3446.0967
+  response: 7E8056203DC0948
