@@ -4,11 +4,11 @@ test_cases:
     EXPLORER_CAT: -0.1875
   response: 7E80562046109F4
 - expected_values:
-    EXPLORER_CAT: 7.89062
-  response: 7E8056204610BF9
-- expected_values:
     EXPLORER_CAT: 12.01562
   response: 7E8056204610D01
+- expected_values:
+    EXPLORER_CAT: 19.95312
+  response: 7E8056204610EFD
 - expected_values:
     EXPLORER_CAT: 24.90625
   response: 7E805620461103A

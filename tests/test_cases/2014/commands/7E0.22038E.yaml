@@ -7,5 +7,5 @@ test_cases:
     EXPLORER_EVAP_V: 2.557
   response: 7E80562038E09FD
 - expected_values:
-    EXPLORER_EVAP_V: 2.627
-  response: 7E80562038E0A43
+    EXPLORER_EVAP_V: 2.607
+  response: 7E80562038E0A2F
