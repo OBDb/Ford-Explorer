@@ -1,0 +1,8 @@
+command_id: 7E0.7E8.22F431
+test_cases:
+- expected_values:
+    EXPLORER_DIST_DTC_CLR: 845
+  response: 7E80562F431034D
+- expected_values:
+    EXPLORER_DIST_DTC_CLR: 871
+  response: 7E80562F4310367

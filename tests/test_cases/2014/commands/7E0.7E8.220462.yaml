@@ -1,0 +1,11 @@
+command_id: 7E0.7E8.220462
+test_cases:
+- expected_values:
+    EXPLORER_WGDC: 0
+  response: '7E8056204620000'
+- expected_values:
+    EXPLORER_WGDC: 36.70349
+  response: 7E8056204622EFB
+- expected_values:
+    EXPLORER_WGDC: 98.30933
+  response: 7E8056204627DD6

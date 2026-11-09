@@ -1,0 +1,14 @@
+command_id: '760.223302'
+test_cases:
+- expected_values:
+    EXPLORER_BCM_STEER_ANG_ACT: -271.8
+  response: 7680562330213DA
+- expected_values:
+    EXPLORER_BCM_STEER_ANG_ACT: -12.4
+  response: 768056233021DFC
+- expected_values:
+    EXPLORER_BCM_STEER_ANG_ACT: 17.4
+  response: 768056233021F26
+- expected_values:
+    EXPLORER_BCM_STEER_ANG_ACT: 316.4
+  response: 768056233022AD4

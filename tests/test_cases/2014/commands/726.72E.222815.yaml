@@ -1,0 +1,14 @@
+command_id: 726.72E.222815
+test_cases:
+- expected_values:
+    EXPLORER_TP_RR: 35
+  response: 72E0562281502BC
+- expected_values:
+    EXPLORER_TP_RR: 35.25
+  response: 72E0562281502C1
+- expected_values:
+    EXPLORER_TP_RR: 35.5
+  response: 72E0562281502C6
+- expected_values:
+    EXPLORER_TP_RR: 35.75
+  response: 72E0562281502CB

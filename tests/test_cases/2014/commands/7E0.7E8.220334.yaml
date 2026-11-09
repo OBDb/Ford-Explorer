@@ -1,0 +1,11 @@
+command_id: 7E0.7E8.220334
+test_cases:
+- expected_values:
+    EXPLORER_PCM_CYL_HEAD_T_CORR: 88.29688
+  response: '7E8056203341613'
+- expected_values:
+    EXPLORER_PCM_CYL_HEAD_T_CORR: 95.90625
+  response: 7E80562033417FA
+- expected_values:
+    EXPLORER_PCM_CYL_HEAD_T_CORR: 96.04688
+  response: '7E8056203341803'
