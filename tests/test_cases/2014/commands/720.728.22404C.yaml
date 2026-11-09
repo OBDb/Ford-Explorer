@@ -1,0 +1,11 @@
+command_id: 720.728.22404C
+test_cases:
+- expected_values:
+    EXPLORER_ODO_V3: 211209.6
+  response: 7280662404C203A60
+- expected_values:
+    EXPLORER_ODO_V3: 211225.5
+  response: 7280662404C203AFF
+- expected_values:
+    EXPLORER_ODO_V3: 211226.8
+  response: 7280662404C203B0C

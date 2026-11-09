@@ -1,0 +1,14 @@
+command_id: 7E0.7E8.220460
+test_cases:
+- expected_values:
+    EXPLORER_CAT_SENS_V: 1.16211
+  response: 7E80562046004A6
+- expected_values:
+    EXPLORER_CAT_SENS_V: 1.75293
+  response: '7E8056204600703'
+- expected_values:
+    EXPLORER_CAT_SENS_V: 1.99707
+  response: 7E80562046007FD
+- expected_values:
+    EXPLORER_CAT_SENS_V: 2.26074
+  response: 7E805620460090B

@@ -1,0 +1,8 @@
+command_id: 7E0.7E8.22041F
+test_cases:
+- expected_values:
+    EXPLORER_LPFP_DES: 67.86
+  response: 7E80462041F9C
+- expected_values:
+    EXPLORER_LPFP_DES: 89.175
+  response: 7E80462041FCD

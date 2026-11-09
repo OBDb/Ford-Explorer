@@ -1,0 +1,11 @@
+command_id: 7E0.2203E8
+test_cases:
+- expected_values:
+    EXPLORER_OAR: -0.73273
+  response: 7E8056203E8D11B
+- expected_values:
+    EXPLORER_OAR: -0.55548
+  response: 7E8056203E8DC73
+- expected_values:
+    EXPLORER_OAR: -0.55017
+  response: 7E8056203E8DCCA
