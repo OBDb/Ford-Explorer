@@ -9,5 +9,5 @@ test_cases:
     EXPLORER_STFT: -12.5
   response: 7E80462F40670
 - expected_values:
-    EXPLORER_STFT: 7.03125
-  response: 7E80462F40689
+    EXPLORER_STFT: 11.71875
+  response: 7E80462F4068F
