@@ -271,7 +271,7 @@
   ]},
 { "hdr": "760", "rax": "768", "cmd": {"22": "DD01"}, "freq": 5, "dbgfilter": { "to": 2010, "years": [2012, 2013, 2015, 2016, 2017, 2018, 2019, 2020, 2021, 2022, 2023, 2024], "from": 2027 },
   "signals": [
-    {"id": "EXPLORER_ABS_ODO", "path": "Trips", "fmt": { "len": 24, "max": 16777215, "unit": "kilometers" }, "name": "Odometer, brake module", "suggestedMetric": "odometer"}
+    {"id": "EXPLORER_ABS_ODO", "path": "Trips", "fmt": { "len": 24, "max": 16777215, "nullmax": 16777215, "unit": "kilometers" }, "name": "Odometer, brake module", "suggestedMetric": "odometer"}
   ]},
 { "hdr": "7C7", "dbg": true, "cmd": {"22": "99AB"}, "freq": 5,
   "signals": [
@@ -1144,7 +1144,7 @@
   ]},
 { "hdr": "7E0", "rax": "7E8", "cmd": {"22": "F443"}, "freq": 0.5, "dbgfilter": { "to": 2010, "years": [2012, 2013, 2015, 2017, 2018, 2019, 2021, 2023], "from": 2027 },
   "signals": [
-    {"id": "EXPLORER_ENG_LOAD_ACT", "path": "Engine", "fmt": { "len": 16, "max": 25700, "mul": 100, "div": 255, "unit": "percent" }, "name": "Engine load, actual", "suggestedMetric": "engineLoad"}
+    {"id": "EXPLORER_ENG_LOAD_ACT", "path": "Engine", "fmt": { "len": 16, "max": 25700, "mul": 100, "div": 255, "unit": "percent" }, "name": "Engine load, actual", "suggestedMetric": "absoluteEngineLoad"}
   ]},
 { "hdr": "7E0", "rax": "7E8", "cmd": {"22": "F446"}, "freq": 5, "dbgfilter": { "to": 2010, "years": [2012, 2013, 2015, 2017, 2018, 2019, 2021, 2023], "from": 2027 },
   "signals": [
