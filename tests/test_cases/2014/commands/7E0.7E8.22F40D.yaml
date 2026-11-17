@@ -6,6 +6,16 @@ test_cases:
     22F40D
     7E80462F40D00
 - expected_values:
+    EXPLORER_VSS: 57
+  response: |-
+    22F40D1
+    7E80462F40D39
+- expected_values:
+    EXPLORER_VSS: 68
+  response: |-
+    22F40D1
+    7E80462F40D44
+- expected_values:
     EXPLORER_VSS: 0
   response: 7E80462F40D00
 - expected_values:

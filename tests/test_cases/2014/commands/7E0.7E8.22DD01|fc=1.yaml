@@ -1,11 +1,16 @@
 command_id: 7E0.7E8.22DD01|fc=1
 test_cases:
 - expected_values:
+    EXPLORER_ODO: 211725
+  response: |-
+    22DD011
+    7E80662DD01033B0D
+- expected_values:
     EXPLORER_ODO: 211209
   response: 7E80662DD01033909
 - expected_values:
-    EXPLORER_ODO: 211467
-  response: 7E80662DD01033A0B
-- expected_values:
     EXPLORER_ODO: 211711
   response: 7E80662DD01033AFF
+- expected_values:
+    EXPLORER_ODO: 211712
+  response: 7E80662DD01033B00

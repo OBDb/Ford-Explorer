@@ -6,6 +6,16 @@ test_cases:
     22402A
     72E0462402A97
 - expected_values:
+    EXPLORER_VEH_BAT_V: 13.8
+  response: |-
+    22402A
+    72E0462402A9C
+- expected_values:
+    EXPLORER_VEH_BAT_V: 13.3
+  response: |-
+    22402A1
+    72E0462402A92
+- expected_values:
     EXPLORER_VEH_BAT_V: 10.35
   response: 72E0462402A57
 - expected_values:
