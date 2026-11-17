@@ -1,4 +1,4 @@
-command_id: 726.72E.22423C
+command_id: 726.72E.22423C|f=2015-;-2010
 test_cases:
 - expected_values:
     EXPLORER_VEH_BAT_B_CURRENT: 1.125

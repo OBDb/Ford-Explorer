@@ -1,4 +1,4 @@
-command_id: 726.72E.224025
+command_id: 726.72E.224025|f=2015-;-2010
 test_cases:
 - expected_values:
     EXPLORER_BAT_QUIESCENT: 102
