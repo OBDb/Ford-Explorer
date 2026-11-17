@@ -6,6 +6,16 @@ test_cases:
     22F406
     7E80462F40686
 - expected_values:
+    EXPLORER_STFT: -7.03125
+  response: |-
+    22F4061
+    7E80462F40677
+- expected_values:
+    EXPLORER_STFT: 0.78125
+  response: |-
+    22F4061
+    7E80462F40681
+- expected_values:
     EXPLORER_STFT: -12.5
   response: 7E80462F40670
 - expected_values:

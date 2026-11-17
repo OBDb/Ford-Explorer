@@ -6,6 +6,11 @@ test_cases:
     222815
     72E0562281502A0
 - expected_values:
+    EXPLORER_TP_RR: 34.5
+  response: |-
+    2228151
+    72E0562281502B2
+- expected_values:
     EXPLORER_TP_RR: 31.25
   response: '72E056228150271'
 - expected_values:
