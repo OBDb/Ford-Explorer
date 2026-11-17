@@ -1,8 +1,8 @@
 command_id: 7E0.7E8.221E16
 test_cases:
 - expected_values:
-    EXPLORER_AXLE_GEAR_RATIO_MEAS: 0.68872
-  response: 7E805621E160B05
+    EXPLORER_AXLE_GEAR_RATIO_MEAS: 0.63574
+  response: 7E805621E160A2C
 - expected_values:
     EXPLORER_AXLE_GEAR_RATIO_MEAS: 0.99976
   response: 7E805621E160FFF
