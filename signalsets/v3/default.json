@@ -95,7 +95,7 @@
   "signals": [
     {"id": "EXPLORER_NORM_CUM_DCHG_BAT_ON", "path": "Battery", "fmt": { "len": 16, "max": 6553.5, "div": 10, "unit": "scalar" }, "name": "Normalized cumulative discharge from battery with engine on"}
   ]},
-{ "hdr": "726", "rax": "72E", "cmd": {"22": "4025"}, "freq": 1, "dbgfilter": { "to": 2015, "years": [2017, 2018, 2019, 2021, 2023], "from": 2027 },
+{ "hdr": "726", "rax": "72E", "cmd": {"22": "4025"}, "freq": 1, "filter": { "to": 2010, "from": 2015 }, "dbgfilter": { "to": 2015, "years": [2017, 2018, 2019, 2021, 2023], "from": 2027 },
   "signals": [
     {"id": "EXPLORER_BAT_QUIESCENT", "path": "Battery", "fmt": { "len": 16, "max": 31767.5, "min": -1000, "div": 2, "add": -1000, "unit": "milliamps" }, "name": "Battery quiescent current, low range"}
   ]},
@@ -150,7 +150,7 @@
     {"id": "EXPLORER_BAT_T_TOO_LOW_AUTO",   "path": "Battery", "fmt": {"bix": 13, "len": 1, "max": 1, "unit": "offon" }, "name": "Battery temperature too low for auto stop"},
     {"id": "EXPLORER_BAT_REFRESH_CYCLE",    "path": "Battery", "fmt": {"bix": 14, "len": 1, "max": 1, "unit": "offon" }, "name": "Battery refresh cycle in progress for start/stop"}
   ]},
-{ "hdr": "726", "rax": "72E", "cmd": {"22": "41E8"}, "freq": 1, "dbgfilter": { "to": 2015, "years": [2017, 2018, 2019, 2021, 2023], "from": 2027 },
+{ "hdr": "726", "rax": "72E", "cmd": {"22": "41E8"}, "freq": 1, "filter": { "to": 2010, "from": 2015 }, "dbgfilter": { "to": 2015, "years": [2017, 2018, 2019, 2021, 2023], "from": 2027 },
   "signals": [
     {"id": "EXPLORER_VEH_BAT_B_V", "path": "Battery", "fmt": { "len": 8, "max": 18.75, "min": 6, "div": 20, "add": 6, "unit": "volts" }, "name": "Second battery voltage"}
   ]},
@@ -158,11 +158,11 @@
   "signals": [
     {"id": "EXPLORER_BAT_CURRENT", "path": "Battery", "fmt": { "len": 24, "max": 2097151.75, "min": -2097152, "div": 4, "sign": true, "unit": "amps" }, "name": "Battery current, predicted"}
   ]},
-{ "hdr": "726", "rax": "72E", "cmd": {"22": "420A"}, "freq": 1, "dbgfilter": { "to": 2015, "years": [2017, 2018, 2019, 2021, 2023], "from": 2027 },
+{ "hdr": "726", "rax": "72E", "cmd": {"22": "420A"}, "freq": 1, "filter": { "to": 2010, "from": 2015 }, "dbgfilter": { "to": 2015, "years": [2017, 2018, 2019, 2021, 2023], "from": 2027 },
   "signals": [
     {"id": "EXPLORER_BAT_ST_DETECTION", "path": "Battery", "fmt": { "len": 8, "max": 255, "unit": "scalar" }, "name": "Battery state detection status"}
   ]},
-{ "hdr": "726", "rax": "72E", "cmd": {"22": "423C"}, "freq": 1, "dbgfilter": { "to": 2015, "years": [2017, 2018, 2019, 2021, 2023], "from": 2027 },
+{ "hdr": "726", "rax": "72E", "cmd": {"22": "423C"}, "freq": 1, "filter": { "to": 2010, "from": 2015 }, "dbgfilter": { "to": 2015, "years": [2017, 2018, 2019, 2021, 2023], "from": 2027 },
   "signals": [
     {"id": "EXPLORER_VEH_BAT_B_CURRENT", "path": "Battery", "fmt": { "len": 16, "max": 1023.96, "min": -1024, "div": 32, "sign": true, "unit": "amps" }, "name": "Second battery current"}
   ]},
