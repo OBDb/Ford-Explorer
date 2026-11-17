@@ -1,8 +1,8 @@
 command_id: 7E0.7E8.224194
 test_cases:
 - expected_values:
-    EXPLORER_DTE: 382.4
-  response: 7E8056241940EF0
+    EXPLORER_DTE: 116
+  response: '7E8056241940488'
 - expected_values:
     EXPLORER_DTE: 383
   response: 7E8056241940EF6

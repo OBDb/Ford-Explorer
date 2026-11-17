@@ -6,3 +6,6 @@ test_cases:
 - expected_values:
     EXPLORER_PCM_VEH_ODO: 116705
   response: 7E80762F4A60011CECA
+- expected_values:
+    EXPLORER_PCM_VEH_ODO: 117764.3
+  response: 7E80762F4A60011F82B
