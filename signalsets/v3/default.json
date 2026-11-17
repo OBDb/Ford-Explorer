@@ -79,11 +79,11 @@
   "signals": [
     {"id": "EXPLORER_TP_RL", "path": "Tires", "fmt": { "len": 16, "max": 255, "div": 20, "unit": "psi" }, "name": "Rear left tire pressure", "suggestedMetric": "rearLeftTirePressure"}
   ]},
-{ "hdr": "726", "rax": "72E", "cmd": {"22": "2817"}, "freq": 5, "dbgfilter": { "to": 2010, "years": [2012], "from": 2027 },
+{ "hdr": "726", "rax": "72E", "dbg": true, "cmd": {"22": "2817"}, "freq": 5,
   "signals": [
     {"id": "EXPLORER_TP_RRI", "path": "Tires", "fmt": { "len": 16, "max": 150, "div": 20, "nullmin": 0, "nullmax": 150, "unit": "psi" }, "name": "Rear right inner tire pressure"}
   ]},
-{ "hdr": "726", "rax": "72E", "cmd": {"22": "2818"}, "freq": 5, "dbgfilter": { "to": 2010, "years": [2012], "from": 2027 },
+{ "hdr": "726", "rax": "72E", "dbg": true, "cmd": {"22": "2818"}, "freq": 5,
   "signals": [
     {"id": "EXPLORER_TP_RLI", "path": "Tires", "fmt": { "len": 16, "max": 150, "div": 20, "nullmin": 0, "nullmax": 150, "unit": "psi" }, "name": "Rear left inner tire pressure"}
   ]},
@@ -269,7 +269,7 @@
   "signals": [
     {"id": "EXPLORER_ABS_LATERAL_ACCEL", "path": "Control", "fmt": { "len": 16, "max": 1310.7, "div": 50, "unit": "gravity" }, "name": "Anti-lock brake lateral acceleration"}
   ]},
-{ "hdr": "760", "rax": "768", "cmd": {"22": "DD01"}, "freq": 5, "dbgfilter": { "to": 2010, "years": [2012, 2013, 2015, 2016, 2017, 2018, 2019, 2020, 2021, 2022, 2023, 2024], "from": 2027 },
+{ "hdr": "760", "rax": "768", "cmd": {"22": "DD01"}, "freq": 5, "dbgfilter": { "to": 2024, "from": 2027 },
   "signals": [
     {"id": "EXPLORER_ABS_ODO", "path": "Trips", "fmt": { "len": 24, "max": 16777215, "nullmax": 16777215, "unit": "kilometers" }, "name": "Odometer, brake module", "suggestedMetric": "odometer"}
   ]},
