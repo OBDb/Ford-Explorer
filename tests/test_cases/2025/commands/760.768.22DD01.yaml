@@ -7,8 +7,8 @@ test_cases:
     EXPLORER_ABS_ODO: 20735
   response: 7680662DD010050FF
 - expected_values:
-    EXPLORER_ABS_ODO: 23040
-  response: 7680662DD01005A00
+    EXPLORER_ABS_ODO: 23296
+  response: 7680662DD01005B00
 - expected_values:
     EXPLORER_ABS_ODO: 67034
   response: 7680662DD010105DA
