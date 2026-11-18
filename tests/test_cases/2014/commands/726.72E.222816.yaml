@@ -11,8 +11,8 @@ test_cases:
     2228161
     72E0562281602C1
 - expected_values:
-    EXPLORER_TP_RL: 32.85
-  response: '72E056228160291'
+    EXPLORER_TP_RL: 32.75
+  response: 72E05622816028F
 - expected_values:
     EXPLORER_TP_RL: 36.25
   response: 72E0562281602D5
