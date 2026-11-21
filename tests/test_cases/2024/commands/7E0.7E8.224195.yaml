@@ -10,5 +10,5 @@ test_cases:
     EXPLORER_DTE_DISP: 281.6
   response: 7E8056241950B00
 - expected_values:
-    EXPLORER_DTE_DISP: 409.9
-  response: '7E8056241951003'
+    EXPLORER_DTE_DISP: 666.3
+  response: 7E8056241951A07
